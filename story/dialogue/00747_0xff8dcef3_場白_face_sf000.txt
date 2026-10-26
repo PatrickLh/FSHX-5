@@ -1,0 +1,120 @@
+0xff8dcef3 場白 face\sf0001.ant
+0xff8dcef3 艾因 face\sf0001.ant
+0xfff4abcf 莉可 face\sf0002.ant
+0xfff4abcf 希亞 face\sf0003.ant
+0xfff4abcf 梅魯 face\sf0004.ant
+0xfff4abcf 可麗兒 face\sf0005.ant
+0xfff4abcf 可麗兒 face\sf0006.ant
+0xff8dcef3 費特 face\sf0007.ant
+0xfff4abcf 幽墜 face\sf0008.ant
+0xfff4abcf 碧 face\sf0009a.ant
+0xfff4abcf 帕蕾莉雅 face\sf0010.ant
+0xfff4abcf 帕蕾莉雅 face\sf0011.ant
+0xff8dcef3 西札爾 face\sf0012.ant
+0xfff4abcf 蓋亞 face\sf0014a.ant
+0xfff4abcf 蓋亞 face\sf0014b.ant
+0xfff4abcf 史緹菈 face\sf0015.ant
+0xff8dcef3 雷斯特 face\sf0016.ant
+0xff8dcef3 憐 face\sf0017.ant
+0xff8dcef3 潘格泥 face\sf0018.ant
+0xff8dcef3 亞特拉斯 face\sf0019.ant
+0xfff4abcf 八月 face\sf0020.ant
+0xfff4abcf 莉啞 face\sf0021.ant
+0xff8dcef3 克羅諾斯 face\sf0028a.ant
+0xff8dcef3 克羅諾斯 face\sf0028b.ant
+0xff8dcef3 杜魯門諾 face\sf0030.ant
+0xff8dcef3 韓德爾 face\sf0080.ant
+0xfff4abcf 莎 face\sf0081.ant
+0xfff4abcf 艾夏 face\sf0061.ant
+0xfff4abcf 艾夏 face\sf0082b.ant
+0xff8dcef3 華格那 face\sf0083.ant
+0xff8dcef3 烏拉諾斯 face\sf0084.ant
+0xfff4abcf 笛敏特 face\sf0085.ant
+0xff8dcef3 蓋洛 face\sf0086.ant
+0xfff4abcf 法伊娜 face\sf0087.ant
+0xff8dcef3 馬其頓 face\sf0088.ant
+0xfff4abcf 莉莉耶 face\sf0089.ant
+0xff8dcef3 諾維 face\sf0090.ant
+0xff8dcef3 傑 face\sf0091a.ant
+0xfff4abcf 潔 face\sf0091b.ant
+0xfff4abcf 愛琳 face\sf0092.ant
+0xfff4abcf 安蒂 face\sf0093.ant
+0xff8dcef3 斯魯多 face\sf0094.ant
+0xff8dcef3 尼爾 face\sf0095.ant
+0xff8dcef3 漢克 face\sf0096.ant
+0xff8dcef3 甘普 face\sf0097.ant
+0xfff4abcf 塔莉塔莉 face\sf0099.ant
+0xfff4abcf 黑百合 face\sf0100.ant
+0xfff4abcf 凱蒂 face\sf0101.ant
+0xfff4abcf 魔恩 face\sf0102.ant
+0xfff4abcf 亞歲 face\sf0108.ant
+0xfff4abcf 賽依雅 face\sf0109.ant
+0xfff4abcf 艾瑪 face\sf0110.ant
+0xfff4abcf 榭菈 face\sf0111.ant
+0xfff4abcf 哈貝魯卡 face\sf0666.ant
+0xfff4abcf 荻菈 face\sf0777.ant
+0xff8dcef3 席格 face\sf0072.ant
+0xfff4abcf 賽連 face\sf0026.ant
+0xff8dcef3 阿努比斯 face\sf0029.ant
+0xff8dcef3 海盜 face\sf0067.ant
+0xff8dcef3 聯邦兵 face\sf0068.ant
+0xff8dcef3 彌賽亞兵 face\sf0078.ant
+0xff8dcef3 晶耀正規兵 face\sf0077.ant
+0xff8dcef3 聖堂守軍 face\sf0076.ant
+0xff8dcef3 暴牙 face\sf0052.ant
+0xfff4abcf 小奈 face\sf0060.ant
+0xff8dcef3 黑輪 face\sf0050.ant
+0xff8dcef3 盜賊 face\sf0067.ant
+0xfff4abcf 碧 face\sf0009b.ant
+0xfff4abcf 瓊安 face\sf0113.ant
+0xfff4abcf 茱莉葉特 face\sf0114.ant
+0xfff4abcf 諾維 face\sf0090a.ant
+0xff8dcef3 暗殺喵 face\sf0050.ant
+0xff8dcef3 工程地鼠 face\sf0050.ant
+0xff8dcef3 雷蒙特 face\sf0083.ant
+0xfff4abcf 瑟莉絲 face\sf0005.ant
+0xff8dcef3 盜賊 face\sf0067.ant
+0xff8dcef3 醫生 face\sf0067.ant
+0xfff4abcf ？？ face\sf0002.ant
+0xfff4abcf 依協莉絲 face\sf0002.ant
+0xff8dcef3 喬伊 face\sf0001.ant
+0xff8dcef3 小孩 face\sf0001.ant
+0xfff4abcf 塔莉（？） face\sf0099.ant
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 ？？？ face\sf0001.ant
+0xfff4abcf ？？？ face\sf0001.ant
+0xff8dcef3 眾人 face\sf0001.ant
+0xff8dcef3 鎮民 face\sf0001.ant
+0xfff4abcf 鎮民 face\sf0001.ant
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 保留
+0xff8dcef3 彌賽亞衛兵 face\sf0078.ant
+0xff8dcef3 陽光般的少年 face\sf0112a.ant
+0xff8dcef3 小男孩 face\sf0112b.ant
+0xff8dcef3 當服務生的男性 face\sf0112c.ant
+0xff8dcef3 看似輕浮的男子 face\sf0112d.ant
+0xff8dcef3 看守燈塔的長者 face\sf0112e.ant
+0xff8dcef3 沉穩的智者 face\sf0112f.ant
+0xfff4abcf 陽光般的少女 face\sf0112g.ant
+0xfff4abcf 小女孩 face\sf0112h.ant
+0xfff4abcf 端莊的女仕 face\sf0112i.ant
