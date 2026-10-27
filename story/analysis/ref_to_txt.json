@@ -1,0 +1,1122 @@
+{
+ "GetDialogue0100.txt": {
+  "txt": 813,
+  "offset": 1,
+  "cost": 0,
+  "cited": 11,
+  "txtShowable": 11
+ },
+ "StoryDialogue0001.txt": {
+  "txt": 753,
+  "offset": 0,
+  "cost": 0,
+  "cited": 122,
+  "txtShowable": 122
+ },
+ "StoryDialogue0005.txt": {
+  "txt": 757,
+  "offset": 0,
+  "cost": 0,
+  "cited": 125,
+  "txtShowable": 125
+ },
+ "StoryDialogue0006.txt": {
+  "txt": 889,
+  "offset": 0,
+  "cost": 0,
+  "cited": 82,
+  "txtShowable": 82
+ },
+ "StoryDialogue0103.txt": {
+  "txt": 761,
+  "offset": 0,
+  "cost": 0,
+  "cited": 102,
+  "txtShowable": 102
+ },
+ "StoryDialogue0105.txt": {
+  "txt": 763,
+  "offset": 0,
+  "cost": 0,
+  "cited": 150,
+  "txtShowable": 150
+ },
+ "StoryDialogue0106.txt": {
+  "txt": 764,
+  "offset": 0,
+  "cost": 0,
+  "cited": 111,
+  "txtShowable": 111
+ },
+ "StoryDialogue0107.txt": {
+  "txt": 765,
+  "offset": 0,
+  "cost": 0,
+  "cited": 149,
+  "txtShowable": 149
+ },
+ "StoryDialogue0110.txt": {
+  "txt": 768,
+  "offset": 0,
+  "cost": 0,
+  "cited": 92,
+  "txtShowable": 92
+ },
+ "StoryDialogue0112.txt": {
+  "txt": 756,
+  "offset": 0,
+  "cost": 0,
+  "cited": 141,
+  "txtShowable": 141
+ },
+ "StoryDialogue0113.txt": {
+  "txt": 780,
+  "offset": 0,
+  "cost": 0,
+  "cited": 78,
+  "txtShowable": 78
+ },
+ "StoryDialogue0201.txt": {
+  "txt": 1926,
+  "offset": 1,
+  "cost": 0,
+  "cited": 18,
+  "txtShowable": 18
+ },
+ "StoryDialogue0202.txt": {
+  "txt": 787,
+  "offset": 1,
+  "cost": 0,
+  "cited": 19,
+  "txtShowable": 19
+ },
+ "StoryDialogue0203.txt": {
+  "txt": 773,
+  "offset": 1,
+  "cost": 0,
+  "cited": 20,
+  "txtShowable": 20
+ },
+ "StoryDialogue0204.txt": {
+  "txt": 815,
+  "offset": 1,
+  "cost": 0,
+  "cited": 11,
+  "txtShowable": 11
+ },
+ "StoryDialogue0208.txt": {
+  "txt": 909,
+  "offset": 1,
+  "cost": 0,
+  "cited": 52,
+  "txtShowable": 52
+ },
+ "StoryDialogue0209.txt": {
+  "txt": 824,
+  "offset": 1,
+  "cost": 0,
+  "cited": 41,
+  "txtShowable": 41
+ },
+ "StoryDialogue0212.txt": {
+  "txt": 826,
+  "offset": 1,
+  "cost": 0,
+  "cited": 7,
+  "txtShowable": 7
+ },
+ "StoryDialogue0214.txt": {
+  "txt": 920,
+  "offset": 1,
+  "cost": 0,
+  "cited": 11,
+  "txtShowable": 11
+ },
+ "StoryDialogue0216.txt": {
+  "txt": 788,
+  "offset": 1,
+  "cost": 0,
+  "cited": 4,
+  "txtShowable": 4
+ },
+ "StoryDialogue0223.txt": {
+  "txt": 818,
+  "offset": 1,
+  "cost": 0,
+  "cited": 4,
+  "txtShowable": 4
+ },
+ "StoryDialogue0228.txt": {
+  "txt": 874,
+  "offset": 1,
+  "cost": 0,
+  "cited": 4,
+  "txtShowable": 4
+ },
+ "StoryDialogue0230.txt": {
+  "txt": 928,
+  "offset": 1,
+  "cost": 0,
+  "cited": 4,
+  "txtShowable": 4
+ },
+ "StoryDialogue0301.txt": {
+  "txt": 849,
+  "offset": 1,
+  "cost": 0,
+  "cited": 19,
+  "txtShowable": 19
+ },
+ "StoryDialogue0302.txt": {
+  "txt": 1000,
+  "offset": 1,
+  "cost": 0,
+  "cited": 4,
+  "txtShowable": 4
+ },
+ "StoryDialogue0303.txt": {
+  "txt": 1021,
+  "offset": 1,
+  "cost": 0,
+  "cited": 4,
+  "txtShowable": 4
+ },
+ "StoryDialogue0304.txt": {
+  "txt": 868,
+  "offset": 1,
+  "cost": 0,
+  "cited": 9,
+  "txtShowable": 9
+ },
+ "StoryDialogue0308.txt": {
+  "txt": 794,
+  "offset": 1,
+  "cost": 0,
+  "cited": 16,
+  "txtShowable": 16
+ },
+ "StoryDialogue0310.txt": {
+  "txt": 793,
+  "offset": 1,
+  "cost": 0,
+  "cited": 10,
+  "txtShowable": 10
+ },
+ "StoryDialogue0325.txt": {
+  "txt": 853,
+  "offset": 1,
+  "cost": 0,
+  "cited": 6,
+  "txtShowable": 6
+ },
+ "StoryDialogue0410.txt": {
+  "txt": 1023,
+  "offset": 1,
+  "cost": 0,
+  "cited": 4,
+  "txtShowable": 4
+ },
+ "StoryDialogue0427.txt": {
+  "txt": 786,
+  "offset": 1,
+  "cost": 0,
+  "cited": 5,
+  "txtShowable": 5
+ },
+ "StoryDialogue0505.txt": {
+  "txt": 784,
+  "offset": 1,
+  "cost": 0,
+  "cited": 13,
+  "txtShowable": 13
+ },
+ "StoryDialogue0507.txt": {
+  "txt": 883,
+  "offset": 1,
+  "cost": 0,
+  "cited": 13,
+  "txtShowable": 13
+ },
+ "StoryDialogue0509.txt": {
+  "txt": 751,
+  "offset": 1,
+  "cost": 0,
+  "cited": 47,
+  "txtShowable": 47
+ },
+ "StoryDialogue0512.txt": {
+  "txt": 782,
+  "offset": 1,
+  "cost": 0,
+  "cited": 8,
+  "txtShowable": 8
+ },
+ "StoryDialogue0514.txt": {
+  "txt": 914,
+  "offset": 1,
+  "cost": 0,
+  "cited": 34,
+  "txtShowable": 34
+ },
+ "StoryDialogue0522.txt": {
+  "txt": 879,
+  "offset": 1,
+  "cost": 0,
+  "cited": 9,
+  "txtShowable": 9
+ },
+ "StoryDialogue0523.txt": {
+  "txt": 963,
+  "offset": 1,
+  "cost": 0,
+  "cited": 11,
+  "txtShowable": 11
+ },
+ "StoryDialogue0524.txt": {
+  "txt": 835,
+  "offset": 1,
+  "cost": 0,
+  "cited": 8,
+  "txtShowable": 8
+ },
+ "StoryDialogue0525.txt": {
+  "txt": 855,
+  "offset": 1,
+  "cost": 0,
+  "cited": 14,
+  "txtShowable": 14
+ },
+ "StoryDialogue0526.txt": {
+  "txt": 796,
+  "offset": 1,
+  "cost": 0,
+  "cited": 67,
+  "txtShowable": 67
+ },
+ "StoryDialogue0528.txt": {
+  "txt": 801,
+  "offset": 1,
+  "cost": 0,
+  "cited": 16,
+  "txtShowable": 16
+ },
+ "StoryDialogue0529.txt": {
+  "txt": 748,
+  "offset": 1,
+  "cost": 0,
+  "cited": 12,
+  "txtShowable": 12
+ },
+ "StoryDialogue0530.txt": {
+  "txt": 992,
+  "offset": 1,
+  "cost": 0,
+  "cited": 70,
+  "txtShowable": 70
+ },
+ "StoryDialogue0703.txt": {
+  "txt": 791,
+  "offset": 1,
+  "cost": 0,
+  "cited": 33,
+  "txtShowable": 33
+ },
+ "StoryDialogue0706.txt": {
+  "txt": 991,
+  "offset": 1,
+  "cost": 0,
+  "cited": 8,
+  "txtShowable": 8
+ },
+ "StoryDialogue0709.txt": {
+  "txt": 807,
+  "offset": 1,
+  "cost": 0,
+  "cited": 10,
+  "txtShowable": 10
+ },
+ "StoryDialogue0714.txt": {
+  "txt": 827,
+  "offset": 1,
+  "cost": 0,
+  "cited": 27,
+  "txtShowable": 27
+ },
+ "StoryDialogue0715.txt": {
+  "txt": 1052,
+  "offset": 1,
+  "cost": 0,
+  "cited": 4,
+  "txtShowable": 4
+ },
+ "StoryDialogue0718.txt": {
+  "txt": 923,
+  "offset": 1,
+  "cost": 0,
+  "cited": 26,
+  "txtShowable": 26
+ },
+ "StoryDialogue0801.txt": {
+  "txt": 866,
+  "offset": 1,
+  "cost": 0,
+  "cited": 19,
+  "txtShowable": 19
+ },
+ "StoryDialogue0803.txt": {
+  "txt": 906,
+  "offset": 1,
+  "cost": 0,
+  "cited": 13,
+  "txtShowable": 13
+ },
+ "StoryDialogue0805.txt": {
+  "txt": 776,
+  "offset": 1,
+  "cost": 0,
+  "cited": 28,
+  "txtShowable": 28
+ },
+ "StoryDialogue0809.txt": {
+  "txt": 790,
+  "offset": 1,
+  "cost": 0,
+  "cited": 37,
+  "txtShowable": 37
+ },
+ "StoryDialogue0810.txt": {
+  "txt": 852,
+  "offset": 1,
+  "cost": 0,
+  "cited": 24,
+  "txtShowable": 24
+ },
+ "StoryDialogue0811.txt": {
+  "txt": 779,
+  "offset": 1,
+  "cost": 0,
+  "cited": 42,
+  "txtShowable": 42
+ },
+ "StoryDialogue0814.txt": {
+  "txt": 797,
+  "offset": 1,
+  "cost": 0,
+  "cited": 5,
+  "txtShowable": 5
+ },
+ "StoryDialogue0815.txt": {
+  "txt": 886,
+  "offset": 1,
+  "cost": 0,
+  "cited": 9,
+  "txtShowable": 9
+ },
+ "StoryDialogue0819.txt": {
+  "txt": 954,
+  "offset": 1,
+  "cost": 0,
+  "cited": 49,
+  "txtShowable": 49
+ },
+ "StoryDialogue0823.txt": {
+  "txt": 857,
+  "offset": 0,
+  "cost": 0,
+  "cited": 25,
+  "txtShowable": 25
+ },
+ "StoryDialogue0824.txt": {
+  "txt": 772,
+  "offset": 1,
+  "cost": 0,
+  "cited": 21,
+  "txtShowable": 21
+ },
+ "StoryDialogueEx0201.txt": {
+  "txt": 804,
+  "offset": 0,
+  "cost": 0,
+  "cited": 113,
+  "txtShowable": 113
+ },
+ "StoryDialogueEx0202.txt": {
+  "txt": 778,
+  "offset": 0,
+  "cost": 0,
+  "cited": 53,
+  "txtShowable": 53
+ },
+ "StoryDialogueEx0204.txt": {
+  "txt": 957,
+  "offset": 1,
+  "cost": 0,
+  "cited": 34,
+  "txtShowable": 34
+ },
+ "StoryDialogueEx0301.txt": {
+  "txt": 837,
+  "offset": 1,
+  "cost": 0,
+  "cited": 7,
+  "txtShowable": 7
+ },
+ "StoryDialogueEx0302.txt": {
+  "txt": 1020,
+  "offset": 1,
+  "cost": 0,
+  "cited": 11,
+  "txtShowable": 11
+ },
+ "StoryDialogueEx0306.txt": {
+  "txt": 861,
+  "offset": 1,
+  "cost": 0,
+  "cited": 14,
+  "txtShowable": 14
+ },
+ "StoryDialogueEx0308.txt": {
+  "txt": 805,
+  "offset": 1,
+  "cost": 0,
+  "cited": 20,
+  "txtShowable": 20
+ },
+ "StoryDialogueEx0314.txt": {
+  "txt": 900,
+  "offset": 1,
+  "cost": 0,
+  "cited": 44,
+  "txtShowable": 44
+ },
+ "StoryDialogueEx0317.txt": {
+  "txt": 775,
+  "offset": 1,
+  "cost": 0,
+  "cited": 12,
+  "txtShowable": 12
+ },
+ "StoryDialogueEx0318.txt": {
+  "txt": 863,
+  "offset": 1,
+  "cost": 0,
+  "cited": 14,
+  "txtShowable": 14
+ },
+ "StoryDialogueEx0405.txt": {
+  "txt": 930,
+  "offset": 1,
+  "cost": 0,
+  "cited": 20,
+  "txtShowable": 20
+ },
+ "StoryDialogueEx0801.txt": {
+  "txt": 939,
+  "offset": 1,
+  "cost": 0,
+  "cited": 25,
+  "txtShowable": 25
+ },
+ "StoryDialogueEx0802.txt": {
+  "txt": 774,
+  "offset": 1,
+  "cost": 0,
+  "cited": 21,
+  "txtShowable": 21
+ },
+ "StoryDialogueEx0814.txt": {
+  "txt": 908,
+  "offset": 1,
+  "cost": 0,
+  "cited": 30,
+  "txtShowable": 30
+ },
+ "StoryDialogueEx0815.txt": {
+  "txt": 878,
+  "offset": 1,
+  "cost": 0,
+  "cited": 12,
+  "txtShowable": 12
+ },
+ "StoryDialogueEx0903.txt": {
+  "txt": 845,
+  "offset": 1,
+  "cost": 0,
+  "cited": 46,
+  "txtShowable": 46
+ },
+ "StoryDialogue0002.txt": {
+  "txt": 754,
+  "offset": 0,
+  "cost": 1,
+  "cited": 100,
+  "txtShowable": 101
+ },
+ "StoryDialogue0003.txt": {
+  "txt": 755,
+  "offset": 0,
+  "cost": 1,
+  "cited": 102,
+  "txtShowable": 103
+ },
+ "StoryDialogue0004.txt": {
+  "txt": 770,
+  "offset": 0,
+  "cost": 1,
+  "cited": 140,
+  "txtShowable": 141
+ },
+ "StoryDialogue0101.txt": {
+  "txt": 759,
+  "offset": 0,
+  "cost": 1,
+  "cited": 128,
+  "txtShowable": 129
+ },
+ "StoryDialogue0102.txt": {
+  "txt": 760,
+  "offset": 0,
+  "cost": 1,
+  "cited": 107,
+  "txtShowable": 108
+ },
+ "StoryDialogue0109.txt": {
+  "txt": 1041,
+  "offset": 1,
+  "cost": 1,
+  "cited": 103,
+  "txtShowable": 104
+ },
+ "StoryDialogue0205.txt": {
+  "txt": 851,
+  "offset": 1,
+  "cost": 1,
+  "cited": 26,
+  "txtShowable": 27
+ },
+ "StoryDialogue0207.txt": {
+  "txt": 844,
+  "offset": 1,
+  "cost": 1,
+  "cited": 21,
+  "txtShowable": 22
+ },
+ "StoryDialogue0219.txt": {
+  "txt": 902,
+  "offset": 1,
+  "cost": 1,
+  "cited": 27,
+  "txtShowable": 28
+ },
+ "StoryDialogue0222.txt": {
+  "txt": 802,
+  "offset": 1,
+  "cost": 1,
+  "cited": 31,
+  "txtShowable": 32
+ },
+ "StoryDialogue0225.txt": {
+  "txt": 917,
+  "offset": 1,
+  "cost": 1,
+  "cited": 8,
+  "txtShowable": 9
+ },
+ "StoryDialogue0235.txt": {
+  "txt": 880,
+  "offset": 1,
+  "cost": 1,
+  "cited": 14,
+  "txtShowable": 15
+ },
+ "StoryDialogue0306.txt": {
+  "txt": 887,
+  "offset": 1,
+  "cost": 1,
+  "cited": 40,
+  "txtShowable": 41
+ },
+ "StoryDialogue0311.txt": {
+  "txt": 1033,
+  "offset": 1,
+  "cost": 1,
+  "cited": 15,
+  "txtShowable": 16
+ },
+ "StoryDialogue0312.txt": {
+  "txt": 820,
+  "offset": 1,
+  "cost": 1,
+  "cited": 9,
+  "txtShowable": 10
+ },
+ "StoryDialogue0317.txt": {
+  "txt": 1004,
+  "offset": 1,
+  "cost": 1,
+  "cited": 7,
+  "txtShowable": 8
+ },
+ "StoryDialogue0328.txt": {
+  "txt": 911,
+  "offset": 1,
+  "cost": 1,
+  "cited": 36,
+  "txtShowable": 37
+ },
+ "StoryDialogue0414.txt": {
+  "txt": 956,
+  "offset": 1,
+  "cost": 1,
+  "cited": 19,
+  "txtShowable": 20
+ },
+ "StoryDialogue0425.txt": {
+  "txt": 1035,
+  "offset": 1,
+  "cost": 1,
+  "cited": 25,
+  "txtShowable": 26
+ },
+ "StoryDialogue0426.txt": {
+  "txt": 952,
+  "offset": 1,
+  "cost": 1,
+  "cited": 21,
+  "txtShowable": 22
+ },
+ "StoryDialogue0429.txt": {
+  "txt": 910,
+  "offset": 1,
+  "cost": 1,
+  "cited": 12,
+  "txtShowable": 13
+ },
+ "StoryDialogue0510.txt": {
+  "txt": 798,
+  "offset": 1,
+  "cost": 1,
+  "cited": 18,
+  "txtShowable": 17
+ },
+ "StoryDialogue0513.txt": {
+  "txt": 1047,
+  "offset": 1,
+  "cost": 1,
+  "cited": 25,
+  "txtShowable": 26
+ },
+ "StoryDialogue0521.txt": {
+  "txt": 1059,
+  "offset": 1,
+  "cost": 1,
+  "cited": 30,
+  "txtShowable": 31
+ },
+ "StoryDialogue0532.txt": {
+  "txt": 925,
+  "offset": 1,
+  "cost": 1,
+  "cited": 27,
+  "txtShowable": 28
+ },
+ "StoryDialogue0533.txt": {
+  "txt": 1018,
+  "offset": 1,
+  "cost": 1,
+  "cited": 7,
+  "txtShowable": 8
+ },
+ "StoryDialogue0621.txt": {
+  "txt": 919,
+  "offset": 1,
+  "cost": 1,
+  "cited": 11,
+  "txtShowable": 12
+ },
+ "StoryDialogue0629.txt": {
+  "txt": 922,
+  "offset": 1,
+  "cost": 1,
+  "cited": 11,
+  "txtShowable": 12
+ },
+ "StoryDialogue0804.txt": {
+  "txt": 806,
+  "offset": 0,
+  "cost": 1,
+  "cited": 4,
+  "txtShowable": 5
+ },
+ "StoryDialogue0807.txt": {
+  "txt": 847,
+  "offset": 1,
+  "cost": 1,
+  "cited": 85,
+  "txtShowable": 86
+ },
+ "StoryDialogue0813.txt": {
+  "txt": 1019,
+  "offset": 1,
+  "cost": 1,
+  "cited": 11,
+  "txtShowable": 12
+ },
+ "StoryDialogue0818.txt": {
+  "txt": 750,
+  "offset": 1,
+  "cost": 1,
+  "cited": 55,
+  "txtShowable": 54
+ },
+ "StoryDialogue0820.txt": {
+  "txt": 932,
+  "offset": 1,
+  "cost": 1,
+  "cited": 13,
+  "txtShowable": 14
+ },
+ "StoryDialogue0856.txt": {
+  "txt": 749,
+  "offset": 1,
+  "cost": 1,
+  "cited": 56,
+  "txtShowable": 57
+ },
+ "StoryDialogue0872.txt": {
+  "txt": 1026,
+  "offset": 1,
+  "cost": 1,
+  "cited": 8,
+  "txtShowable": 9
+ },
+ "StoryDialogue0874.txt": {
+  "txt": 970,
+  "offset": 1,
+  "cost": 1,
+  "cited": 21,
+  "txtShowable": 22
+ },
+ "StoryDialogue0908.txt": {
+  "txt": 901,
+  "offset": 1,
+  "cost": 1,
+  "cited": 44,
+  "txtShowable": 45
+ },
+ "StoryDialogue0910.txt": {
+  "txt": 836,
+  "offset": 1,
+  "cost": 1,
+  "cited": 71,
+  "txtShowable": 72
+ },
+ "StoryDialogue0911.txt": {
+  "txt": 841,
+  "offset": 1,
+  "cost": 1,
+  "cited": 4,
+  "txtShowable": 5
+ },
+ "StoryDialogue0924.txt": {
+  "txt": 1065,
+  "offset": 1,
+  "cost": 1,
+  "cited": 11,
+  "txtShowable": 12
+ },
+ "StoryDialogue0930.txt": {
+  "txt": 893,
+  "offset": 1,
+  "cost": 1,
+  "cited": 18,
+  "txtShowable": 19
+ },
+ "StoryDialogueEx0304.txt": {
+  "txt": 877,
+  "offset": 1,
+  "cost": 1,
+  "cited": 9,
+  "txtShowable": 10
+ },
+ "StoryDialogueEx0312.txt": {
+  "txt": 926,
+  "offset": 0,
+  "cost": 1,
+  "cited": 4,
+  "txtShowable": 5
+ },
+ "StoryDialogueEx0319.txt": {
+  "txt": 949,
+  "offset": 1,
+  "cost": 1,
+  "cited": 14,
+  "txtShowable": 15
+ },
+ "StoryDialogueEx0401.txt": {
+  "txt": 1056,
+  "offset": 1,
+  "cost": 1,
+  "cited": 25,
+  "txtShowable": 26
+ },
+ "StoryDialogueEx0404.txt": {
+  "txt": 870,
+  "offset": 1,
+  "cost": 1,
+  "cited": 34,
+  "txtShowable": 35
+ },
+ "StoryDialogueEx0804.txt": {
+  "txt": 933,
+  "offset": 0,
+  "cost": 1,
+  "cited": 4,
+  "txtShowable": 5
+ },
+ "StoryDialogueEx0805.txt": {
+  "txt": 891,
+  "offset": 1,
+  "cost": 1,
+  "cited": 7,
+  "txtShowable": 6
+ },
+ "StoryDialogueEx0806.txt": {
+  "txt": 943,
+  "offset": 1,
+  "cost": 1,
+  "cited": 7,
+  "txtShowable": 6
+ },
+ "StoryDialogueEx0810.txt": {
+  "txt": 1049,
+  "offset": 0,
+  "cost": 1,
+  "cited": 4,
+  "txtShowable": 5
+ },
+ "StoryDialogueEx0816.txt": {
+  "txt": 799,
+  "offset": 1,
+  "cost": 1,
+  "cited": 57,
+  "txtShowable": 58
+ },
+ "StoryDialogueEx0817.txt": {
+  "txt": 940,
+  "offset": 1,
+  "cost": 1,
+  "cited": 42,
+  "txtShowable": 43
+ },
+ "StoryDialogueEx0820.txt": {
+  "txt": 944,
+  "offset": 1,
+  "cost": 1,
+  "cited": 11,
+  "txtShowable": 10
+ },
+ "StoryDialogueEx0902.txt": {
+  "txt": 1055,
+  "offset": 0,
+  "cost": 1,
+  "cited": 4,
+  "txtShowable": 5
+ },
+ "StoryDialogue0104.txt": {
+  "txt": 762,
+  "offset": 0,
+  "cost": 2,
+  "cited": 94,
+  "txtShowable": 96
+ },
+ "StoryDialogue0108.txt": {
+  "txt": 766,
+  "offset": 0,
+  "cost": 2,
+  "cited": 141,
+  "txtShowable": 143
+ },
+ "StoryDialogue0111.txt": {
+  "txt": 769,
+  "offset": 0,
+  "cost": 2,
+  "cited": 94,
+  "txtShowable": 96
+ },
+ "StoryDialogue0218.txt": {
+  "txt": 1067,
+  "offset": 0,
+  "cost": 2,
+  "cited": 3,
+  "txtShowable": 5
+ },
+ "StoryDialogue0220.txt": {
+  "txt": 904,
+  "offset": 1,
+  "cost": 2,
+  "cited": 33,
+  "txtShowable": 35
+ },
+ "StoryDialogue0224.txt": {
+  "txt": 1028,
+  "offset": 1,
+  "cost": 2,
+  "cited": 43,
+  "txtShowable": 45
+ },
+ "StoryDialogue0238.txt": {
+  "txt": 984,
+  "offset": 1,
+  "cost": 2,
+  "cited": 35,
+  "txtShowable": 37
+ },
+ "StoryDialogue0307.txt": {
+  "txt": 822,
+  "offset": 1,
+  "cost": 2,
+  "cited": 58,
+  "txtShowable": 60
+ },
+ "StoryDialogue0323.txt": {
+  "txt": 829,
+  "offset": 1,
+  "cost": 2,
+  "cited": 37,
+  "txtShowable": 39
+ },
+ "StoryDialogue0327.txt": {
+  "txt": 864,
+  "offset": 1,
+  "cost": 2,
+  "cited": 44,
+  "txtShowable": 46
+ },
+ "StoryDialogue0329.txt": {
+  "txt": 830,
+  "offset": 0,
+  "cost": 2,
+  "cited": 125,
+  "txtShowable": 127
+ },
+ "StoryDialogue0330.txt": {
+  "txt": 899,
+  "offset": 1,
+  "cost": 2,
+  "cited": 17,
+  "txtShowable": 19
+ },
+ "StoryDialogue0404.txt": {
+  "txt": 1050,
+  "offset": 0,
+  "cost": 2,
+  "cited": 6,
+  "txtShowable": 8
+ },
+ "StoryDialogue0506.txt": {
+  "txt": 903,
+  "offset": 1,
+  "cost": 2,
+  "cited": 17,
+  "txtShowable": 19
+ },
+ "StoryDialogue0516.txt": {
+  "txt": 823,
+  "offset": 1,
+  "cost": 2,
+  "cited": 65,
+  "txtShowable": 67
+ },
+ "StoryDialogue0614.txt": {
+  "txt": 809,
+  "offset": 1,
+  "cost": 2,
+  "cited": 40,
+  "txtShowable": 42
+ },
+ "StoryDialogue0618.txt": {
+  "txt": 811,
+  "offset": 1,
+  "cost": 2,
+  "cited": 15,
+  "txtShowable": 17
+ },
+ "StoryDialogue0701.txt": {
+  "txt": 860,
+  "offset": 1,
+  "cost": 2,
+  "cited": 58,
+  "txtShowable": 60
+ },
+ "StoryDialogue0707.txt": {
+  "txt": 892,
+  "offset": 1,
+  "cost": 2,
+  "cited": 37,
+  "txtShowable": 39
+ },
+ "StoryDialogue0711.txt": {
+  "txt": 965,
+  "offset": 1,
+  "cost": 2,
+  "cited": 10,
+  "txtShowable": 10
+ },
+ "StoryDialogue0806.txt": {
+  "txt": 935,
+  "offset": 0,
+  "cost": 2,
+  "cited": 125,
+  "txtShowable": 127
+ },
+ "StoryDialogue0808.txt": {
+  "txt": 819,
+  "offset": 1,
+  "cost": 2,
+  "cited": 60,
+  "txtShowable": 62
+ },
+ "StoryDialogue0825.txt": {
+  "txt": 825,
+  "offset": 1,
+  "cost": 2,
+  "cited": 32,
+  "txtShowable": 32
+ },
+ "StoryDialogue0864.txt": {
+  "txt": 1051,
+  "offset": 1,
+  "cost": 2,
+  "cited": 6,
+  "txtShowable": 8
+ },
+ "StoryDialogue0867.txt": {
+  "txt": 1053,
+  "offset": 0,
+  "cost": 2,
+  "cited": 6,
+  "txtShowable": 8
+ },
+ "StoryDialogueEx0203.txt": {
+  "txt": 816,
+  "offset": 0,
+  "cost": 2,
+  "cited": 82,
+  "txtShowable": 84
+ },
+ "StoryDialogueEx0402.txt": {
+  "txt": 974,
+  "offset": 1,
+  "cost": 2,
+  "cited": 24,
+  "txtShowable": 24
+ },
+ "StoryDialogueEx0818.txt": {
+  "txt": 814,
+  "offset": 1,
+  "cost": 2,
+  "cited": 17,
+  "txtShowable": 17
+ }
+}
