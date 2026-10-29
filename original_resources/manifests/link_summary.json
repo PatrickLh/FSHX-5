@@ -1,0 +1,11 @@
+{
+  "characters_table_rows": 120,
+  "characters_with_animation": 96,
+  "characters_with_images": 96,
+  "config_reference_rows": 22630,
+  "config_resolved_rows": 22364,
+  "config_unresolved_rows": 266,
+  "filename_skill_groups": 50,
+  "gallery_groups": 88,
+  "reference_parser": "unicode assignment values; includes .par/.tl/.sce/.mat/.vsh; shader bodies excluded"
+}

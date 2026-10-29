@@ -1,0 +1,12 @@
+{
+  "source_script_id": "GameData:BattleScript/attack00.txt@000053da",
+  "bundle_path": "original_resources/organized/effects/samples/attack00/bundle.json",
+  "viewer_path": "original_resources/organized/attack_sample.html",
+  "animation_clips": 5,
+  "unique_images": 61,
+  "unique_sounds": 1,
+  "event1_candidate_frame_zero_based": 8,
+  "event1_candidate_offset_raw": 375,
+  "source_evidence_nodes": 7,
+  "engine_verified": false
+}

@@ -1,0 +1,8 @@
+{
+  "python": "3.12.2 (main, Jun 16 2026, 11:19:20) [Clang 21.0.0 (clang-2100.0.123.102)]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "pillow": "13.0.0",
+  "text_codec": "cp950; original bytes retained on decode failures",
+  "zip_checks": "CRC32 by zipfile and SHA256 comparison",
+  "scope": "resource extraction only"
+}

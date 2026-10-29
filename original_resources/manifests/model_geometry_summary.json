@@ -1,0 +1,17 @@
+{
+  "model_versions": 652,
+  "current_versions": 538,
+  "models_parsed": 652,
+  "status_counts": {
+    "text_structure_parsed": 650,
+    "binary_structure_parsed": 2
+  },
+  "meshes": 1049,
+  "vertices": 484160,
+  "faces": 386622,
+  "invalid_vertex_indices": 0,
+  "meshes_with_uv_count_mismatch": 0,
+  "meshes_with_normal_layout_mismatch": 0,
+  "models_with_skin_weight_blocks": 4,
+  "models_with_animation_sets": 384
+}

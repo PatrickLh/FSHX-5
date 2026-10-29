@@ -1,0 +1,63 @@
+{
+  "blender_version": "5.2.2 LTS",
+  "status": "geometry_loaded_and_rendered",
+  "scene_reconstruction": false,
+  "objects": [
+    {
+      "object": "Mesh00_0",
+      "vertices": 530,
+      "faces": 688,
+      "uv_loops": 2064
+    },
+    {
+      "object": "Mesh00_1",
+      "vertices": 25,
+      "faces": 32,
+      "uv_loops": 96
+    },
+    {
+      "object": "Mesh00_2",
+      "vertices": 25,
+      "faces": 32,
+      "uv_loops": 96
+    },
+    {
+      "object": "Mesh01_0",
+      "vertices": 631,
+      "faces": 336,
+      "uv_loops": 1008
+    },
+    {
+      "object": "Mesh01_1",
+      "vertices": 294,
+      "faces": 340,
+      "uv_loops": 1020
+    },
+    {
+      "object": "Mesh02_0",
+      "vertices": 294,
+      "faces": 340,
+      "uv_loops": 1020
+    },
+    {
+      "object": "Mesh03_0",
+      "vertices": 434,
+      "faces": 480,
+      "uv_loops": 1440
+    },
+    {
+      "object": "Mesh04_0",
+      "vertices": 1065,
+      "faces": 1575,
+      "uv_loops": 4725
+    },
+    {
+      "object": "Mesh05_0",
+      "vertices": 5060,
+      "faces": 2760,
+      "uv_loops": 8280
+    }
+  ],
+  "vertices": 8358,
+  "faces": 6583
+}

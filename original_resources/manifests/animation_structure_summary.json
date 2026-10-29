@@ -1,0 +1,15 @@
+{
+  "animations": 6573,
+  "frames": 45204,
+  "layers": 61361,
+  "structure_errors": 0,
+  "authoring_root_alias_rows": 567,
+  "unmatched_layer_rows": 183,
+  "unmatched_unique_references": 56,
+  "binary_table_errors": 1,
+  "binary_dimension_checks": 34971,
+  "frames_with_sound_events": 5612,
+  "actor_animation_groups": 86,
+  "pose_codes": 77,
+  "sound_events_with_matches": 5612
+}

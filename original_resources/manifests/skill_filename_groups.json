@@ -1,0 +1,318 @@
+{
+  "warning": "Groups use filename numeric tokens only; gameplay skill ID/name mapping and execution timing are unverified.",
+  "groups": {
+    "1021": {
+      "resources": [
+        "GameData:BattleScript/cen_sk1021.txt@0001b985",
+        "GameData:BattleScript/cen_sk1021_S.txt@0001bb8b"
+      ]
+    },
+    "1106": {
+      "resources": [
+        "GameData:BattleScript/cen_sk1106.txt@0001bd93"
+      ]
+    },
+    "0121": {
+      "resources": [
+        "GameData:BattleScript/hit_sk0121.txt@000dea3f",
+        "GameData:Particle/sk_0121.par@00578675"
+      ]
+    },
+    "0786": {
+      "resources": [
+        "GameData:BattleScript/hit_sk0786.txt@000ded6d"
+      ]
+    },
+    "000": {
+      "resources": [
+        "GameData:BattleScript/sk000z06.txt@001ccf39"
+      ]
+    },
+    "0131": {
+      "resources": [
+        "GameData:BattleScript/sk_0131a.txt@001cd2bd"
+      ]
+    },
+    "0141": {
+      "resources": [
+        "GameData:BattleScript/sk_0141.txt@001cd5ca",
+        "GameData:Particle/sk_0141.par@005788ac",
+        "GameData:Particle/sk_0141_2.par@00578afb"
+      ]
+    },
+    "0451": {
+      "resources": [
+        "GameData:BattleScript/sk_0451.txt@001cd960",
+        "GameData:BattleScript/sk_0451_.txt@001cdcba",
+        "GameData:BattleScript/sk_0451a.txt@001ce01c",
+        "GameData:BattleScript/sk_0451a_x90.txt@001ce601",
+        "GameData:BattleScript/sk_0451g.txt@001ce956",
+        "GameData:Particle/sk_0451.par@0057c49f"
+      ]
+    },
+    "0521": {
+      "resources": [
+        "GameData:BattleScript/sk_0521.txt@001cec77",
+        "GameData:Particle/sk_0521.par@0057c6f7",
+        "GameData:Particle/sk_0521a.par@0057c96e"
+      ]
+    },
+    "0896": {
+      "resources": [
+        "GameData:BattleScript/sk_0896c.txt@001cef90",
+        "GameData:Particle/sk_0896.par@00580e92"
+      ]
+    },
+    "2050": {
+      "resources": [
+        "GameData:BattleScript/SK_2050e.txt@001cf29d",
+        "GameData:BattleScript/SK_2050e2.txt@001cf775"
+      ]
+    },
+    "2300": {
+      "resources": [
+        "GameData:BattleScript/sk_2300.txt@001cfc4a",
+        "GameData:BattleScript/SK_2300_2.txt@001cff6f",
+        "GameData:BattleScript/sk_2300a.txt@001d029d"
+      ]
+    },
+    "0631": {
+      "resources": [
+        "GameData:Particle/_sk_0631_e.par@00570136",
+        "GameData:Particle/sk_0631.par@0057d7f2",
+        "GameData:Particle/sk_0631_d.par@0057da5b",
+        "GameData:Particle/sk_0631_e.par@0057dcd2",
+        "GameData:Particle/sk_0631a.par@0057df49",
+        "GameData:Particle/sk_0631a_1.par@0057e1bc",
+        "GameData:Particle/sk_0631a_d.par@0057e434"
+      ]
+    },
+    "0021": {
+      "resources": [
+        "GameData:Particle/sk_0021.par@005763dc",
+        "GameData:Particle/sk_0021_01.par@00576613",
+        "GameData:Particle/sk_0021_02.par@0057684a",
+        "GameData:Particle/sk_0021_03.par@00576a7f",
+        "GameData:Particle/複製 (2) -sk_0021.par@0058b4fc"
+      ]
+    },
+    "0061": {
+      "resources": [
+        "GameData:Particle/sk_0061.par@00576cb6"
+      ]
+    },
+    "0091": {
+      "resources": [
+        "GameData:Particle/sk_0091.par@00576f2e"
+      ]
+    },
+    "0101": {
+      "resources": [
+        "GameData:Particle/sk_0101.par@00577196",
+        "GameData:Particle/sk_0101_1.par@005773e0",
+        "GameData:Particle/sk_0101_2.par@0057762c",
+        "GameData:Particle/sk_0101_3.par@0057782f",
+        "GameData:Particle/sk_0101_4.par@00577a2d",
+        "GameData:Particle/sk_0101_5.par@00577c2a",
+        "GameData:Particle/sk_0101_5a.par@00577e2a",
+        "GameData:Particle/sk_0101_5b.par@00578028",
+        "GameData:Particle/sk_0101_6.par@00578228"
+      ]
+    },
+    "0102": {
+      "resources": [
+        "GameData:Particle/sk_0102.par@0057842d"
+      ]
+    },
+    "0151": {
+      "resources": [
+        "GameData:Particle/sk_0151.par@00578d53"
+      ]
+    },
+    "0201": {
+      "resources": [
+        "GameData:Particle/sk_0201.par@00578f93",
+        "GameData:Particle/sk_0201_01.par@005791dd",
+        "GameData:Particle/sk_0201_a.par@00579429",
+        "GameData:Particle/sk_0201a.par@00579675",
+        "GameData:Particle/sk_0201a_01.par@005798c0",
+        "GameData:Particle/sk_0201a_1a.par@00579b0c",
+        "GameData:Particle/sk_0201b.par@00579d57",
+        "GameData:Particle/sk_0201b_01.par@00579f9e",
+        "GameData:Particle/sk_0201b_b.par@0057a1e7",
+        "GameData:Particle/sk_0201b_x.par@0057a42f"
+      ]
+    },
+    "0211": {
+      "resources": [
+        "GameData:Particle/sk_0211.par@0057a6a6",
+        "GameData:Particle/sk_0211_01.par@0057a8dc"
+      ]
+    },
+    "0221": {
+      "resources": [
+        "GameData:Particle/sk_0221.par@0057ab1e"
+      ]
+    },
+    "0231": {
+      "resources": [
+        "GameData:Particle/sk_0231.par@0057ad8c",
+        "GameData:Particle/sk_0231a.par@0057aff9"
+      ]
+    },
+    "0301": {
+      "resources": [
+        "GameData:Particle/sk_0301.par@0057b266",
+        "GameData:Particle/sk_0301_01.par@0057b4b2"
+      ]
+    },
+    "0326": {
+      "resources": [
+        "GameData:Particle/sk_0326.par@0057b6fe",
+        "GameData:Particle/複製 -sk_0326.par@0058b9ac"
+      ]
+    },
+    "0381": {
+      "resources": [
+        "GameData:Particle/sk_0381.par@0057b936"
+      ]
+    },
+    "0396": {
+      "resources": [
+        "GameData:Particle/sk_0396.par@0057bb7b"
+      ]
+    },
+    "0446": {
+      "resources": [
+        "GameData:Particle/sk_0446.par@0057bdb7",
+        "GameData:Particle/sk_0446a.par@0057bfef"
+      ]
+    },
+    "0448": {
+      "resources": [
+        "GameData:Particle/sk_0448.par@0057c267"
+      ]
+    },
+    "0571": {
+      "resources": [
+        "GameData:Particle/sk_0571.par@0057cbe8",
+        "GameData:Particle/sk_0571a.par@0057ce54"
+      ]
+    },
+    "0581": {
+      "resources": [
+        "GameData:Particle/sk_0581.par@0057d0c1",
+        "GameData:Particle/sk_0581_1.par@0057d331"
+      ]
+    },
+    "0591": {
+      "resources": [
+        "GameData:Particle/sk_0591.par@0057d5b0"
+      ]
+    },
+    "0636": {
+      "resources": [
+        "GameData:Particle/sk_0636.par@0057e6b8",
+        "GameData:Particle/sk_0636_01.par@0057e8f3"
+      ]
+    },
+    "0639": {
+      "resources": [
+        "GameData:Particle/sk_0639.par@0057eb2d"
+      ]
+    },
+    "0646": {
+      "resources": [
+        "GameData:Particle/sk_0646.par@0057ed69",
+        "GameData:Particle/sk_0646_01.par@0057efd7",
+        "GameData:Particle/sk_0646_02.par@0057f24f"
+      ]
+    },
+    "0656": {
+      "resources": [
+        "GameData:Particle/sk_0656.par@0057f4cb",
+        "GameData:Particle/sk_0656_01.par@0057f739",
+        "GameData:Particle/複製 (2) -sk_0656_01.par@0058b733",
+        "GameData:Particle/複製 -sk_0656_01.par@0058bbe4"
+      ]
+    },
+    "0776": {
+      "resources": [
+        "GameData:Particle/sk_0776.par@0057f9b5"
+      ]
+    },
+    "0801": {
+      "resources": [
+        "GameData:Particle/sk_0801.par@0057fbf5",
+        "GameData:Particle/sk_0801_01.par@0057fe4b"
+      ]
+    },
+    "0816": {
+      "resources": [
+        "GameData:Particle/sk_0816.par@005800a1",
+        "GameData:Particle/sk_0816a.par@005802e8",
+        "GameData:Particle/sk_0816b.par@00580535"
+      ]
+    },
+    "0851": {
+      "resources": [
+        "GameData:Particle/sk_0851.par@00580779",
+        "GameData:Particle/sk_0851a.par@005809e7"
+      ]
+    },
+    "0876": {
+      "resources": [
+        "GameData:Particle/sk_0876.par@00580c44"
+      ]
+    },
+    "0936": {
+      "resources": [
+        "GameData:Particle/sk_0936.par@005810ed"
+      ]
+    },
+    "0956": {
+      "resources": [
+        "GameData:Particle/sk_0956.par@00581340",
+        "GameData:Particle/sk_0956_01.par@005815b3",
+        "GameData:Particle/sk_0956a.par@0058182c"
+      ]
+    },
+    "0966": {
+      "resources": [
+        "GameData:Particle/sk_0966.par@00581a4f",
+        "GameData:Particle/sk_0966a.par@00581c8c"
+      ]
+    },
+    "0976": {
+      "resources": [
+        "GameData:Particle/sk_0976.par@00581ed0"
+      ]
+    },
+    "0981": {
+      "resources": [
+        "GameData:Particle/sk_0981.par@0058211f"
+      ]
+    },
+    "1056": {
+      "resources": [
+        "GameData:Particle/sk_1056.par@0058236a",
+        "GameData:Particle/sk_1056a.par@005825d3"
+      ]
+    },
+    "1116": {
+      "resources": [
+        "GameData:Particle/sk_1116.par@0058285d"
+      ]
+    },
+    "2020": {
+      "resources": [
+        "GameData:Particle/sk_2020.par@00582aca"
+      ]
+    },
+    "966": {
+      "resources": [
+        "GameData:Particle/wf5_sk_966.par@0058a28e"
+      ]
+    }
+  }
+}

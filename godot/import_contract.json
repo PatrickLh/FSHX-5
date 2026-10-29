@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "status": "draft_not_engine_validated",
+  "godot_version": null,
+  "source_catalog": "../original_resources/manifests/resource_catalog.json",
+  "source_policy": {
+    "original_files_read_only": true,
+    "identity": "archive:original_path@source_offset",
+    "verify_source_sha256_before_conversion": true,
+    "historical_versions": "keep separate; never select solely by basename",
+    "runtime_copy": "only selected derived assets, with source IDs and hashes"
+  },
+  "geometry": {
+    "audit_index": "../original_resources/manifests/model_geometry_index.json",
+    "keep_original_polygons": true,
+    "triangulation_status": "not_performed",
+    "near_zero_area_faces": "record; do not delete without a reviewed derived repair",
+    "source_unit_in_meters": null,
+    "source_up_axis": null,
+    "source_handedness": null,
+    "matrix_policy": "retain local vertices, frame matrices, scene transforms and animation transforms separately; verify composition before conversion",
+    "engine_import_status": "not_executed"
+  },
+  "textures": {
+    "preview_pngs_preserve_source_pixels": true,
+    "color_key_conversion": "preview only; no production alpha conversion confirmed",
+    "blend_enum_mapping_status": "pending",
+    "uv_outside_0_1": "retain; sampler wrapping must be verified",
+    "extension_aliases": [],
+    "texture_list_policy": "preserve ordered list rows and duplicate keys; explicit lists and batch fallback remain separate"
+  },
+  "animation": {
+    "structure_index": "../original_resources/manifests/animation_structure_index.json",
+    "time_unit": null,
+    "raw_event_fields": "retain both fields; candidate event-1 mapping is not runtime verified",
+    "direction_suffix_mapping": null,
+    "character_to_man_mapping": "unconfirmed; demonstration role bindings are excluded"
+  },
+  "scenes": {
+    "index": "../original_resources/manifests/scene_index.json",
+    "element_index": "../original_resources/manifests/scene_element_index.json",
+    "light_and_fog": "retain source attributes; do not assume renderer-equivalent units or colors",
+    "condition_graphs": "preserve external hit/dodge/result decisions"
+  },
+  "acceptance_before_runtime_use": [
+    "validate source and derived hashes",
+    "resolve required resource dependencies and review aliases",
+    "declare and test coordinate, unit and time conversions",
+    "check UV, materials, alpha and animation against references",
+    "validate import and playback in the chosen Godot version"
+  ],
+  "static_sample": {
+    "status": "source_created_engine_validation_pending",
+    "target_engine": "Godot 4.x; exact version pending",
+    "manifest": "assets/static_sample/manifest.json",
+    "scene": "scenes/static_sample.tscn",
+    "purpose": "local geometry diagnostics only; not scene reconstruction"
+  }
+}

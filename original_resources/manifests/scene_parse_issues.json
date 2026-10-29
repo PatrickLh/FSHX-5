@@ -1,0 +1,11 @@
+[
+  {
+    "id": "GameData:SceneElement/WF5_Par_M41_ghost.se@005c7003",
+    "issues": [
+      {
+        "line": 62,
+        "error": "unclosed block"
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "texture_list_id": "Texture:ghost/ghost.tl@01034eb3",
+    "original_path": "ghost/ghost.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/bobo.tl@012832d9",
+    "original_path": "particle/bobo.tl",
+    "scene_ids": [
+      "GameData:Scene/map035.sce@005b1b29"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/boom.tl@012842b6",
+    "original_path": "particle/boom.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/Fish.tl@0128c439",
+    "original_path": "particle/Fish.tl",
+    "scene_ids": [
+      "GameData:Scene/map035.sce@005b1b29"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/fs.tl@0128c9f9",
+    "original_path": "particle/fs.tl",
+    "scene_ids": [
+      "GameData:Scene/map006.sce@00595c48",
+      "GameData:Scene/map022_1.sce@005a4d14",
+      "GameData:Scene/map036.sce@005b2134"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/grace.TL@0128da18",
+    "original_path": "particle/grace.TL",
+    "scene_ids": [
+      "GameData:Scene/map034.sce@005af9ca"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/m40_leaf.tl@0128f25e",
+    "original_path": "particle/m40_leaf.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/m41_pt.tl@0128f430",
+    "original_path": "particle/m41_pt.tl",
+    "scene_ids": [
+      "GameData:Scene/map021.sce@005a3164"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/music_01.tl@01291c6d",
+    "original_path": "particle/music_01.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/music_02.tl@01291d28",
+    "original_path": "particle/music_02.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/music_03.tl@01291de3",
+    "original_path": "particle/music_03.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/music_04.tl@01291e9e",
+    "original_path": "particle/music_04.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/SakuraNoHana.tl@01298dad",
+    "original_path": "particle/SakuraNoHana.tl",
+    "scene_ids": [
+      "GameData:Scene/map033.sce@005ae3b1",
+      "GameData:Scene/map033_1.sce@005aeafd",
+      "GameData:Scene/map033_2.sce@005af253"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0021.tl@012c7a8a",
+    "original_path": "particle/sk_0021.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0061.tl@012c7c1d",
+    "original_path": "particle/sk_0061.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0091.tl@012c7db2",
+    "original_path": "particle/sk_0091.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0141.tl@012c7f46",
+    "original_path": "particle/sk_0141.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0221.tl@012c8126",
+    "original_path": "particle/sk_0221.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0231.tl@012c82bb",
+    "original_path": "particle/sk_0231.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0446.tl@012c8451",
+    "original_path": "particle/sk_0446.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0446a.tl@012c85e4",
+    "original_path": "particle/sk_0446a.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0448.tl@012c8777",
+    "original_path": "particle/sk_0448.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0521.tl@012c890a",
+    "original_path": "particle/sk_0521.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0571.tl@012c8a9f",
+    "original_path": "particle/sk_0571.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0571a.tl@012c8c34",
+    "original_path": "particle/sk_0571a.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0581.tl@012c8dca",
+    "original_path": "particle/sk_0581.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0646.tl@012c8f5f",
+    "original_path": "particle/sk_0646.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0656.tl@012c90f5",
+    "original_path": "particle/sk_0656.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0851.tl@012c928b",
+    "original_path": "particle/sk_0851.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0851a.tl@012c9421",
+    "original_path": "particle/sk_0851a.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_0956.tl@012c95b7",
+    "original_path": "particle/sk_0956.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/sk_1056.tl@012c974d",
+    "original_path": "particle/sk_1056.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/tfs.tl@012d175a",
+    "original_path": "particle/tfs.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/UseTool_00.tl@012e3155",
+    "original_path": "particle/UseTool_00.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/UseTool_01.tl@012e31fd",
+    "original_path": "particle/UseTool_01.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/UseTool_02.tl@012e32a6",
+    "original_path": "particle/UseTool_02.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/UseTool_03.tl@012e334f",
+    "original_path": "particle/UseTool_03.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/UseTool_04.tl@012e33f8",
+    "original_path": "particle/UseTool_04.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:particle/wf5_sk_966.tl@012fa83e",
+    "original_path": "particle/wf5_sk_966.tl",
+    "scene_ids": [
+      "GameData:Scene/map016.sce@0059f002"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:sea/sea.tl@012fb1f2",
+    "original_path": "sea/sea.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:WF5_m_sea01/WF5_m_sea01.tl@01480b4b",
+    "original_path": "WF5_m_sea01/WF5_m_sea01.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:WF5_m_sea02/WF5_m_sea02.tl@0152b1c3",
+    "original_path": "WF5_m_sea02/WF5_m_sea02.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:WF5_m_sea03/WF5_m_sea03.tl@0152b3df",
+    "original_path": "WF5_m_sea03/WF5_m_sea03.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "Texture:WF5_m_sea02.tl@017b7b77",
+    "original_path": "WF5_m_sea02.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:m01/WF5_m_sea01.tl@0027c5dc",
+    "original_path": "m01/WF5_m_sea01.tl",
+    "scene_ids": [
+      "GameData:Scene/map001.sce@0059250a"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:m02/WF5_m_sea01.tl@0066319b",
+    "original_path": "m02/WF5_m_sea01.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:m02/WF5_m_sea02.tl@006633be",
+    "original_path": "m02/WF5_m_sea02.tl",
+    "scene_ids": [
+      "GameData:Scene/map002.sce@005931f7"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:m02/WF5_m_sea03.tl@006635da",
+    "original_path": "m02/WF5_m_sea03.tl",
+    "scene_ids": [
+      "GameData:Scene/map002.sce@005931f7"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:m024/WF5_m_sea03.tl@00e14800",
+    "original_path": "m024/WF5_m_sea03.tl",
+    "scene_ids": [
+      "GameData:Scene/map024.sce@005a675c"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:m033/WF5_m_sea03.tl@01106b0a",
+    "original_path": "m033/WF5_m_sea03.tl",
+    "scene_ids": [
+      "GameData:Scene/map033.sce@005ae3b1",
+      "GameData:Scene/map033_1.sce@005aeafd",
+      "GameData:Scene/map033_2.sce@005af253"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:m038/WF5_m_sea03.tl@01422d2d",
+    "original_path": "m038/WF5_m_sea03.tl",
+    "scene_ids": [
+      "GameData:Scene/map038.sce@005b3651"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:M05/WF5_m_sea02.tl@016725ae",
+    "original_path": "M05/WF5_m_sea02.tl",
+    "scene_ids": [
+      "GameData:Scene/map005.sce@005952d3"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:town/wm_sea.tl@03b2e5b7",
+    "original_path": "town/wm_sea.tl",
+    "scene_ids": [
+      "GameData:Scene/town01.sce@005bbbf2",
+      "GameData:Scene/town02.sce@005bbe48"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:town/wm_sea_.tl@03b2e7ca",
+    "original_path": "town/wm_sea_.tl",
+    "scene_ids": [],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  },
+  {
+    "texture_list_id": "XFile:wf5_wmap/wm_sea.tl@042875a8",
+    "original_path": "wf5_wmap/wm_sea.tl",
+    "scene_ids": [
+      "GameData:Scene/wf5_wmap/001.sce@00590b2b",
+      "GameData:Scene/wf5_wmap/002.sce@00590ce2",
+      "GameData:Scene/wf5_wmap/003.sce@00590e64",
+      "GameData:Scene/wf5_wmap/004.sce@00590fe6",
+      "GameData:Scene/wf5_wmap/005.sce@00591168",
+      "GameData:Scene/wf5_wmap/006.sce@005912eb",
+      "GameData:Scene/wf5_wmap/007.sce@00591498",
+      "GameData:Scene/wf5_wmap/008.sce@00591646",
+      "GameData:Scene/wf5_wmap/009.sce@005917f4",
+      "GameData:Scene/wf5_wmap/010.sce@00591976",
+      "GameData:Scene/wf5_wmap/011.sce@00591b23",
+      "GameData:Scene/wf5_wmap/012.sce@00591cd1",
+      "GameData:Scene/wf5_wmap/013.sce@00591e7e",
+      "GameData:Scene/wf5_wmap/014.sce@00592001",
+      "GameData:Scene/wf5_wmap/015.sce@005921af",
+      "GameData:Scene/wf5_wmap/016.sce@0059235c"
+    ],
+    "evidence": "static explicit dependency closure only; dynamically constructed runtime paths are not covered"
+  }
+]

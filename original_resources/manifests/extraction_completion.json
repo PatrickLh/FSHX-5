@@ -1,0 +1,34 @@
+{
+  "status": "archive_and_loose_extraction_verified_with_declared_decode_gaps",
+  "archive_file_versions": 48737,
+  "archive_current_versions": 45358,
+  "catalog_resources": 49288,
+  "organized_catalog_outputs_hashed": 51756,
+  "loose_source_files_accounted": 581,
+  "loose_dispositions": {
+    "os_metadata_preserved": 5,
+    "archive_fully_reconstructed": 5,
+    "support_original_copied": 13,
+    "runtime_binary_preserved_not_executed": 6,
+    "loose_media_in_catalog": 551,
+    "distribution_container_audited": 1
+  },
+  "zip_file_members_verified": 580,
+  "zip_additional_members_preserved": 5,
+  "loose_media_pngs": 8,
+  "backup_animation_tables": 23,
+  "backup_animation_tables_parsed": 23,
+  "image_decode_failures": 0,
+  "open_issues_by_kind": {
+    "model_texture_reference": 32,
+    "animation_resource_reference": 183,
+    "binary_animation_table": 1,
+    "material_reference": 31,
+    "config_reference": 266,
+    "config_encoding": 3,
+    "scene_structure": 1
+  },
+  "wrap_files_preserved_not_decoded": 10,
+  "runtime_fidelity_validation": "outside extraction completion; not claimed",
+  "godot_work": "paused by user scope"
+}

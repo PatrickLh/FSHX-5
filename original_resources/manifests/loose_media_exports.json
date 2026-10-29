@@ -1,0 +1,106 @@
+[
+  {
+    "source": "original_resources/source/fshx5_101261/风色幻想5/Wind5.ico",
+    "source_sha256": "aacbc7d7b8b011b26b698bc7bd525d456754fa2a3d8a37e543e49e3e36e97d4a",
+    "format": "ICO",
+    "duration_raw_ms": null,
+    "exports": [
+      {
+        "path": "original_resources/organized/source_art/loose/fshx5_101261/风色幻想5/Wind5.ico/32x32.png",
+        "sha256": "fdf8fc1da34825e57bf2f79dca1e6615da47957ef99e90caa17c57c57dde3641",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "path": "original_resources/organized/source_art/loose/fshx5_101261/风色幻想5/Wind5.ico/48x48.png",
+        "sha256": "a14083574d06d0b37fbd07de4e33f7189de8b1a872128d13d91977238aa561dc",
+        "width": 48,
+        "height": 48
+      }
+    ]
+  },
+  {
+    "source": "original_resources/source/fshx5_101261/风色幻想5/images/ReadmeTitle01.gif",
+    "source_sha256": "0fc8804904116711a33cefd94bb0da0633fff13c9b1a4fa79c5f26a6481c918c",
+    "format": "GIF",
+    "duration_raw_ms": 0,
+    "exports": [
+      {
+        "path": "original_resources/organized/source_art/loose/fshx5_101261/风色幻想5/images/ReadmeTitle01.gif/frame_0000.png",
+        "sha256": "f4cc704554158d6b1af8b78f8f248c394b337551eeb707f4cafde87a46c3725b",
+        "width": 550,
+        "height": 30
+      }
+    ]
+  },
+  {
+    "source": "original_resources/source/fshx5_101261/风色幻想5/images/ReadmeTitle02.gif",
+    "source_sha256": "5bf46886b6ecec2f790240d69bd9a6cb50870d8ff7d0c8025d3602551ae429e0",
+    "format": "GIF",
+    "duration_raw_ms": 0,
+    "exports": [
+      {
+        "path": "original_resources/organized/source_art/loose/fshx5_101261/风色幻想5/images/ReadmeTitle02.gif/frame_0000.png",
+        "sha256": "c7dae635b4313caea86033102fdf88530d7d9a94c589fefd967fa5fa2e44bf27",
+        "width": 550,
+        "height": 30
+      }
+    ]
+  },
+  {
+    "source": "original_resources/source/fshx5_101261/风色幻想5/images/ReadmeTitle03.gif",
+    "source_sha256": "f7273e6287ee0df12c8a71c7c1cda4093158e7e261f26b6534d00c5b3054a3ae",
+    "format": "GIF",
+    "duration_raw_ms": 0,
+    "exports": [
+      {
+        "path": "original_resources/organized/source_art/loose/fshx5_101261/风色幻想5/images/ReadmeTitle03.gif/frame_0000.png",
+        "sha256": "8110b84168219b65fcbc991847f70cce74d8c19407e0dd325e8896d9680c58be",
+        "width": 550,
+        "height": 30
+      }
+    ]
+  },
+  {
+    "source": "original_resources/source/fshx5_101261/风色幻想5/images/ReadmeTitle04.gif",
+    "source_sha256": "230b1ea76ee8eaa2f4fb9ca213620a314e8b05b67a0948ea4860dbd8510501e5",
+    "format": "GIF",
+    "duration_raw_ms": 0,
+    "exports": [
+      {
+        "path": "original_resources/organized/source_art/loose/fshx5_101261/风色幻想5/images/ReadmeTitle04.gif/frame_0000.png",
+        "sha256": "29344d14583551f5b921a86b99880f5cc949b3a7ba57298478d4cea2ef3cf1d5",
+        "width": 550,
+        "height": 30
+      }
+    ]
+  },
+  {
+    "source": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic11.gif",
+    "source_sha256": "2e410ab63f93472961c0df1f274fb62894e1f7b952c4f9511f38402923108c3c",
+    "format": "GIF",
+    "duration_raw_ms": 0,
+    "exports": [
+      {
+        "path": "original_resources/organized/source_art/loose/fshx5_101261/风色幻想5/images/Readmepic11.gif/frame_0000.png",
+        "sha256": "a2c008aa16521dfae6485a05a2c6d69193a2b2d59a8ad2a8cebf8a74c5e5360a",
+        "width": 694,
+        "height": 415
+      }
+    ]
+  },
+  {
+    "source": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic13.gif",
+    "source_sha256": "f23823946c88bd0b8602e7dca5ef7c55d3396e3f2fa5ffad4d1c8bc1adbcca4f",
+    "format": "GIF",
+    "duration_raw_ms": 0,
+    "exports": [
+      {
+        "path": "original_resources/organized/source_art/loose/fshx5_101261/风色幻想5/images/Readmepic13.gif/frame_0000.png",
+        "sha256": "b049996d19eaffabeb5b453390f5af4e11c2b0150ce689c108204adfb2ecc622",
+        "width": 300,
+        "height": 165
+      }
+    ]
+  }
+]

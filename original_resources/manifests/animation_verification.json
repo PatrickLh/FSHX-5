@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "animations": 6573,
+  "frames": 45204,
+  "layers": 61361,
+  "source_rows_accounted": 119711,
+  "battle_scripts": 747,
+  "script_attributes_accounted": 274981,
+  "notes": "Frame time/coordinate and engine execution semantics require separate runtime validation."
+}

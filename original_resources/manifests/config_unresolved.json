@@ -1,0 +1,2130 @@
+[
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 507,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 521,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 535,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 549,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 563,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 577,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 591,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 605,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 619,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 633,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 647,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 661,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 675,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 689,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 703,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/common0068.txt@0005954e",
+    "line": 717,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 507,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 521,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 535,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 549,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 563,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 577,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 591,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 605,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 619,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 633,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 647,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 661,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 675,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 689,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 703,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "line": 717,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0031a.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/s1007.txt@00140b75",
+    "line": 777,
+    "attribute": "Effect",
+    "reference": "EffectName\\CantCoverPerson.xef",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/s1007.txt@00140b75",
+    "line": 981,
+    "attribute": "Effect",
+    "reference": "Effec\\common\\CantCoverPerson.xef",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/sk000z06.txt@001ccf39",
+    "line": 11,
+    "attribute": "AniName",
+    "reference": "sp\\Hit-z06.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/sk_0141.txt@001cd5ca",
+    "line": 11,
+    "attribute": "AniName",
+    "reference": "sp\\Hit-z06.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w001.txt@001ddc0c",
+    "line": 38,
+    "attribute": "AniName",
+    "reference": "sp\\setin_02.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w001.txt@001ddc0c",
+    "line": 138,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w001.txt@001ddc0c",
+    "line": 194,
+    "attribute": "AniName",
+    "reference": "sp\\setin_03.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w001.txt@001ddc0c",
+    "line": 2207,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w002.txt@001e0e64",
+    "line": 210,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w002.txt@001e0e64",
+    "line": 660,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w003.txt@001e2a36",
+    "line": 620,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w003.txt@001e2a36",
+    "line": 1367,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w004.txt@001e5550",
+    "line": 539,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w004.txt@001e5550",
+    "line": 989,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w004.txt@001e5550",
+    "line": 2115,
+    "attribute": "SoundName",
+    "reference": "Gun\\ak47-1.wav",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w005.txt@001e718f",
+    "line": 982,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w006.txt@001e9a4b",
+    "line": 660,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w007.txt@001eba42",
+    "line": 1195,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w007.txt@001eba42",
+    "line": 1716,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w008.txt@001ee81d",
+    "line": 893,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w008.txt@001ee81d",
+    "line": 1436,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w008.txt@001ee81d",
+    "line": 4899,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0059_001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w008.txt@001ee81d",
+    "line": 4984,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0059_001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w008.txt@001ee81d",
+    "line": 5069,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0059_001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w008.txt@001ee81d",
+    "line": 5146,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0059_001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w008.txt@001ee81d",
+    "line": 5239,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0059_001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w008.txt@001ee81d",
+    "line": 5368,
+    "attribute": "ScriptFile",
+    "reference": "BattleScript\\\\0059_001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w009.txt@001f23e7",
+    "line": 750,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w009.txt@001f23e7",
+    "line": 1372,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w010.txt@001f49a1",
+    "line": 181,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w010.txt@001f49a1",
+    "line": 694,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w011.txt@001f67eb",
+    "line": 181,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w011.txt@001f67eb",
+    "line": 631,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w012.txt@001f7b79",
+    "line": 181,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w012.txt@001f7b79",
+    "line": 631,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w013.txt@001f8f07",
+    "line": 532,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w013.txt@001f8f07",
+    "line": 1096,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w014.txt@001fad17",
+    "line": 181,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w014.txt@001fad17",
+    "line": 631,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w015.txt@001fc0a5",
+    "line": 181,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w015.txt@001fc0a5",
+    "line": 631,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w016.txt@001fd433",
+    "line": 181,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w016.txt@001fd433",
+    "line": 631,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w017.txt@001fe7c1",
+    "line": 181,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/w017.txt@001fe7c1",
+    "line": 631,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊.txt@00205447",
+    "line": 528,
+    "attribute": "Set",
+    "reference": "sp\\sk_0621a.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊.txt@00205447",
+    "line": 536,
+    "attribute": "Set",
+    "reference": "sp\\setin_11.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊.txt@00205447",
+    "line": 550,
+    "attribute": "Set",
+    "reference": "sp\\sk_0621.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊.txt@00205447",
+    "line": 558,
+    "attribute": "Set",
+    "reference": "sp\\setin_02.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊.txt@00205447",
+    "line": 579,
+    "attribute": "Set",
+    "reference": "sp\\sk_0621a.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊.txt@00205447",
+    "line": 587,
+    "attribute": "Set",
+    "reference": "sp\\setin_11.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊.txt@00205447",
+    "line": 601,
+    "attribute": "Set",
+    "reference": "sp\\sk_0621.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊.txt@00205447",
+    "line": 609,
+    "attribute": "Set",
+    "reference": "sp\\setin_02.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊_2.txt@00207696",
+    "line": 431,
+    "attribute": "Set",
+    "reference": "sp\\setin_01.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊_2.txt@00207696",
+    "line": 445,
+    "attribute": "Set",
+    "reference": "sp\\setin_14.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊_3_備份.txt@00209208",
+    "line": 37,
+    "attribute": "AniName",
+    "reference": "sp\\setin_01.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊_3_備份.txt@00209208",
+    "line": 137,
+    "attribute": "XFileName",
+    "reference": "m1000.x",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊_3_備份.txt@00209208",
+    "line": 193,
+    "attribute": "AniName",
+    "reference": "sp\\setin_03.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/合體攻擊_3_備份.txt@00209208",
+    "line": 596,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:BattleScript/複製 -0002_2.txt@0020b06b",
+    "line": 11,
+    "attribute": "AniName",
+    "reference": "man\\00010000\\31a-1.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/GameOver.txt@00310c42",
+    "line": 743,
+    "attribute": "ScriptName",
+    "reference": "ReturnBegin.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript000200.txt@00312915",
+    "line": 2143,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript000300.txt@00313dda",
+    "line": 3070,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript000400.txt@00315689",
+    "line": 967,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript000500.txt@00316307",
+    "line": 3950,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0002.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript000600.txt@0031802b",
+    "line": 2235,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0002.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript000700.txt@003194b7",
+    "line": 967,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0002.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript000800.txt@0031a131",
+    "line": 2243,
+    "attribute": "Script",
+    "reference": "Fight/Fight0003.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript000900.txt@0031b5e5",
+    "line": 3011,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0003.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript001000.txt@0031cf4c",
+    "line": 967,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0003.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript001100.txt@0031dbcc",
+    "line": 2085,
+    "attribute": "Script",
+    "reference": "Fight/Fight0004.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript001300.txt@003207ae",
+    "line": 4225,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0003.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript011300.txt@00334d05",
+    "line": 5000,
+    "attribute": "Script",
+    "reference": "Fight/Fight0106.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript011500.txt@00338965",
+    "line": 3213,
+    "attribute": "Script",
+    "reference": "Fight/Fight0107.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript011600.txt@0033a397",
+    "line": 2923,
+    "attribute": "Script",
+    "reference": "Fight/Fight0108.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript011900.txt@0033f410",
+    "line": 4636,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0101.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012000.txt@00341948",
+    "line": 967,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0101.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012100.txt@003425c3",
+    "line": 4315,
+    "attribute": "Script",
+    "reference": "Fight/Fight0109.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012200.txt@0034450e",
+    "line": 1417,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0102.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012300.txt@003455e0",
+    "line": 967,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0102.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012400.txt@0034625d",
+    "line": 2005,
+    "attribute": "Script",
+    "reference": "Fight/Fight0110.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012500.txt@003475e4",
+    "line": 4559,
+    "attribute": "Script",
+    "reference": "Fight/Fight0111.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012600.txt@00349488",
+    "line": 2566,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0103.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012700.txt@0034ae32",
+    "line": 1017,
+    "attribute": "Script",
+    "reference": "Fight/Fight0113.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012700.txt@0034ae32",
+    "line": 1038,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0103.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012800.txt@0034bc35",
+    "line": 3792,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0104.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript012900.txt@0034d919",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0104.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript013100.txt@00351076",
+    "line": 4938,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0105.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript013200.txt@003533a6",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0105.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript022400.txt@0036b4b3",
+    "line": 2446,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0201.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript022500.txt@0036cfae",
+    "line": 982,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0201.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript022500.txt@0036cfae",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0201.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript022600.txt@0036dd20",
+    "line": 1790,
+    "attribute": "Script",
+    "reference": "Fight/Fight0215.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript022700.txt@0036ef6d",
+    "line": 5181,
+    "attribute": "Script",
+    "reference": "Fight/Fight0216.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript022900.txt@003714fb",
+    "line": 3451,
+    "attribute": "Script",
+    "reference": "Fight/Fight0217.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript023100.txt@003734f3",
+    "line": 1079,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0202.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript023200.txt@003742cf",
+    "line": 1420,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0202.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript023300a.txt@003771e9",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0202.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript023400.txt@00377f56",
+    "line": 5997,
+    "attribute": "Script",
+    "reference": "Fight/Fight0218.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript023900.txt@0037cb10",
+    "line": 5330,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0203.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript024000.txt@0037f5b6",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0203.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript030900.txt@0038a1c2",
+    "line": 4117,
+    "attribute": "Script",
+    "reference": "Fight/Fight0319.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript031100.txt@0038c38a",
+    "line": 1715,
+    "attribute": "Script",
+    "reference": "Fight/Fight0320.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript031200.txt@0038d67b",
+    "line": 1562,
+    "attribute": "Script",
+    "reference": "Fight/Fight0321.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript031700.txt@0039549d",
+    "line": 1427,
+    "attribute": "Script",
+    "reference": "Fight/Fight0322.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript031800.txt@0039656b",
+    "line": 3605,
+    "attribute": "Script",
+    "reference": "Fight/Fight0323.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript032400.txt@0039f3c5",
+    "line": 2459,
+    "attribute": "Script",
+    "reference": "Fight/Fight0324.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript032800.txt@003a25f0",
+    "line": 2622,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0301.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript032800a.txt@003a3f35",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0301.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript033000.txt@003a7ff3",
+    "line": 1720,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0302.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript033100.txt@003a92e9",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0302.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript040200.txt@003ac0b0",
+    "line": 2845,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0401.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript040200a.txt@003adc0f",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0401.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript040800.txt@003b54a3",
+    "line": 5073,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0402.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript040800a.txt@003b837f",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0402.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript040900.txt@003b90ed",
+    "line": 3420,
+    "attribute": "Script",
+    "reference": "Fight/Fight0425.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript041200.txt@003bc0cb",
+    "line": 7753,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0403.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript041200a.txt@003bfaa6",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0403.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript041600.txt@003c3c84",
+    "line": 2827,
+    "attribute": "Script",
+    "reference": "Fight/Fight0426.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript041700.txt@003c56dd",
+    "line": 2609,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0404.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript041700a.txt@003c71d0",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0404.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript041900.txt@003ca43a",
+    "line": 3271,
+    "attribute": "Script",
+    "reference": "Fight/Fight0427.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript042500.txt@003cf107",
+    "line": 1999,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0401.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript042800.txt@003d075e",
+    "line": 2029,
+    "attribute": "Script",
+    "reference": "Fight/Fight0429.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript043000.txt@003d1b7c",
+    "line": 6183,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0405.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript043100.txt@003d4838",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0405.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript050200.txt@003d647c",
+    "line": 7009,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0501.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript050200a.txt@003da06d",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0501.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript050600.txt@003deab4",
+    "line": 1900,
+    "attribute": "Script",
+    "reference": "Fight/Fight0530.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript051100.txt@003e362d",
+    "line": 5702,
+    "attribute": "Script",
+    "reference": "Fight/Fight0531.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript051300.txt@003e69c1",
+    "line": 2097,
+    "attribute": "Script",
+    "reference": "Fight/Fight0532.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript051700.txt@003eb9d3",
+    "line": 5839,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0502.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript051700a.txt@003eece0",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0502.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript051800.txt@003efa4f",
+    "line": 2670,
+    "attribute": "Script",
+    "reference": "Fight/Fight0533.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript052800.txt@003fa513",
+    "line": 1741,
+    "attribute": "Script",
+    "reference": "Fight/Fight0534.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript053200.txt@003fd9d2",
+    "line": 2220,
+    "attribute": "Script",
+    "reference": "Fight/Fight0535.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript053400.txt@003ff0b9",
+    "line": 2984,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0503.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript053500.txt@00400a6f",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0503.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript061100.txt@0040fd7c",
+    "line": 2964,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0601.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript061100a.txt@004118aa",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0601.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript061700.txt@004170db",
+    "line": 1833,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0602.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript061800.txt@0041842d",
+    "line": 982,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0602.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript061800.txt@0041842d",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0602.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript062500.txt@004191a1",
+    "line": 2690,
+    "attribute": "Script",
+    "reference": "Fight/Fight0638.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript062800.txt@0041ab7e",
+    "line": 3470,
+    "attribute": "Script",
+    "reference": "Fight/Fight0639.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript063100.txt@0041c4bd",
+    "line": 2513,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0603.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript063200.txt@0041da9b",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0603.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript070600.txt@004298d7",
+    "line": 1447,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0701.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript070800.txt@0042a9cd",
+    "line": 1689,
+    "attribute": "Script",
+    "reference": "Fight/Fight0740.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript071000.txt@0042bb20",
+    "line": 2353,
+    "attribute": "Script",
+    "reference": "Fight/Fight0741.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript071300.txt@0042e74b",
+    "line": 2738,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0702.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript071600.txt@0043029c",
+    "line": 3937,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0703.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript071800.txt@00431dd8",
+    "line": 1820,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0701.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript071900.txt@00433057",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0701.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript081200.txt@004445ab",
+    "line": 3730,
+    "attribute": "Script",
+    "reference": "Fight/Fight0843.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript081400.txt@004469b8",
+    "line": 1313,
+    "attribute": "Script",
+    "reference": "Fight/Fight0844.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript081600.txt@00447964",
+    "line": 2827,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0801.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript081600a.txt@00449311",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0801.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript081900.txt@0044e8fe",
+    "line": 2897,
+    "attribute": "Script",
+    "reference": "Fight/Fight0845.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript082100.txt@00450578",
+    "line": 3824,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0801.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript082200_略過.txt@00452950",
+    "line": 907,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0801.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript082500.txt@0045450d",
+    "line": 2542,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0802.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript082600.txt@00455a88",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0802.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript085200.txt@00458185",
+    "line": 1417,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0802.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript085900.txt@0046354f",
+    "line": 3494,
+    "attribute": "Script",
+    "reference": "Fight/Fight0846.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript086100.txt@00465332",
+    "line": 3274,
+    "attribute": "Script",
+    "reference": "Fight/Fight0846.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript086300.txt@00467d95",
+    "line": 1976,
+    "attribute": "Script",
+    "reference": "Fight/Fight0847.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript087200.txt@0046ee43",
+    "line": 1276,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0805.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript087700.txt@00473a88",
+    "line": 4068,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0803.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript087800.txt@0047573c",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0803.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript090600.txt@004825e2",
+    "line": 2735,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0901.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript090600a.txt@004842bb",
+    "line": 999,
+    "attribute": "Script",
+    "reference": "ConsulateExit/ConsulateExit0901.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript091600.txt@00493bb2",
+    "line": 1042,
+    "attribute": "ScriptName",
+    "reference": "ExScript/ExScript090100.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript091900.txt@00496a47",
+    "line": 1207,
+    "attribute": "ScriptName",
+    "reference": "ExScript/ExScript090200.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript092000.txt@00498495",
+    "line": 2397,
+    "attribute": "Script",
+    "reference": "Fight/Fight0950.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript092300.txt@0049aa10",
+    "line": 8304,
+    "attribute": "Script",
+    "reference": "Fight/Fight0951.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript092500.txt@0049e845",
+    "line": 1634,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0901.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript092900.txt@004a2c64",
+    "line": 2657,
+    "attribute": "Script",
+    "reference": "Fight/Fight0953.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript093000.txt@004a4108",
+    "line": 876,
+    "attribute": "ScriptName",
+    "reference": "ExScript/ExScript090300.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScript093200.txt@004a4bdd",
+    "line": 1570,
+    "attribute": "Script",
+    "reference": "Stage/StageScript0902.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/MainScriptSP090100.txt@004af612",
+    "line": 1506,
+    "attribute": "Script",
+    "reference": "Fight/FightSP0901.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript000100.txt@004c0dc1",
+    "line": 1910,
+    "attribute": "Script",
+    "reference": "Fight/Fight0001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript000200.txt@004c1f71",
+    "line": 2488,
+    "attribute": "Script",
+    "reference": "Fight/Fight0002.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript000300.txt@004c365e",
+    "line": 2984,
+    "attribute": "Script",
+    "reference": "Fight/Fight0005.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript010100.txt@004c5047",
+    "line": 2243,
+    "attribute": "Script",
+    "reference": "Fight/Fight0112.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript020100.txt@004c65e3",
+    "line": 1616,
+    "attribute": "Script",
+    "reference": "Fight/Fight0214.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript040100.txt@004ca3da",
+    "line": 1731,
+    "attribute": "Script",
+    "reference": "Fight/Fight0428.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript060200.txt@004cd296",
+    "line": 1663,
+    "attribute": "Script",
+    "reference": "Fight/Fight0636.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript060300.txt@004ce563",
+    "line": 1967,
+    "attribute": "Script",
+    "reference": "Fight/Fight0637.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript070200.txt@004d2626",
+    "line": 1973,
+    "attribute": "Script",
+    "reference": "Fight/Fight0742.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript080300.txt@004d743d",
+    "line": 3465,
+    "attribute": "Script",
+    "reference": "Fight/Fight0848.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript080500.txt@004da664",
+    "line": 2066,
+    "attribute": "Script",
+    "reference": "Fight/Fight0849.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript090100.txt@004dbc78",
+    "line": 2533,
+    "attribute": "Script",
+    "reference": "Fight/Fight0952.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StageScript090200.txt@004dd390",
+    "line": 3532,
+    "attribute": "Script",
+    "reference": "Fight/Fight0954.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StartTalk.txt@004e16eb",
+    "line": 325,
+    "attribute": "AniName",
+    "reference": "Avbg\\BLACK.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/StartTalk.txt@004e16eb",
+    "line": 576,
+    "attribute": "ScriptName",
+    "reference": "SceneScript000001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript010001.txt@004e2079",
+    "line": 1156,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0101.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript010002.txt@004e305a",
+    "line": 1235,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0102.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript010003.txt@004e4099",
+    "line": 1235,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0103.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript020003.txt@004e79ea",
+    "line": 2280,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0201.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript030002.txt@004f3ccd",
+    "line": 1491,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0301.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript030010.txt@004f8ee4",
+    "line": 2422,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0303.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript030010_.txt@004fa716",
+    "line": 2520,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0303.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript030017.txt@00503f73",
+    "line": 1554,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0304.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript040004.txt@0050a318",
+    "line": 2296,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0401.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript050001.txt@0050cedf",
+    "line": 2168,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0501.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript060012.txt@0051cefc",
+    "line": 1421,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0601.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript080002.txt@005283e4",
+    "line": 1817,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0801.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript080008.txt@0052ca89",
+    "line": 1404,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0802.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript080009.txt@0052dab7",
+    "line": 2293,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0803.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript080012.txt@0053062b",
+    "line": 4798,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0804.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript080019.txt@005400cb",
+    "line": 2652,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0805.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript090001.txt@00542e27",
+    "line": 1629,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0901.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript090004.txt@00545b59",
+    "line": 1908,
+    "attribute": "ScriptName",
+    "reference": "ExScript/ExScript090001.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript090005.txt@005470a7",
+    "line": 1966,
+    "attribute": "ScriptName",
+    "reference": "ExScript/ExScript090002.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScript090008.txt@0054a4c6",
+    "line": 1828,
+    "attribute": "Script",
+    "reference": "Fight/FightEx0902.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScriptSP080001.txt@005553b8",
+    "line": 2445,
+    "attribute": "Script",
+    "reference": "Fight/FightSP0801.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/SubScriptSP080003.txt@005576e0",
+    "line": 3700,
+    "attribute": "Script",
+    "reference": "Fight/FightSP0802.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:DialogueScript/TheEND.txt@0055a7df",
+    "line": 704,
+    "attribute": "ScriptName",
+    "reference": "ReturnBegin.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:Effect/wf5_m003_02.Xef@00566104",
+    "line": 13,
+    "attribute": "arg",
+    "reference": "water_bmp\\water_bmp.tl",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:Map/WorldMap.txt@0056e051",
+    "line": 9,
+    "attribute": "strMapPartName",
+    "reference": "Scene\\wf5_wmap\\%03d.sce",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:Menu/BattleMenu/BattleMenu_PersonCommandMenu.txt@0056ead3",
+    "line": 4,
+    "attribute": "BaseMap_Arc",
+    "reference": "menu\\micon_bg.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:Particle/test.par@00585823",
+    "line": 5,
+    "attribute": "Texture",
+    "reference": "water_bmp\\water_bmp.tl",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:SceneElement/Mouse/TestMouse00.se@005c1362",
+    "line": 50,
+    "attribute": "XFileName",
+    "reference": "cur\\\\cur01c.X",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:SceneElement/Mouse/TestMouse01.se@005c166a",
+    "line": 53,
+    "attribute": "XFileName",
+    "reference": "cur\\\\cur01a.X",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:SceneElement/Mouse/TestMouse02.se@005c19da",
+    "line": 48,
+    "attribute": "XFileName",
+    "reference": "cur\\\\cur03a.X",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:SceneElement/Mouse/TestMouse03.se@005c1cb1",
+    "line": 48,
+    "attribute": "XFileName",
+    "reference": "cur\\\\cur04.X",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:SceneElement/Mouse/TestMouse04.se@005c1f86",
+    "line": 48,
+    "attribute": "XFileName",
+    "reference": "cur\\\\cur02.X",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:Script/sp/Actino.txt@005cb42b",
+    "line": 17,
+    "attribute": "TextureName",
+    "reference": "sp\\actino_sp\\actino.bmp",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:GameBeginConfig.txt@005d9fc8",
+    "line": 46,
+    "attribute": "Command",
+    "reference": "NewGame.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:GameFileName.txt@005da136",
+    "line": 72,
+    "attribute": "071",
+    "reference": "Text\\Chapter.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:GameFileName.txt@005da136",
+    "line": 73,
+    "attribute": "072",
+    "reference": "Text\\Part.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:GameFileName.txt@005da136",
+    "line": 153,
+    "attribute": "152",
+    "reference": "Menu\\arrow.ant",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  },
+  {
+    "from": "GameData:GameFileName.txt@005da136",
+    "line": 252,
+    "attribute": "250",
+    "reference": "NewGame.txt",
+    "exact_path_targets": [],
+    "status": "unresolved"
+  }
+]

@@ -1,0 +1,3488 @@
+[
+  {
+    "path": "original_resources/source/.DS_Store",
+    "bytes": 6148,
+    "sha256": "eae7ac794a07bfebbff16ae968f4c2d51a936c35737805ac636cbba20b1c6cd2",
+    "extension": ""
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/.DS_Store",
+    "bytes": 6148,
+    "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+    "extension": ""
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/.DS_Store",
+    "bytes": 6148,
+    "sha256": "57e50eadb495d7a3fc8be637c008daacf51eec136e5189f399e68ae75fbad524",
+    "extension": ""
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Ani/.DS_Store",
+    "bytes": 6148,
+    "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+    "extension": ""
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Ani/Ani.JBF",
+    "bytes": 4262570,
+    "sha256": "6d546b5e370b83721d3fc9f464f6f42fee55fa6261ed90eb4bccc6501210c2fa",
+    "extension": ".jbf"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/AniTexture/AniTexture.JBF",
+    "bytes": 561167529,
+    "sha256": "4d3ce9ef1970169790324774d35b84b38d4a2debb82ff86e4f2a31f68890a9e0",
+    "extension": ".jbf"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Data/.DS_Store",
+    "bytes": 6148,
+    "sha256": "42a70e97de7d46cfc5fa8fc3a979c601a1bb00468e89a6d71411ce4f0ce7836d",
+    "extension": ""
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Data/NewGame00.wrap",
+    "bytes": 39405,
+    "sha256": "853245587c10d4aeffa9c705e071a415744b532af6c59de08a81a7c745fa095a",
+    "extension": ".wrap"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Data/NewGame01.wrap",
+    "bytes": 39405,
+    "sha256": "0e381cc099a0bb3ac17a4a10047c5626f1d0c44dc73c3b7cfd966333b6f83408",
+    "extension": ".wrap"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Data/NewGame02.wrap",
+    "bytes": 39405,
+    "sha256": "c13b151561f0dab97dbeb775b9eab07d46362a9f5c891620c8d817a5768c7c9e",
+    "extension": ".wrap"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Data/NewGame03.wrap",
+    "bytes": 39405,
+    "sha256": "6b7025ced2b2537d0746e1bfd3036eb7ad30f84a8d7ea75a5bd17c37785f2f60",
+    "extension": ".wrap"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Data/StaticData.wrap",
+    "bytes": 997078,
+    "sha256": "2c738d06f48a4409af01d916c3138c21b91416dbbcee7700f700992c4108b24a",
+    "extension": ".wrap"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Data/StaticData00.wrap",
+    "bytes": 209738,
+    "sha256": "704565c90751a808cc4db738de6a1606cef2798676eedf211b5c5fdfeb021994",
+    "extension": ".wrap"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Data/StaticData01.wrap",
+    "bytes": 209980,
+    "sha256": "de52cc2da8bb970d2fc55bd09d903a5781f5a5e41a60ee15345b7fe0b6029b26",
+    "extension": ".wrap"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Data/StaticData02.wrap",
+    "bytes": 210081,
+    "sha256": "b01457e1dbf76fdd07cff8c30d732863dfd0a40cbcfecf23b77e4df862ddf11b",
+    "extension": ".wrap"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Data/StaticData03.wrap",
+    "bytes": 210539,
+    "sha256": "f132144585a10d43e547f01416e8550d6f88adc70d42f220d14507b372fc3266",
+    "extension": ".wrap"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Debug/ErrorMessage.txt",
+    "bytes": 28,
+    "sha256": "587aed56ec158fb9936a4c31f373098c70a10547c6ae71aceb0835dff1b9e08b",
+    "extension": ".txt"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Font/16_20.fon",
+    "bytes": 26738688,
+    "sha256": "ee219171eaba45bb3ad2bcf58e694c750d06cfb8fe917a4c56738eef3e0ea05d",
+    "extension": ".fon"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Game.ini",
+    "bytes": 588,
+    "sha256": "8804858e69b8fdf4219e826c4df40ba67af24cdffb25ba5296ccc84b5121229d",
+    "extension": ".ini"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/GameData/GameData.JBF",
+    "bytes": 6352215,
+    "sha256": "1b10c18420d795c597209c8a19a8b79101a422bed13dd4198dd85d14d5bc9e0c",
+    "extension": ".jbf"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/JDLL_BindFileNodeManager_R.dll",
+    "bytes": 290816,
+    "sha256": "94cf54389c180de0adce670fa48e29305b536e7409efd0ba5717fb64bcd1b4d4",
+    "extension": ".dll"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M00.mp3",
+    "bytes": 1521896,
+    "sha256": "81664a3ba988c6eb7c706da87cb7a4ff73f98fdcc24780b676d2521f5e535b87",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M01.mp3",
+    "bytes": 1993145,
+    "sha256": "cfeb2e9fda47f02fb8053356f5fd039fb0d7c0a6689d2dda40f5f9dc58aca861",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M02.mp3",
+    "bytes": 2136088,
+    "sha256": "e04f32cba5334c50e694c058289ecadafd0e17ea293cec2b5f28a5543e783616",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M03.mp3",
+    "bytes": 2228039,
+    "sha256": "0ebc7b2f910d73ebcc68ae959afd9a67be16a9c638c24739c0d80c46da5ab070",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M04.mp3",
+    "bytes": 2189586,
+    "sha256": "5246eead244d6c0357d113128443319e521207114d30fc72b25d24020a699899",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M05.mp3",
+    "bytes": 3022161,
+    "sha256": "04313e075653a638bf2ef15f1cf8b6a3aa45e59e5a48ef18357775b0f4648f9d",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M06.mp3",
+    "bytes": 3001263,
+    "sha256": "a9077830d197b6dbc28d56d0e107b6e1c8b361ae1db88981940be4672c3372df",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M07.mp3",
+    "bytes": 2182899,
+    "sha256": "2b77b52c0fc5e197f3ca1288ab689a71254d4b46003c61e3bfa1f43f4159a670",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M08.mp3",
+    "bytes": 2452065,
+    "sha256": "30219e04b3e0421b7bfa3ec7e298e1d8b9ad7851cf4b31368e3803a057005296",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M09.mp3",
+    "bytes": 2882981,
+    "sha256": "020438999bfb0d754fff63add7e5c4b14d4aaebfb66ceeda438968ca9b8c2b4d",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M10.mp3",
+    "bytes": 2529387,
+    "sha256": "1b8cb3a93966ef5d8da4fa33f86a201dd86be25ede571968f23f5e18d69d26e4",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M11.mp3",
+    "bytes": 1896179,
+    "sha256": "984e66ff84b2908bd71e92430f93ae3451ed912bce55f00feabe75d2012f7022",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M12.mp3",
+    "bytes": 1913315,
+    "sha256": "b42ca4acb95a19b441ab0c60e1028941ac80c7c9705fd6eded2dab560d400672",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M13.mp3",
+    "bytes": 1869430,
+    "sha256": "24c8594c65273e60d7c683a14f121f675884e8d1364effea6df3f7fefe05bff2",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M14.mp3",
+    "bytes": 1494102,
+    "sha256": "97e5119796a0364a4030b31b49a0ce5fd4d42be512eacc5f3304f3e5ab341434",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M15.mp3",
+    "bytes": 2510161,
+    "sha256": "855e6bf4828bfb9503cec25b795a1641bc08ee09e587df07f600673863e6b2a3",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M16.mp3",
+    "bytes": 2277358,
+    "sha256": "497251f8a9a5ff2199e6b03ef68907caa85dc5c9e9f19686653a32013da6117a",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M17.mp3",
+    "bytes": 2695735,
+    "sha256": "a553d8c59305ca3c570ff2b9efeb72af946512dd7b235a17838010557d362c26",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M18.mp3",
+    "bytes": 2180809,
+    "sha256": "87eba4d9763b20931ef4a34ef66266a20cf4e24ebb0748740d69e183a4b97095",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M19.mp3",
+    "bytes": 2536492,
+    "sha256": "ac4e3b591d7aba92b325a97b1c88bfa3bf93f309fcfbefa8f904b344c52c59fc",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M20.mp3",
+    "bytes": 1672153,
+    "sha256": "4c3273b7f6402e7690335ec7ec3d4801402737b3eb62073437c30976f28791e8",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M21.mp3",
+    "bytes": 2824048,
+    "sha256": "2a2565aebe35637ed0000eb985a27ada08c39c7d439ec31cdf792cd7565fff59",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M22.mp3",
+    "bytes": 1651673,
+    "sha256": "8857eec1dc17e4450bcafc5b41dcdebb1603ecd70eb2e8d2a8b6871323629a69",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M23.mp3",
+    "bytes": 2349665,
+    "sha256": "7763bc843269a7b471c6401d4b00665119859986f52865c6840a4186eb794c64",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M24.mp3",
+    "bytes": 2198363,
+    "sha256": "5d933c18ab6e05b1e9d8e32e1e689e373ef03fbce2ab64ed5cd446c49214d415",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M25.mp3",
+    "bytes": 2005266,
+    "sha256": "ab56a354b1cf4274814b0317fffada14bb5334ace70cb78b14fcad8237decbeb",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M26.mp3",
+    "bytes": 2569929,
+    "sha256": "f1f18502510c1831b3e8ef9bd10fb4c2b49297f9541867c868549b39a4704187",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M27.mp3",
+    "bytes": 2401074,
+    "sha256": "a4baf7807dcce2667b75f276d61633db7e34a6a8e68111518505d22e7e1bbd10",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M28.mp3",
+    "bytes": 2702106,
+    "sha256": "514bb0742341985e9aa9d101b20933318a294484776caa4c8892eac1dd7d5923",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M29.mp3",
+    "bytes": 2800225,
+    "sha256": "e44a82cbfad08b6735d5664f8694e3a801716dfa2252c31312dd9e9ad1b51a08",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M30.mp3",
+    "bytes": 2264401,
+    "sha256": "b3ef97cc952901613f123ac5fe0bb1d7766883aea3c6e20cb020981d32864bc8",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M31.mp3",
+    "bytes": 457247,
+    "sha256": "054327fe30a0a7bb26923c54c5a6c92228e6024c9d9e4e42f9a0ba607de4eb33",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M32.mp3",
+    "bytes": 259970,
+    "sha256": "7949fe07255175210482828c13eee8dcacfd7e698f0c0e40a14ab5fb58e98488",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/M33.mp3",
+    "bytes": 1318723,
+    "sha256": "ed8d44a40f2511ec567234168f65a71d8bf5258872e6f72df253ad684985d0f6",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Music/None.mp3",
+    "bytes": 33018,
+    "sha256": "a5d36d611a8a0f5a94dfabfeb612147fba184c449aed4c0cdb8d943225258613",
+    "extension": ".mp3"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/STEAMZG.bin",
+    "bytes": 69372,
+    "sha256": "28b5bec86d8fb81fc8d5cb3dbf69b17bd2ea69ebfc125c52b77a6b8504afb1a2",
+    "extension": ".bin"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Save/system.wrap",
+    "bytes": 503,
+    "sha256": "2435ec48ca875e730280d452e59fb0de86dce4da8c94dc5784292d7cb9189b39",
+    "extension": ".wrap"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Texture/Texture.JBF",
+    "bytes": 25132186,
+    "sha256": "de6367afa4142e58d1dd4e42a1861df0d24ddf95608752d61f3fde30b785d837",
+    "extension": ".jbf"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/000.WAV",
+    "bytes": 8332,
+    "sha256": "e4e5370c472256f3e6d9d3fc4458166f9928e8aec31edc7e3bcf316d83ad6dd9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/001.WAV",
+    "bytes": 19854,
+    "sha256": "392a3cdbd009b393aa397702f0c1920d423aaff235a7298608bcac0143b1ed9a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/002.wav",
+    "bytes": 15166,
+    "sha256": "bab2e56f9e0f0cac36ed8ea092de9cf953296e8fd4b403a588779930b3537572",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/003.wav",
+    "bytes": 55528,
+    "sha256": "32905bcba81a01e20bed5cea440a93c47c69b9ec0bac0d9f13998d97c275276a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/004.wav",
+    "bytes": 27740,
+    "sha256": "90ab9726177f1b77b4e63288320122d7e86b7e49517a3462843d31090d8d88bc",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/005.wav",
+    "bytes": 12384,
+    "sha256": "9e892830149c72c7df0dbdc62a5837d60a8a7be9093ef76353ab0944ddd2c2d6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/006.WAV",
+    "bytes": 17158,
+    "sha256": "712edccf2e31db9d7745ae31ee282da3a5eda78b0dffeeb6e992d2c494737e17",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/007.wav",
+    "bytes": 28862,
+    "sha256": "33fc7cb9cd67e74f914750762d2fea8104b0b2c63a61f50e226ffa2c56b06c30",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/008.wav",
+    "bytes": 27038,
+    "sha256": "25c67b683c5b19e973ef52cce1994e2b2f5726d3fc92fa29fcd47e5742024767",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/009.wav",
+    "bytes": 15498,
+    "sha256": "7df86b8e2629ce618ef9f0fdd472f6bdbdb9a34a72c39a70dbaf6d48848630aa",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/010.wav",
+    "bytes": 18106,
+    "sha256": "f75105809f25fa52ef5a45b6dc06cd8bfaa7177cee641862d244f71760697ef8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/011.wav",
+    "bytes": 40802,
+    "sha256": "44a6ea3d8746a6a561464929e6f0e37ae59f174cd5c3d78e9f413dace7bf4f2f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/012.WAV",
+    "bytes": 27276,
+    "sha256": "633e67d83995205eef1fdc256eaa9629a293e3515807cf971199aa695ad1d21c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/013.WAV",
+    "bytes": 10784,
+    "sha256": "9390720f7a4a00ce3731e9d1cfb2bc7b17ce335ca87a68c4970cf216db972e6e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/014.wav",
+    "bytes": 24072,
+    "sha256": "5a2eb41d45d469f7b6762f064aa68657026237d32962d76d6d24c9f95fd89a65",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/015.wav",
+    "bytes": 68318,
+    "sha256": "9f141830b29906ac4795629bd93de1923b6d2ff0cc0f6976a01a5080d027cc9f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/016.wav",
+    "bytes": 23610,
+    "sha256": "fe2fc8d26b3d86c5a52c058341a22fb1edb5492d9b8fbb4388ab80bcf5629866",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/017.wav",
+    "bytes": 14564,
+    "sha256": "b41cebe6da091a45b9630cabbe9c3b0a5b477ba7d0af23c3ca9666adcc967160",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/018.wav",
+    "bytes": 62326,
+    "sha256": "06396fcceabd0862ca9a87dfef000b1596e876fd7d357e4669c04102309d7d58",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/019.wav",
+    "bytes": 8332,
+    "sha256": "e4e5370c472256f3e6d9d3fc4458166f9928e8aec31edc7e3bcf316d83ad6dd9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/020.wav",
+    "bytes": 10288,
+    "sha256": "06f79b3b90a3fa21658841f17658b51edf6b3a44e9b1098d0e93b5c5cf141dbb",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/021.wav",
+    "bytes": 10288,
+    "sha256": "70e1dece17902a7ea9e742c63edb71fdb8e51cb9514b74cbc294f7792dfc0929",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/022.wav",
+    "bytes": 65206,
+    "sha256": "0f4947713ac31f0371ba95d728a4b4553ee2d12a0a2eefb0697bc79360d07ca4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/023.wav",
+    "bytes": 76800,
+    "sha256": "4c235e37c3a494e6e27c0e0a362f22ed3afafa696d2ce4bb8a6bbae4073c6c27",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/024.wav",
+    "bytes": 54078,
+    "sha256": "f9ab62e88241d6918c2abb8225f47c5526c6af45efd5c1c89839cfb2bd77593e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/601.wav",
+    "bytes": 55246,
+    "sha256": "8dee4925a796e0e332def40b2d5f9a855bd2a4529e973315c6a62fc86dca1a67",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/602.wav",
+    "bytes": 76234,
+    "sha256": "6478cf7c6307be129badc68692cb10cf030f0c789d697e6f3d639e8e442ccde1",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/603.wav",
+    "bytes": 73084,
+    "sha256": "dc41ecb5da2b35e8f540d61a8301c57fc6046e839cdb7542bdf8d4df6bf5edd3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/604.wav",
+    "bytes": 27366,
+    "sha256": "aa9fe64f39478b16958b8b3046d1ca8f4e6d15553869f6053080ffdaf6efdd06",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/606.wav",
+    "bytes": 4332,
+    "sha256": "4b36a3d99d5561db0566bf132ecccd951402078a91ff48defec188e5310111e6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/607.wav",
+    "bytes": 12718,
+    "sha256": "87748fce7a8063e934b9bed59b2aac3d58996d930c7293255d42b27339afbfc9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/608.wav",
+    "bytes": 3294,
+    "sha256": "5db51be926a68300cd0ac5645dc8f9f8611e9334dcbc31ecb67aaf901a14e35e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/610.wav",
+    "bytes": 24968,
+    "sha256": "51d8c6ea800c91b010335baf92b676599a6bcc933f63348f2e746c8628357e3b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/611.wav",
+    "bytes": 18682,
+    "sha256": "473ca31f344c19c3f2eb16268ef9ecc532b6f7e7274f328cc91c93ee890c7d61",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/612.wav",
+    "bytes": 9478,
+    "sha256": "150c690be0248c8a47476f1ebb480a8385580f9640e471ac2ae0f9c1b52ca4f4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/613.wav",
+    "bytes": 41268,
+    "sha256": "d916f480b48ac28f89f61a9bb1b0893229ddb57c85e2e413c4c5383e3bebab20",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/614.wav",
+    "bytes": 15780,
+    "sha256": "2b7492b820c2ea650871780332d7053412232960177e49629bce28a3fa70f8c1",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/615.wav",
+    "bytes": 13870,
+    "sha256": "19f44ab5fe1bca75001d1e728b5c48186054fa87ee387703a49620baf15022ca",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/wc_step1.wav",
+    "bytes": 4030,
+    "sha256": "63920b6d5da94d3bd8bdcd81cf57d9ba0a13e0c9f9572124983c8cc852d12656",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/wc_step2.wav",
+    "bytes": 3356,
+    "sha256": "89a00f610334400f5c09cf3741a79dd9ab1565d3ec41301f21d8e75ac802ff46",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/wc_step3.wav",
+    "bytes": 13240,
+    "sha256": "4374fb4f06698e6cdad9e5ef3af17be2a11ef3fc6556fb58bcdaf3bc788655de",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/wc_step4.wav",
+    "bytes": 10246,
+    "sha256": "a520024633d8263b465e74633a764d2cccdb190215d4fae0e6c70d0d42dbc941",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/act/wc_step5.wav",
+    "bytes": 10246,
+    "sha256": "2d616276fa67b09c1c691e46d18caf684fbfd74b86a884e8d302996d7e2dc0f3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/000.wav",
+    "bytes": 21210,
+    "sha256": "d8da29dbb827a05dd874126f39683777b1a4f884358a0b9066199153769c0547",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/001.wav",
+    "bytes": 19964,
+    "sha256": "fd40fc906fd5c911b17a1520a2fff0c7690e23a9111392183bdb69bf2996e946",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/002.wav",
+    "bytes": 10938,
+    "sha256": "5e62de8c46aa6a8b0a13b0ce3d1661f15bfc537686cb40c1de2636f0fc472ad3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/003.wav",
+    "bytes": 26606,
+    "sha256": "5f43e4eb77139cd6baf3d8e32634a562fe36b1d2b715c0a2f0c4fee29effcfb3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/004.wav",
+    "bytes": 14292,
+    "sha256": "50a8d0571745d60775f9c9abfd90a6c3dd01d77aad598cf2199240d4d006003f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/005.wav",
+    "bytes": 9342,
+    "sha256": "eef4c1601ab9820494c9cb5f1346aaa60024b3b10624841da3a9f2e8bd83372b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/006.wav",
+    "bytes": 16766,
+    "sha256": "35d6b35d88b1757f0919840ea1289ecbd2bca5132153cc3f7174ee6ceace69d9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/007.wav",
+    "bytes": 47820,
+    "sha256": "1268832af9686d0dd4f56b720ca9cf311c58dd6c2ada47e20110713113d4e254",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/008.wav",
+    "bytes": 15170,
+    "sha256": "6bdd2fbdeaa75a625455e2334a2db2b15b01e794fd4d3eea17811967d27998bf",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/009.wav",
+    "bytes": 52838,
+    "sha256": "831e6ac5976fe12193e43a2a3fecee0030ffbe59c52d21c72552b0bbe7b4465e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/010.wav",
+    "bytes": 17696,
+    "sha256": "ce03ec87702c168136223858d2e082b3257d119848495f3c5d76ab899fb8fb99",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/armor/011.wav",
+    "bytes": 16254,
+    "sha256": "10d2e849660bdbec112c03cea17371f3ba9b9cf1fa9d2a96e8b8dc370fa67858",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bk/000.wav",
+    "bytes": 96324,
+    "sha256": "7df1d09cc569ec8bff7fa7fda01aba6b8c3f3beaa8a1cb3c98849632a619b19a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bk/001.wav",
+    "bytes": 409880,
+    "sha256": "bfc7f973a7b6a655f1f98bc7bf5fc859ba1acc4208616c0e1cc5e3619a2b9358",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/blood/000.WAV",
+    "bytes": 54948,
+    "sha256": "08a90de180c80951c086fdd0715e169389726a2b2889891822893626001538c6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/blood/001.WAV",
+    "bytes": 91526,
+    "sha256": "08735cbda38edd1bfed5b0ab8483bd6ddaf2a553cee7973bd90144642ea2e4c4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bomb/000.WAV",
+    "bytes": 38798,
+    "sha256": "e65846f1805442f8b05d9ba80a507bd57b030b0762a1c492909c9d9ab893f2bc",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bomb/001.WAV",
+    "bytes": 21572,
+    "sha256": "728f834a00c0f5aee009d8ad7c080c17da9f97a5ce00d6b4001009492c4598a3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bomb/002.wav",
+    "bytes": 60788,
+    "sha256": "2384653152296e22821643a23baba93ecb35b86151dc398ab8dafc5950a8a7e4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bomb/003.wav",
+    "bytes": 116518,
+    "sha256": "263b8904bc5f18995e5f85f9210a0e68b1a37e24830aaddfd57223708da3eab8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bomb/004.WAV",
+    "bytes": 75436,
+    "sha256": "b2d47d9b61ecae3171f642cab379965adcf804933e42229b9c743bd362b1f0fb",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bomb/005.wav",
+    "bytes": 102966,
+    "sha256": "75e105dabcb62c388b86b66e968f5b9b13a0d470728210e374997147312b631d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bomb/006.wav",
+    "bytes": 228610,
+    "sha256": "f4ea38ce93f41fe3590d7a26ea3706b52215c6446a1fc7b081a07b19d4286fb8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bomb/007.WAV",
+    "bytes": 65340,
+    "sha256": "0137aadee5d2084f07525865276ed682357505aedb6bb97c740695d273dd1b5e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bomb/008.wav",
+    "bytes": 25170,
+    "sha256": "32fc903452e77d55da6e0b2fc402b1865339cb602341a61edf6e05397cf1330c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/bomb/009.wav",
+    "bytes": 44234,
+    "sha256": "67f84a0c7ec4eb64688f50dbc703cdcd8d78b307ba27920b2cc72ffec1e8b740",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/000.wav",
+    "bytes": 6048,
+    "sha256": "703e7b5087ce0a14ce1bbf68771bd4236b24ae39a6281f56aa24b054ea9ec3cf",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/001.wav",
+    "bytes": 19054,
+    "sha256": "2aafb61e48a787e5dc96ecdf5af5df02d29dec5fef6fcce878377c57a8807872",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/002.wav",
+    "bytes": 14904,
+    "sha256": "40d7a83436c529be08328e83e60a7f26cf4233ac6ae09364a7e78f0148892273",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/003.wav",
+    "bytes": 3966,
+    "sha256": "d3b7dc5284e05c84de37591dc4f0093820b24e71ede01c0e1ce819e0350c683d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/004.wav",
+    "bytes": 57634,
+    "sha256": "5ea1062a5a70bfaeaa9e9937d783bf4507448a50d2661b53dd42e5d380569d82",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/005.wav",
+    "bytes": 1638,
+    "sha256": "af6c565a2c935422d25d9ebb81ca7cb659ab1aa5ab2e0a33de140f8121194f7d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/006.wav",
+    "bytes": 1372,
+    "sha256": "93dc703479a225b7c7d3e58ad559d19ad04fa2e5c3e4b526b9940593e7d17c8d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/007.wav",
+    "bytes": 17760,
+    "sha256": "0ef14ce1ee96560b0b6a931392126b7c0484c0656babe1eb8645aa48a4c59171",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/008.wav",
+    "bytes": 1636,
+    "sha256": "025619e7c73a09f162d676474709a6d1847a35b14190893333476b8c1f53c8cd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/009.wav",
+    "bytes": 5798,
+    "sha256": "d446f9e1eeea50d81df6804748954e5badcfd6b61fbd36b63981a057edfd08d0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/010.wav",
+    "bytes": 19122,
+    "sha256": "fdbc649d2617beeaadbf5f0811344fa74902f9fb240dbe1aa343e281b8586026",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/011.wav",
+    "bytes": 5884,
+    "sha256": "481f58d1c7ec72f6e8dbcab5418eecc5428d05ade21dc266dc72ee086faa77a5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/cautom/012.wav",
+    "bytes": 12770,
+    "sha256": "f2f3fb3079f3c1ee8ea77c8a148e2dec6d94ef0d30a37fc39725a10c0fa5cfcc",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/000.WAV",
+    "bytes": 77822,
+    "sha256": "dbc7fef8b87ff61607b67dfd66430319a46c26408f60264e69045d3945db27ee",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/001.WAV",
+    "bytes": 51156,
+    "sha256": "37526f6e5572f59d49731f9c79ee15ba1adbe3d939d8e716e449622d7b3b71ec",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/002.wav",
+    "bytes": 48550,
+    "sha256": "99328344e929d65502007c17c26665a4bc5df9d575aeb48c6dc2bc93098687ef",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/003.wav",
+    "bytes": 115614,
+    "sha256": "fe3c0f4392ef3db5b5bb8a2626351013fef6e6aa2b2dfbf88799525b7af9ea25",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/004.wav",
+    "bytes": 100174,
+    "sha256": "a4ee5603908f5df30101c5bb8b176b1948e1ba9773ef8b609d45c3ba28775482",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/005.wav",
+    "bytes": 80866,
+    "sha256": "09517abe23324fcab829de38900b638d2622f72419d0bc025dd2037395be8741",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/006.wav",
+    "bytes": 195954,
+    "sha256": "6aa062feb0bdc867706e5d41ecd1140c92e8c4b1d06871de0d8bd1a403d55442",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/007.wav",
+    "bytes": 273142,
+    "sha256": "438ef0ff28d37f1cc3543e341001fc01867d9dd792d370e88c7c66dc5c80e11b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/008.WAV",
+    "bytes": 51156,
+    "sha256": "37526f6e5572f59d49731f9c79ee15ba1adbe3d939d8e716e449622d7b3b71ec",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/009.WAV",
+    "bytes": 58026,
+    "sha256": "0b19bd60c863e2235dfb84ef18d130faa4a535d547c3ede89ab5b06e1385d971",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/010.WAV",
+    "bytes": 22132,
+    "sha256": "632a9d7448d58e3e0cbf6b84ad07852c1b4a6c1fa0090944ce2d77a5f593d781",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/011.WAV",
+    "bytes": 36504,
+    "sha256": "28d7dc88c09207d97facfd2f641e0ebeafe3655f5956991d1c0c366c716d79c9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/012.WAV",
+    "bytes": 8496,
+    "sha256": "52496a6434d7b8cff2445e0a4b4815937c539c7fa05b4f51447b70df3c047670",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/013.WAV",
+    "bytes": 35972,
+    "sha256": "d91bb3a6ddc7e1b166e7581f1cd3a57e62b51473ec6e1fed0c2239b64ce05fa3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/014.WAV",
+    "bytes": 35766,
+    "sha256": "f5a2e701b2f455163c4d9b708d11cd73a67313723f20fb2ef214c50134a72dd9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/015.wav",
+    "bytes": 85384,
+    "sha256": "370721858e407510859bbbc8930358889cce642620a9e848b3df84f25a4c8422",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/016.wav",
+    "bytes": 35446,
+    "sha256": "37136b04b6528644224b68cd7b51faedf3135a990efc67142b5c7204cefe6960",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/017.wav",
+    "bytes": 21526,
+    "sha256": "a20f9f30900db59b2ecabd4e3311ecc9d1fa809d204ee9b9f7f4b951eca05330",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/018.wav",
+    "bytes": 35972,
+    "sha256": "d34cac839b046dc0b1e189f1f9032a9b2cd06169c8600cf595de9559a704d9e1",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/019.wav",
+    "bytes": 53424,
+    "sha256": "8d7e075049b87e62ec73c21c07528ea744f4632d627af69a941b638d68fad8be",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/020.wav",
+    "bytes": 28946,
+    "sha256": "1ce1c27c0472c74fd182a2c9131d3d7901ea5274e9e7bbd0950a9f48bfbc7d4e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/021.wav",
+    "bytes": 38596,
+    "sha256": "f34b5da16176f75d9ea9ffc8c0bd31da17a0871647ccfa8b2dec97e4ca4c4da2",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/022.wav",
+    "bytes": 42106,
+    "sha256": "82b908f9936ea9159bda45b2ecdeb6e659edd2797f1b76a7cfa3830eda4be118",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/023.wav",
+    "bytes": 17612,
+    "sha256": "d2e2f78d090a5b13db2405413423ca1b49f3107bf4565230fb1dd92431a10354",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/024.wav",
+    "bytes": 63628,
+    "sha256": "7e21171e05fdd0818f5923ff424288223e06e841b61e5805c4c40075d1cc5346",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/025.wav",
+    "bytes": 8190,
+    "sha256": "0e79b1cb0acad3b902cfe54fcefe34d274f786ec1c79ec96210378ce2f083039",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/026.wav",
+    "bytes": 34174,
+    "sha256": "bf05421b9e50aa61e998e096583a2e71e9b941ab187ba49c590dc71206bf49cb",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/027.wav",
+    "bytes": 22468,
+    "sha256": "5b9704ae1ddcc4619d444eedf8d785fe7d36573fdef3fda4a074b4b36ee55b4a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/028.wav",
+    "bytes": 34224,
+    "sha256": "07eecf9f0562fd51acba550ff99700c51de7a6abde2b66e6ac76e234a85fddb0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/charge/029.wav",
+    "bytes": 80866,
+    "sha256": "2cc596d056edf99562af87242e442f93db89a571c45682449d2c59e54c086467",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/dash/000.WAV",
+    "bytes": 13842,
+    "sha256": "093be37d2b481ba6a4742daca772a4a0976bbbd09948bb02c89cb3088d69f47c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/dash/001.WAV",
+    "bytes": 58144,
+    "sha256": "7f120f861cd5df6d6c05dea938342a765258e4f4f02eeaa31fda0732ddd7d27e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/dash/002.WAV",
+    "bytes": 25628,
+    "sha256": "c1907d1aec4b71d3ebfade7b102f58a7814c6fae551930b60ed09e76641a5658",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/dash/003.WAV",
+    "bytes": 50718,
+    "sha256": "f53a2cacf4c319d98ec6258e92bb3da91a9dcea54cc86d775e87dcb428e3f0d0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/dash/004.WAV",
+    "bytes": 12558,
+    "sha256": "8e0e534e7398603131202ef331a73b3c8df6b7f0d92ef518dd5a9aeb1bac8cb2",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/dash/005.wav",
+    "bytes": 32186,
+    "sha256": "c012a1814e8699971329ae777477a10359b13a4d73c91d72f1f0d6d97561ff99",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/dash/101.wav",
+    "bytes": 58490,
+    "sha256": "0e8bdce3efb30e9d33572a6a79e6b80145a9b689f5cf7bddd235f3cfdb1a6eb6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/donw/000.wav",
+    "bytes": 31376,
+    "sha256": "a2bc54c1ce6970cc567301c96027b2b71661a5f45a11e67da166a804cfc4002f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/donw/001.wav",
+    "bytes": 59572,
+    "sha256": "cab6106e0098b1f7d7f76e19577d18e963ea1f4d42c7521ab24103ea4ba184e4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/donw/002.wav",
+    "bytes": 16108,
+    "sha256": "58877ecbc21d58cf06b17d6641e3e81030d2c718df2ebc66a3bc39508ad5bbb4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/door/000.wav",
+    "bytes": 38764,
+    "sha256": "e491bd5ae946d6fddd215f87aa8f90ab378a783814457b3b232b604a66cf8ac3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/door/001.wav",
+    "bytes": 16926,
+    "sha256": "33e3fdd9aaade3e9d063f388e2a488fbfbdc2cfbc4bc7066dfd979af16bcc5f4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/door/002.wav",
+    "bytes": 44080,
+    "sha256": "909426777f67d6702c54796975ffeb5ded76954d69570737b3d47defe3ef216b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/door/003.wav",
+    "bytes": 29450,
+    "sha256": "dae156be1bd17330f6af46a1768db4e484a1b97a8bc620c103967ce5a6164656",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/drop/000.wav",
+    "bytes": 15706,
+    "sha256": "f77826dedf41cf043bdb3344ebf92d749fd79f866c9e77b4fdcad1651b5ca424",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/drop.WAV",
+    "bytes": 3812,
+    "sha256": "fdc6a70dfe88faacf62dc9d43c2fa764c444e32d6a9cbe64baff4ef94ebd4c3e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/error.WAV",
+    "bytes": 24596,
+    "sha256": "de01e6b700aac0da9a8cb3f1357b9a4c7a93c7485fa49d5b425a1792f60bcbee",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/fire/000.WAV",
+    "bytes": 18844,
+    "sha256": "11e7efeaf8f35fee8492526a16cdf577d9abb33b8dd1eee213d86aae863ff30d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/fire/001.WAV",
+    "bytes": 65206,
+    "sha256": "0f4947713ac31f0371ba95d728a4b4553ee2d12a0a2eefb0697bc79360d07ca4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/fire/002.WAV",
+    "bytes": 20072,
+    "sha256": "b3ef5d694e7ac25caa3db68de4d33d462205fd810fa8345c69773d883e0156d0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/fire/003.wav",
+    "bytes": 30258,
+    "sha256": "7c827d37074562f7e8b5b127b6f71801f51190cf87f92ee4c7e69b434f39a0b5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/fire/004.wav",
+    "bytes": 23934,
+    "sha256": "dda8e04c71c3052092e5b8d681580b466355379f9dd7c7742937c5118471973f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/000.wav",
+    "bytes": 14914,
+    "sha256": "bfb40f84155493de312e41455c4d7ecee63257a80d49384977e6c8122440a537",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/001.wav",
+    "bytes": 50808,
+    "sha256": "7b5c02906772fbd4fdf10db75dfe98d768797e8881456fb5813668e4dc4b1617",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/002.wav",
+    "bytes": 85366,
+    "sha256": "d137ea374442a509c25a8300ecdff2b2996cddcdfe52bf702b8bef6a865b9ea5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/002a.wav",
+    "bytes": 34274,
+    "sha256": "ae03f0ea72757f72ff21d32bc4234ff53a876b94bb8e32aab69b327dbad2e402",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/003.wav",
+    "bytes": 25562,
+    "sha256": "f29ead79f45a750ae032f359e744a6e9c60839542f7e82177aec605c53817ad9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/004.wav",
+    "bytes": 34070,
+    "sha256": "be18f2f8d81b4c733608d7cff153be08515658d67ada67bed1dd2d3d94de21bd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/005.wav",
+    "bytes": 21914,
+    "sha256": "c4ebc610209c555bd29963196f8cdd49db166199bf1cdcc3bc2a10fc0cdcad7e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/006.wav",
+    "bytes": 193072,
+    "sha256": "90ef71e1a653a68b444df223ea89774dc22b408d1d5e6d0af9d3a1c87343cd29",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/007.wav",
+    "bytes": 4242,
+    "sha256": "ba12300b5d523d6ce96b59b79f9dd72ee54d06f41b340e4b20ada29d346e1287",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/008.wav",
+    "bytes": 3600,
+    "sha256": "d18a072c7292336141dbfa9023da2ccc568501f399f9d75ccc03296c7b40d45c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/009.wav",
+    "bytes": 16502,
+    "sha256": "2b00fe56e66df99cb5da36c2ede297296bd90a865c580b5c821d7a21ab17a045",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/010.wav",
+    "bytes": 29608,
+    "sha256": "464fea43af814a333d0d7b8a3c82e5b99cc6216b24032ec2020809e8c29eb79d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/011.wav",
+    "bytes": 106298,
+    "sha256": "f02f69938064f2a24eea499d398dc3d5f4cfccecc4f2ce7781e9706bbafa958a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/012.wav",
+    "bytes": 57634,
+    "sha256": "f638cbb6df500bd1d208e62fe8278b1f24112ab4e265b08d8f9b54f78d8d66c0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/013.wav",
+    "bytes": 13996,
+    "sha256": "52655fcf30be394035cadb31f615b9583f40038e8c9f6c9fd229c99dce5d5343",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/014.wav",
+    "bytes": 9404,
+    "sha256": "3b50022d2a924d6b4d7b17a61ea13f40d279e6641e43f787f8ddb378e9ccc6f9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/015.wav",
+    "bytes": 28762,
+    "sha256": "d56adbed1ee73c437bc8c93e8b34586053631e17e607c54630e17e291d695236",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/016.wav",
+    "bytes": 34124,
+    "sha256": "e06bc7cfee1760afbe1f95d8addf149f32bde60ee336fb24354c8f5d2771b0dd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/017.wav",
+    "bytes": 14876,
+    "sha256": "c5cf13108c09ab07ef08a8e86891d0ddd9e0f76ccb10832f94e84be383d4bc1c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/018.wav",
+    "bytes": 9132,
+    "sha256": "744347cc51fb50ad711f3fa55f5eda6899a0023854c9a6603a59856ad2df2f3b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/019.wav",
+    "bytes": 9128,
+    "sha256": "7a135102319cd5fd3d08249c4844cf5030c222a401b8912dbdae2181d3178e91",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/020.wav",
+    "bytes": 27260,
+    "sha256": "ac283ee74b4fcced6f4dbe214d1e412aec56c2223caeb72e51e7f1d4f2cfdd53",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/021.wav",
+    "bytes": 165504,
+    "sha256": "7e444cd7f2ef5f03df6d19249aa3b1b923ec6dbc55a9949651d3001857c41a62",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/022.wav",
+    "bytes": 201854,
+    "sha256": "29c0305a6ae2e67292aab676ae096f7f9c293fb34587be7c8321bfc0e00ef8c6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/gun/023.wav",
+    "bytes": 16240,
+    "sha256": "806186371677f17216ea8cd1d7a27bc37d7d4da8e66aadd848c63e607fd71fd3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/000.WAV",
+    "bytes": 22122,
+    "sha256": "7af3301b5e36604b6d199bae111d255c9a387401bc1ea9c52621d52df5c22bf6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/001.WAV",
+    "bytes": 54588,
+    "sha256": "a9d60dffe56ec669b68469d8f0e6e95e8317f64cacf093fc3e2274ba56386b8c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/002.wav",
+    "bytes": 21668,
+    "sha256": "25627f05709d9e35c93a427d9af5cbfca4357d6de7519afff9cb6d96ce871dac",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/003.wav",
+    "bytes": 159974,
+    "sha256": "185a83127d5574c90861defa9dfbff99726dd6169042592ed2d523871d9dc190",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/004.wav",
+    "bytes": 20930,
+    "sha256": "00fb53f219e5fd9dc80240cf88400283c65a1828a691c434c8f2fafcd814f5e1",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/005.wav",
+    "bytes": 24176,
+    "sha256": "21197ea8430d1dfab21fabe4ac1e45b56e4392371edd08f8651122d75584eb5c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/006.wav",
+    "bytes": 26838,
+    "sha256": "5f7f9d1bed5604081442910a0b119e827487cdee301eb55eb634320b588370e6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/007.wav",
+    "bytes": 23904,
+    "sha256": "13305520cb685a1d7b82dd0f761c20355c43a4ec11bfcf8ee6bbc39700e624a3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/008.WAV",
+    "bytes": 21108,
+    "sha256": "fa32885659c3f88c12fe7480558c31bd24f4817324c6bab380ff557f80ec045b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/009.WAV",
+    "bytes": 59646,
+    "sha256": "e032068ecbc1b6618521acb7c3ce2cf7b18eb8ab3834255175f2f94ff0cad56b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/010.wav",
+    "bytes": 21670,
+    "sha256": "6504f158770f379bb2856b9754c234ead0865e523e4d350b117022c55005a936",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/011.wav",
+    "bytes": 11358,
+    "sha256": "8fd6c391b2e0f8e5f9d1c32ccb708e44b7f7088bc98ab2de951d61e6ed28c651",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/012.wav",
+    "bytes": 20002,
+    "sha256": "2489c58ce471451966392e15dfd173a173ef329607c138b61f11878a2859d553",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/013.wav",
+    "bytes": 39670,
+    "sha256": "d9a35474f5a6731dd065e965d79df6b03f07400e2eb56f0c2f0feca7746b2c47",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/014.wav",
+    "bytes": 22774,
+    "sha256": "1b09da31518b61b6be1d777fb21a6adb67f8aad5e642cfa4461cca1c2f07f0fd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/hit/015.wav",
+    "bytes": 20572,
+    "sha256": "70d9ee4b1420f4a0590df27e124b13dfe3e6e26848f0141d4089f05270d54557",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/ice/000.wav",
+    "bytes": 140250,
+    "sha256": "c94a38324b4f602c23905f9aae075ab873f6c6f43547e190b01e994cc9225615",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/ice/001.wav",
+    "bytes": 74270,
+    "sha256": "cfafbaae7b88e817755e97d3eb6402971d944bb0d7c1e75c09def26590d28a99",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/ice/002.wav",
+    "bytes": 25766,
+    "sha256": "d02f6466a3a69b4675b207ecde0df4c3ffc804812f7442bbc91d165056813db0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/ice/003.wav",
+    "bytes": 35032,
+    "sha256": "782d1f10a4ac0f8ef0e1af678c3921101fa3448220468128601052a4fc563d7a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/item/000.wav",
+    "bytes": 105972,
+    "sha256": "e561818b3a2931c55e2cafa9619a5b6fb773e92f6a33509120a2647de3ee719d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/item/001.wav",
+    "bytes": 41718,
+    "sha256": "4a6d23d1f6f8333337eb19e3a9e86b35de91e72558b27b7985b9f557ee29b52f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/item/002.wav",
+    "bytes": 21390,
+    "sha256": "4c5ae64c301bf1c8abc0df6828fd5822ba5f990d597e893de8edcd3ef28afd64",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/item/003.wav",
+    "bytes": 28238,
+    "sha256": "6f3cbee47486a1957eef449053c4ed224e58686d14567cc76ca61c0c44d6da60",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/item/004.wav",
+    "bytes": 33614,
+    "sha256": "f42b5aeb45407819e0bb6b3f2f3f8968bda3eaf915d182526a116f92df81cd5a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/item/005.wav",
+    "bytes": 29184,
+    "sha256": "19e9000037884c563e4ef1705c9afbe5792522c4a871e08d16cf98498620745b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/item/006.wav",
+    "bytes": 12350,
+    "sha256": "70e2d35791aebbb11d23ed8e443f67e2f42eb0522436bb8490c344d52f2d739b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/item/007.wav",
+    "bytes": 19122,
+    "sha256": "ff3eeb460c3ed47a197e5e7aba513491dc5764261bdfa5a676936cc629ffc3b6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/item/008.wav",
+    "bytes": 7426,
+    "sha256": "a21c893c03439376c0bd45bfa961a9b18283a85ce06c53ff06cab7778491d012",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/magic/000.wav",
+    "bytes": 70336,
+    "sha256": "87b1dd1cdc15e8bf9abcd0de9da0bd9c4b9a2ade04e05a6b111b2a59c9c07faf",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/magic/001.wav",
+    "bytes": 94716,
+    "sha256": "0e5ea522af65e1c265e84d28525f2a05436659a81806a1cedf43dfca627830d3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/magic/002.wav",
+    "bytes": 30164,
+    "sha256": "740a0461d424df9516f88f275a3b6602a1852bf91596781028a5edbce91be842",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/magic/003.wav",
+    "bytes": 68214,
+    "sha256": "2140b761914e2baacae6e0ffb6ed8cf14fcaf9251c91272a2102c087cc16b254",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/magic/004.wav",
+    "bytes": 31642,
+    "sha256": "5690637822265f01d161d331be9ce9a2ca459948c94dcd181fad8a8e44337cf9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/magic/005.wav",
+    "bytes": 80904,
+    "sha256": "25fc5946905e4f4178e1e679512147581af0c868648e2d777c0188e08239ff84",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/magic/006.wav",
+    "bytes": 29490,
+    "sha256": "de78a949d290adb49752aa56bafc130157a17a73cb16cdaa79de2f573c7d5107",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/magic/007.wav",
+    "bytes": 38654,
+    "sha256": "315bc2d40b419df10a2e1bf3fce33975e0e6713c3433ecc0429b7577abe3b3db",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/magic/008.wav",
+    "bytes": 69750,
+    "sha256": "60db7583ff58973b7abff5579801c0d923e9ec800f1229a23a86e37bac0e0401",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/000.WAV",
+    "bytes": 5528,
+    "sha256": "2bd5d20acebfdd4ace6c8f679a0453f205401efe74651b9c330d59cbc902dbca",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/001.WAV",
+    "bytes": 14900,
+    "sha256": "3e8ceed2563551f52c157c15714fbc5dce59f52b07c9cc4df33b8e1f599f828c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/002.wav",
+    "bytes": 15070,
+    "sha256": "590d43633308a5dab545ca33754d6a66f9118569357d6183b14e262f694be8e7",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/003.wav",
+    "bytes": 46866,
+    "sha256": "caea040004638dc3e502902d373bcd7e20b950cb95f5c1bc86d120843ae79757",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/004.wav",
+    "bytes": 43532,
+    "sha256": "4dabddf8daa2e2638ff3308725abc59be79bd148ad9b2161862cf685d98e550b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/005.wav",
+    "bytes": 12818,
+    "sha256": "f70c83856c169717f8d968f10343c2687c17265b4062c505114ea520a60802db",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/006.wav",
+    "bytes": 30846,
+    "sha256": "21cdb963fa9fb1d4bac4747cdd053411c799ab316a90e1fd42c521578f6ce1d2",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/007.wav",
+    "bytes": 28190,
+    "sha256": "0dcc8b9acd0349d96a7306e2bf190821cc7aa1ba2d17d6f219dc34698c561152",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/008.WAV",
+    "bytes": 15362,
+    "sha256": "ade191ac65fbf11061f75b8508cdbd1631fce10ab2b77ac9af1e883655bd24b5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/009.wav",
+    "bytes": 42344,
+    "sha256": "15b908b5ea2e6fc9235b4757fcb67da452f4af908cff1f3a359dfb7d4364091c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/010.WAV",
+    "bytes": 31626,
+    "sha256": "ea3ee373f16392f8a3fd342fab4859e5db3a19669a7df7ebd17c33e0b4f9feb5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/011.wav",
+    "bytes": 41782,
+    "sha256": "b0e09b1d1487b4b5f2084bb9d2cac827d576c1c721d38ca0c7b2260354ffd336",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/012.wav",
+    "bytes": 21558,
+    "sha256": "c042bbc59c70104f8a63a72bbb30c9884b571ae64ede614ff7f10ad2f6ef00a0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/013.wav",
+    "bytes": 25956,
+    "sha256": "0b1afe92632f4a0fa7c869c7211eed834a296f7d07fc37495063e5dcb35be86d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/014.wav",
+    "bytes": 18966,
+    "sha256": "bf04f408898c1b731c4d7858a30f0cfaa7f041e940723b7e893a9fec850711e5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/015.wav",
+    "bytes": 41076,
+    "sha256": "7ff3fdfddb0f57a71882e04426db9bee58bf49561a57fdd511292ed547c121be",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/016.wav",
+    "bytes": 25138,
+    "sha256": "c4950400d1002b6dd0e3db8a50b271bef970d5cb1014d1d93e4b291af63b95a4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/017.wav",
+    "bytes": 66282,
+    "sha256": "1a5dc7ea1a25725c86cd27781a32fac4285852087e751daf9bf7a13ba9ac0d57",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/018.wav",
+    "bytes": 13238,
+    "sha256": "40da77b04c725875703811b9bbc12bae210c5de59299e2c2733f73bd92eab219",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/019.WAV",
+    "bytes": 7918,
+    "sha256": "0d3d212bce6f1b7ad3d73338a4c529b8da194dca534094ae1db89fa6b7a66c41",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/020.WAV",
+    "bytes": 34948,
+    "sha256": "649ca245712eee2ca404780e0acefb8959bc2215c9557af646890b7e156b5fb4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/021.WAV",
+    "bytes": 5528,
+    "sha256": "2bd5d20acebfdd4ace6c8f679a0453f205401efe74651b9c330d59cbc902dbca",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/022.WAV",
+    "bytes": 81654,
+    "sha256": "714acf79e87c882b16348d5d2daf5552a078d31cbc130098b4c4d81af356d20b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/023.WAV",
+    "bytes": 15362,
+    "sha256": "eca3a05a22b89e83c924a82acb27ea77dc6134fae7917831fe1a81873750eaa5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/024.wav",
+    "bytes": 29478,
+    "sha256": "0adf48eb2c121ce167d02ccb95e01ccc41a946d5f489833f9e6b1aeb5f4bd6d4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/025.wav",
+    "bytes": 24888,
+    "sha256": "ccf8c2fb2ac36294ebd80062e29501fecc0090320f25f0c3d2600ff243cddf9b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/026.wav",
+    "bytes": 17392,
+    "sha256": "3ed8522dd35610faffbe5cdf109aa09ede602ace18592970aa06175244931708",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/man/SE-061-1.WAV",
+    "bytes": 21010,
+    "sha256": "1532af52f7e9cef670638d9b71976982f828e947d365059b3c6ac6ea253eea19",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/000.wav",
+    "bytes": 12512,
+    "sha256": "5abf0aa0830001daac18b4d4473288c9d96466fe59bad056a43828b12fbf8f02",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/001.wav",
+    "bytes": 9802,
+    "sha256": "113d3c68478f88d1bed788b76a552fad33a6dab956aaeb7e0ec818ff5031b74f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/002.wav",
+    "bytes": 9204,
+    "sha256": "c0f5473e42cdcc2483f3acdcc4a10307f10c54ab6bad7d75dd85c15d8935fef6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/003.wav",
+    "bytes": 44206,
+    "sha256": "a6dfa765f0a6266d08c70166817c75bbb94cef819e0ada81b01aeb49d3830902",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/004.wav",
+    "bytes": 14822,
+    "sha256": "a407ee9bd45bb4b1d1c49d91a08d643dcc9150477f3ce4490daaf323b52c9a55",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/004a.WAV",
+    "bytes": 27878,
+    "sha256": "0043a60ca77faf0aa8da948d161363f19f81d86864f27338857809c452131589",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/005.wav",
+    "bytes": 48288,
+    "sha256": "3fe8664448316c09cee93ae2fca120cb051818f05b8f41144c5820847f27824f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/006.wav",
+    "bytes": 11172,
+    "sha256": "c2841bb321e85323fc2e6070d9d6823bae43be20cddb0f5d0daec85e1a9df644",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/007.WAV",
+    "bytes": 91298,
+    "sha256": "23e7cb1ea3fbf005acec5841b3a1821ec78097f06447dab6d959471b53c6b082",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/008.wav",
+    "bytes": 67882,
+    "sha256": "3147f3a5c8b45172ccffd75b922422954bc2a64533733ee0683a695533d7c800",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/009.wav",
+    "bytes": 70582,
+    "sha256": "5639f282e91a78d8f7375922fbda0c745f2f3b532cbf97de25ddf02df2ed8071",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/010.wav",
+    "bytes": 49894,
+    "sha256": "564a2b752431c0705763d7cb869ae7f94f3a66cccf3fb0d329389708022b1765",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/011.wav",
+    "bytes": 10534,
+    "sha256": "a60a84f300203af32fde2358ad751608d241d19eb8247fcb5c9b8f2754edfd1f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/012.wav",
+    "bytes": 84418,
+    "sha256": "b7bc3a093196c83024ec098160b24b598c09fb1a8f44beb26e4185ad4402c5fa",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/013.wav",
+    "bytes": 48412,
+    "sha256": "c349ca0d0b3c3a55d130492e44081f7ae49b1beaec92463794c665536825c303",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/014.wav",
+    "bytes": 28508,
+    "sha256": "c6040f74a10e732af74a7f521ddec4337e59e77b7d662d1906bab9d6b5c575e3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/015.wav",
+    "bytes": 56430,
+    "sha256": "18250787623e542d52112887c999d5349a1d7037d4f47c011400ca985f6abf8b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/016.wav",
+    "bytes": 15560,
+    "sha256": "1ce77033ba4c470b89c1a7dfae63e53ff8aa886688e45179b69d4cfcb44fb6b8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/017.wav",
+    "bytes": 4346,
+    "sha256": "5e11ce324976e485136e693f485fb00464810d8904db14d0f306779518cca9e4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/018.WAV",
+    "bytes": 38712,
+    "sha256": "787d9c28f7f2bca49827b758b2fad34c515a1a4aa02a173a6b476d3aaa62da63",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/019.wav",
+    "bytes": 7932,
+    "sha256": "8a89b318c1d9e02c7418429ea91d8eb6ab497e3b41c469e4f07bb1f741874380",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/020.WAV",
+    "bytes": 110174,
+    "sha256": "8a9b30a906183a5db8f9f9f842c5b8b7cb031f69986b4e27f8ed40c15fa97e36",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/021.WAV",
+    "bytes": 58808,
+    "sha256": "de495a8b4fdd322aeec8e29b18e3a38fec2be893ae95ffbf95251fba385cdba8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/022.wav",
+    "bytes": 112268,
+    "sha256": "00eff32eda81d20c6f2f255574f76268a70bd548084b99af5a6e44ee78bbf607",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/023.wav",
+    "bytes": 22590,
+    "sha256": "4c9cc58c3f8ea795cf5d853858c6ec351b3f199b8db96d941d660cb05a9ad976",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/024.wav",
+    "bytes": 26720,
+    "sha256": "f86789d6a9caea102a48df822094e0e68eb193d2ab8a0582a4a65cf4f6587cc6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/025.wav",
+    "bytes": 9310,
+    "sha256": "16cbc733881f919ef73d63f2f5c3f27c1f7c03fbb679151c2130bfce92491f3a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/026.wav",
+    "bytes": 10324,
+    "sha256": "fe5eb45da449d8ebee20fc4611d847f351b5c2ffa9a66d506677d746a2a15c0a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/027.wav",
+    "bytes": 2290,
+    "sha256": "36176c67e16f110fe6b0dd380e098bedcdac3794dfa5a7f82fdb2b3c8d586450",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/028.wav",
+    "bytes": 6242,
+    "sha256": "9c821cf7adac0ae1f7458dd0b690b343fe91989e75bfb33df038f8391eb7dce0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/029.wav",
+    "bytes": 2274,
+    "sha256": "981abd2785ee6bd06bd83d947c6ed7c57c67bf319058ebdd3eddf2c9dc09a518",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/030.wav",
+    "bytes": 4852,
+    "sha256": "6872bbd05b1834e0a94588487801e95977d074d73d78a36698b0a5aef5c19429",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/031.wav",
+    "bytes": 15528,
+    "sha256": "357e888665e9295c5bebdff009b7fb47b167451d9936baae7229d6dfc134eec0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/032.wav",
+    "bytes": 12952,
+    "sha256": "5db4b0234271e743f5d1ef009f184c10679259f80db56cdd2d79768e53be1f7d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/033.wav",
+    "bytes": 19582,
+    "sha256": "4799596c816c7dac50ca7f27f57757712f8c2e9c70dcee233f32ac94ecabfea7",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/034.wav",
+    "bytes": 45604,
+    "sha256": "43297be016be6b6808ca71f9ffa3cb3c71d157a86baa51bfb9d62a2d623e18ba",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/moster/035.wav",
+    "bytes": 34644,
+    "sha256": "0f343845733779973c6e6bee45e239744978a874b3cc41363cb742d7037d571e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/rock/000.wav",
+    "bytes": 43396,
+    "sha256": "63a6b55002883aa307a89ec17a0d75ec314d873fb82b7cc5f618d2e778e06017",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/rock/001.WAV",
+    "bytes": 55090,
+    "sha256": "a9a245ce9eddab2bc5884547569d1a16d3d6343872930f4d5190a9da1cdf874d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/rock/002.WAV",
+    "bytes": 30540,
+    "sha256": "f2e73a1965b4545e4e366dd114a59d2e7551adc414a05c123029e3c8948bd8ef",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/rock/003.wav",
+    "bytes": 56554,
+    "sha256": "02058e8b0d39f8ee742593cf89e2466599347cd09e1efbc3c7fd3e12c5e5888b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/rock/004.wav",
+    "bytes": 139378,
+    "sha256": "3eed705eea79469ac340001bebae5c993904a042589a6afb80255b9ea8a71bbf",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S00.wav",
+    "bytes": 136930,
+    "sha256": "fa2791fe1ccd954b212c036f34db7db828fd75f1c73fc4c99b619f2b0ae17764",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S01.wav",
+    "bytes": 41782,
+    "sha256": "b0e09b1d1487b4b5f2084bb9d2cac827d576c1c721d38ca0c7b2260354ffd336",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S02.wav",
+    "bytes": 43532,
+    "sha256": "4dabddf8daa2e2638ff3308725abc59be79bd148ad9b2161862cf685d98e550b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S03.WAV",
+    "bytes": 38712,
+    "sha256": "87b4f48841ba8e24c8284d2585572dfa549260eec1120a08f3338dd8d1af5d8f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S04.wav",
+    "bytes": 70582,
+    "sha256": "5639f282e91a78d8f7375922fbda0c745f2f3b532cbf97de25ddf02df2ed8071",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S05.wav",
+    "bytes": 84418,
+    "sha256": "b7bc3a093196c83024ec098160b24b598c09fb1a8f44beb26e4185ad4402c5fa",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S06.wav",
+    "bytes": 9204,
+    "sha256": "c0f5473e42cdcc2483f3acdcc4a10307f10c54ab6bad7d75dd85c15d8935fef6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S07.WAV",
+    "bytes": 27878,
+    "sha256": "0043a60ca77faf0aa8da948d161363f19f81d86864f27338857809c452131589",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S08.WAV",
+    "bytes": 91298,
+    "sha256": "23e7cb1ea3fbf005acec5841b3a1821ec78097f06447dab6d959471b53c6b082",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S09.wav",
+    "bytes": 48412,
+    "sha256": "c349ca0d0b3c3a55d130492e44081f7ae49b1beaec92463794c665536825c303",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S10.wav",
+    "bytes": 84418,
+    "sha256": "b7bc3a093196c83024ec098160b24b598c09fb1a8f44beb26e4185ad4402c5fa",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S100.wav",
+    "bytes": 23904,
+    "sha256": "13305520cb685a1d7b82dd0f761c20355c43a4ec11bfcf8ee6bbc39700e624a3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S101.wav",
+    "bytes": 153740,
+    "sha256": "b3855e94140e2a99b5d71e7ff3763953015ee699e2ba51130884362482000f7a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S102.wav",
+    "bytes": 1146658,
+    "sha256": "c2a7e3b559729e0e3f589fb18e354229d580f0541193b677cf3aefa8733e0dfd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S103.WAV",
+    "bytes": 123208,
+    "sha256": "06399defc0d1ec6956288c53ff61efe31446480bd73cbe0ff8dcc330285545ba",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S104.WAV",
+    "bytes": 198586,
+    "sha256": "4cf5f867d2c0841a2f8b61af5e142a568db0919a463ba55c6b3449ad26717461",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S105.wav",
+    "bytes": 308758,
+    "sha256": "304f4d3142fef4308e7b4647eec66be5c21f2faaa065a0ffd93c95b762388a2c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S106.wav",
+    "bytes": 74276,
+    "sha256": "f77c58fb8cb718967f3b3994b3f53e05546e7dc249b2539e5881fc72e8e3cf21",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S107.wav",
+    "bytes": 192642,
+    "sha256": "39d853c1e31297f52feafd002a28e8ce103dd0d13e53ed95f67fc5d6de0a28f5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S108.wav",
+    "bytes": 120930,
+    "sha256": "639d2c9c644b091959ea2bc69b3f9661e0282ef3a5f931952316d6ebe8b4efd3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S109.wav",
+    "bytes": 213092,
+    "sha256": "17ad66e4e6786789ba477d266f73054cb56f9a37a6612ba0b2e280adaddcba96",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S11.WAV",
+    "bytes": 24526,
+    "sha256": "39456592a454e854af8862af39aeb2278819f8411656ea52c0898e9c45a4d6f4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S110.wav",
+    "bytes": 204900,
+    "sha256": "0b2e6142a6be44d16d2bc6dbe6df439fd51b8a52900062ac16678946b57a2411",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S111.wav",
+    "bytes": 62666,
+    "sha256": "dacf2852831e3cc96f8ac2dfb9b57dd911c242423273dc313d3176d9f6674db6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S112.wav",
+    "bytes": 96702,
+    "sha256": "aa1f990b37bc7012093ffc183657271343728e5db81ea06ba5ef0e7ebd5fecb2",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S113.wav",
+    "bytes": 77472,
+    "sha256": "c7ac03c59c40dd0cba642a12ec3c10a3c1bf02ac6471beb9c67c0d6ea2218752",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S114.WAV",
+    "bytes": 143442,
+    "sha256": "036f50e323e099ce68e8011715db0b0f82518a1d084e3ce2e62e44424c3020cd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S115.WAV",
+    "bytes": 125906,
+    "sha256": "027716fa59a41752ff184e42923da262e70aa7703d21026b8f8d37f33d88ab23",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S116.wav",
+    "bytes": 43958,
+    "sha256": "011781910c9fc65a647ab3ba2202919f35a88929a8ae2f7f8b2c9abab50feb88",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S117.wav",
+    "bytes": 51958,
+    "sha256": "0876d3301d995405269fc51310aedd3f1bf44614808e2a0d449566ba2097ac33",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S118.wav",
+    "bytes": 47444,
+    "sha256": "7a27a13d11569a1dfcceef79b710cffbde95b43833fb2b98308f024f37352e79",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S119.wav",
+    "bytes": 189812,
+    "sha256": "15d6c0eb89277a50531f4f033d6c6d9ede3923b5995f9b59018124c78bb63b01",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S12.WAV",
+    "bytes": 38818,
+    "sha256": "18ee8b5387f9e8f4a5a710d590ad596a5848a9c55d55dbdeab35e53cf69579d8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S120.WAV",
+    "bytes": 11069,
+    "sha256": "1cae9707e7cded9c850826f9d9e1b77db0f6e70a10e15955e9145aadbf42760a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S121.WAV",
+    "bytes": 8496,
+    "sha256": "52496a6434d7b8cff2445e0a4b4815937c539c7fa05b4f51447b70df3c047670",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S122.wav",
+    "bytes": 34274,
+    "sha256": "ae03f0ea72757f72ff21d32bc4234ff53a876b94bb8e32aab69b327dbad2e402",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S123.WAV",
+    "bytes": 54622,
+    "sha256": "8df3c1b64110f665118997bef66a983530314722d26034467bb5429073904303",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S124.wav",
+    "bytes": 29688,
+    "sha256": "16a88d7dd8667acfb721e1cc58687af9ac29b7c61b174965f6567383d18e19cf",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S125.wav",
+    "bytes": 31642,
+    "sha256": "5690637822265f01d161d331be9ce9a2ca459948c94dcd181fad8a8e44337cf9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S126.wav",
+    "bytes": 193072,
+    "sha256": "90ef71e1a653a68b444df223ea89774dc22b408d1d5e6d0af9d3a1c87343cd29",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S127.wav",
+    "bytes": 31642,
+    "sha256": "5690637822265f01d161d331be9ce9a2ca459948c94dcd181fad8a8e44337cf9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S128.wav",
+    "bytes": 85366,
+    "sha256": "d137ea374442a509c25a8300ecdff2b2996cddcdfe52bf702b8bef6a865b9ea5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S129.wav",
+    "bytes": 100174,
+    "sha256": "a4ee5603908f5df30101c5bb8b176b1948e1ba9773ef8b609d45c3ba28775482",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S13.WAV",
+    "bytes": 8608,
+    "sha256": "4710455b1888cdaa601fe68822898d70fbfb4e04cb3a89753ccd319abfe7c94b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S130.wav",
+    "bytes": 80866,
+    "sha256": "09517abe23324fcab829de38900b638d2622f72419d0bc025dd2037395be8741",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S131.WAV",
+    "bytes": 83254,
+    "sha256": "ba7ee3f47b1c5b90971196106d10380e9f7f14a86ba70d7a1f5038db75c1ca66",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S14.wav",
+    "bytes": 27038,
+    "sha256": "25c67b683c5b19e973ef52cce1994e2b2f5726d3fc92fa29fcd47e5742024767",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S15.wav",
+    "bytes": 10938,
+    "sha256": "5e62de8c46aa6a8b0a13b0ce3d1661f15bfc537686cb40c1de2636f0fc472ad3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S16.WAV",
+    "bytes": 36504,
+    "sha256": "28d7dc88c09207d97facfd2f641e0ebeafe3655f5956991d1c0c366c716d79c9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S17.wav",
+    "bytes": 53530,
+    "sha256": "ec4357456b7f2999772b1be11afd023a88139e609c4e9831ae6d0798a5267c47",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S18.WAV",
+    "bytes": 27276,
+    "sha256": "633e67d83995205eef1fdc256eaa9629a293e3515807cf971199aa695ad1d21c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S19.WAV",
+    "bytes": 12558,
+    "sha256": "8e0e534e7398603131202ef331a73b3c8df6b7f0d92ef518dd5a9aeb1bac8cb2",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S20.WAV",
+    "bytes": 58144,
+    "sha256": "7f120f861cd5df6d6c05dea938342a765258e4f4f02eeaa31fda0732ddd7d27e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S21.wav",
+    "bytes": 14914,
+    "sha256": "bfb40f84155493de312e41455c4d7ecee63257a80d49384977e6c8122440a537",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S22.wav",
+    "bytes": 70336,
+    "sha256": "87b1dd1cdc15e8bf9abcd0de9da0bd9c4b9a2ade04e05a6b111b2a59c9c07faf",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S23.WAV",
+    "bytes": 116518,
+    "sha256": "263b8904bc5f18995e5f85f9210a0e68b1a37e24830aaddfd57223708da3eab8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S24.WAV",
+    "bytes": 75436,
+    "sha256": "b2d47d9b61ecae3171f642cab379965adcf804933e42229b9c743bd362b1f0fb",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S25.wav",
+    "bytes": 159974,
+    "sha256": "185a83127d5574c90861defa9dfbff99726dd6169042592ed2d523871d9dc190",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S26.wav",
+    "bytes": 21668,
+    "sha256": "25627f05709d9e35c93a427d9af5cbfca4357d6de7519afff9cb6d96ce871dac",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S27.wav",
+    "bytes": 159974,
+    "sha256": "185a83127d5574c90861defa9dfbff99726dd6169042592ed2d523871d9dc190",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S28.wav",
+    "bytes": 60788,
+    "sha256": "2384653152296e22821643a23baba93ecb35b86151dc398ab8dafc5950a8a7e4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S29.WAV",
+    "bytes": 58144,
+    "sha256": "7f120f861cd5df6d6c05dea938342a765258e4f4f02eeaa31fda0732ddd7d27e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S31.WAV",
+    "bytes": 18954,
+    "sha256": "8b17d90a5f7440aa63be4d3219fb50ebb2da1494dd61f11430eb8850c991b153",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S32.WAV",
+    "bytes": 18304,
+    "sha256": "0e58b8561dc1008706701716c2b80969b0f2a22739aadca706f26bc79c7468d0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S33.WAV",
+    "bytes": 28482,
+    "sha256": "b3fcaf4e78bc88ba941e2b4448eb1f23900a44c484ed3fcda79537bd1c0d6211",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S34.WAV",
+    "bytes": 8548,
+    "sha256": "1828eb4eebbd145d59ab04421e013e47ba6c88316e1e2c2c56851a335939eba8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S36.wav",
+    "bytes": 102966,
+    "sha256": "75e105dabcb62c388b86b66e968f5b9b13a0d470728210e374997147312b631d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S37.wav",
+    "bytes": 38764,
+    "sha256": "e491bd5ae946d6fddd215f87aa8f90ab378a783814457b3b232b604a66cf8ac3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S38.wav",
+    "bytes": 44080,
+    "sha256": "909426777f67d6702c54796975ffeb5ded76954d69570737b3d47defe3ef216b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S39.wav",
+    "bytes": 38764,
+    "sha256": "e491bd5ae946d6fddd215f87aa8f90ab378a783814457b3b232b604a66cf8ac3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S44.wav",
+    "bytes": 12384,
+    "sha256": "9e892830149c72c7df0dbdc62a5837d60a8a7be9093ef76353ab0944ddd2c2d6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S45.wav",
+    "bytes": 28862,
+    "sha256": "33fc7cb9cd67e74f914750762d2fea8104b0b2c63a61f50e226ffa2c56b06c30",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S46.wav",
+    "bytes": 15166,
+    "sha256": "bab2e56f9e0f0cac36ed8ea092de9cf953296e8fd4b403a588779930b3537572",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S47.wav",
+    "bytes": 27038,
+    "sha256": "25c67b683c5b19e973ef52cce1994e2b2f5726d3fc92fa29fcd47e5742024767",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S48.wav",
+    "bytes": 28862,
+    "sha256": "33fc7cb9cd67e74f914750762d2fea8104b0b2c63a61f50e226ffa2c56b06c30",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S49.wav",
+    "bytes": 59572,
+    "sha256": "cab6106e0098b1f7d7f76e19577d18e963ea1f4d42c7521ab24103ea4ba184e4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S50.wav",
+    "bytes": 55528,
+    "sha256": "32905bcba81a01e20bed5cea440a93c47c69b9ec0bac0d9f13998d97c275276a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S51.wav",
+    "bytes": 47820,
+    "sha256": "1268832af9686d0dd4f56b720ca9cf311c58dd6c2ada47e20110713113d4e254",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S52.wav",
+    "bytes": 19964,
+    "sha256": "fd40fc906fd5c911b17a1520a2fff0c7690e23a9111392183bdb69bf2996e946",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S53.wav",
+    "bytes": 55528,
+    "sha256": "32905bcba81a01e20bed5cea440a93c47c69b9ec0bac0d9f13998d97c275276a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S54.wav",
+    "bytes": 25766,
+    "sha256": "d02f6466a3a69b4675b207ecde0df4c3ffc804812f7442bbc91d165056813db0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S55.wav",
+    "bytes": 60130,
+    "sha256": "3837170b3781738df4bc43be2c1497afb6ab04bfa649ba64f4ae977c65b0095b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S57.wav",
+    "bytes": 15706,
+    "sha256": "f77826dedf41cf043bdb3344ebf92d749fd79f866c9e77b4fdcad1651b5ca424",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S58.WAV",
+    "bytes": 199082,
+    "sha256": "69ae9b0f832c8b0781541bd2c522b2953951259d03b294ffed6c5ba2dfbc67c1",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S59.WAV",
+    "bytes": 144268,
+    "sha256": "399ff7d3525b15795acfbd50dd9d3373908f7e8b24276383da4e24cb80d8373f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S60.WAV",
+    "bytes": 30120,
+    "sha256": "db3d9b5df06ca2a9b144bf8a11f9803939980b15113ad47da216f07a3492901e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S61.WAV",
+    "bytes": 461336,
+    "sha256": "512fb29acef4309b7beba1ce973902c3df90d65f90319edae4c958746cb7facf",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S62.WAV",
+    "bytes": 329216,
+    "sha256": "6ec109c508703de4159ea8c80c3634d117293dbfa2689c926fb70f823b4f03d8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S63.WAV",
+    "bytes": 30596,
+    "sha256": "721ff9627faa3c5466d6c6542f842257182c88d134154171368517ed5e403191",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S64.WAV",
+    "bytes": 357302,
+    "sha256": "b53d3352354ec9aa4192f8a6cd396fa3504ddab57ec12014323596023fb67742",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S65.wav",
+    "bytes": 47820,
+    "sha256": "1268832af9686d0dd4f56b720ca9cf311c58dd6c2ada47e20110713113d4e254",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S66.wav",
+    "bytes": 22122,
+    "sha256": "7af3301b5e36604b6d199bae111d255c9a387401bc1ea9c52621d52df5c22bf6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S67.wav",
+    "bytes": 54588,
+    "sha256": "a9d60dffe56ec669b68469d8f0e6e95e8317f64cacf093fc3e2274ba56386b8c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S68.wav",
+    "bytes": 115614,
+    "sha256": "fe3c0f4392ef3db5b5bb8a2626351013fef6e6aa2b2dfbf88799525b7af9ea25",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S69.wav",
+    "bytes": 96324,
+    "sha256": "7df1d09cc569ec8bff7fa7fda01aba6b8c3f3beaa8a1cb3c98849632a619b19a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S70.wav",
+    "bytes": 25766,
+    "sha256": "d02f6466a3a69b4675b207ecde0df4c3ffc804812f7442bbc91d165056813db0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S71.WAV",
+    "bytes": 21572,
+    "sha256": "728f834a00c0f5aee009d8ad7c080c17da9f97a5ce00d6b4001009492c4598a3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S90.WAV",
+    "bytes": 5528,
+    "sha256": "2bd5d20acebfdd4ace6c8f679a0453f205401efe74651b9c330d59cbc902dbca",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S91.WAV",
+    "bytes": 20406,
+    "sha256": "02b6aa05280908b7a128cdb92842b95423d20778b05ffcc9748e7e791cff1ae4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S92.WAV",
+    "bytes": 17102,
+    "sha256": "78af18a39312300542b0def5c5800aecbd381abab002b3cb1ced788445cf1ff6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S93.wav",
+    "bytes": 19078,
+    "sha256": "d440f2d7a87fdae55f3091a65c0281b941e8a189fc7d137bde88390a8b3b40d3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S94.wav",
+    "bytes": 105972,
+    "sha256": "e561818b3a2931c55e2cafa9619a5b6fb773e92f6a33509120a2647de3ee719d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S95.wav",
+    "bytes": 133382,
+    "sha256": "3b788d6bfb4ad5cf7f41169319786a2f6bdeda2afb9d0882e754c3137529f35a",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S96.wav",
+    "bytes": 68658,
+    "sha256": "8f66739a92703a10d8820ca734da5bf72babcd6ada18d1b2516cb4b6279a8436",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S97.wav",
+    "bytes": 25634,
+    "sha256": "134e34fc55c55c92b9f79fbc51d006ab3f21f8f4026f28ab70d85da3880009a7",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S98.wav",
+    "bytes": 50442,
+    "sha256": "f30975d19777190a174d91dd2281457d45f433a20313ddbd8d1fd93db99d3c20",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/script/S99.wav",
+    "bytes": 11358,
+    "sha256": "8fd6c391b2e0f8e5f9d1c32ccb708e44b7f7088bc98ab2de951d61e6ed28c651",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/000.wav",
+    "bytes": 49542,
+    "sha256": "39394a60f58a495d7464045b9dadf6a89481838083689e54ffe3dee0945d32eb",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/001.wav",
+    "bytes": 46578,
+    "sha256": "44cfea4e3b7bb7fd556be9b7733456df6aaf9cff87eb715eca13db20fa638394",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/002.WAV",
+    "bytes": 58144,
+    "sha256": "7f120f861cd5df6d6c05dea938342a765258e4f4f02eeaa31fda0732ddd7d27e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/003.WAV",
+    "bytes": 30382,
+    "sha256": "47a6ee3062a2989c359086568144c612a47169db25ab34804e16612d5d61c778",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/004.wav",
+    "bytes": 51096,
+    "sha256": "6991284a0d92f7d19f0e6b1b713626f5ae330bb2cbf302293700b39f7e296c18",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/005.wav",
+    "bytes": 39428,
+    "sha256": "7e089c2085d75b00933e712e65d8617fc2fa31b04c791bedeed891e085be565f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/006.wav",
+    "bytes": 161850,
+    "sha256": "4f91d1c39aa28554395bbadfaa1707ec50c6bf5a3ed0bbb569718be1a9fce9ab",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/007.WAV",
+    "bytes": 20946,
+    "sha256": "3abd37c6d737a7aa0fe2de766cb7fd55d9c66743b238e623d4b4382196496dd3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/008.wav",
+    "bytes": 47580,
+    "sha256": "2e8f0a2f5d57c3fa99e29bcb509a835a3fb9b51a01532a7996d7774f063f25a2",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/009.wav",
+    "bytes": 62278,
+    "sha256": "82d5aa56ee7456894b58a99e74cfb00b7a927315426b983295e2c49bcc6b22f0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/010.wav",
+    "bytes": 25748,
+    "sha256": "f5065204e0c1ce1de3ece752cb68da4e49317d02c05f4996050cc3f93a228107",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/011.wav",
+    "bytes": 52350,
+    "sha256": "41fbc763c9d19170e41a9448d848a53a42c2c5d4563a97105e2d719e32a6dae0",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/sht/012.wav",
+    "bytes": 13710,
+    "sha256": "2a26e7e0871834b84ab36c636d2d2be960faf4976e51708d79e30354fd0010cd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/000.WAV",
+    "bytes": 14038,
+    "sha256": "19b10a6ef570b5656efd2c9a0deb294d16b998d69b4f080b95a8305f998fe63b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/001.WAV",
+    "bytes": 24526,
+    "sha256": "39456592a454e854af8862af39aeb2278819f8411656ea52c0898e9c45a4d6f4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/002.WAV",
+    "bytes": 38818,
+    "sha256": "18ee8b5387f9e8f4a5a710d590ad596a5848a9c55d55dbdeab35e53cf69579d8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/003.wav",
+    "bytes": 14718,
+    "sha256": "11feae40d63cffb6a490b4c2b05af0dea029c1941b28667a4443604f4c009565",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/004.WAV",
+    "bytes": 32262,
+    "sha256": "b9bbfdc74b3d01f53208b08995a4a651d75bf676e91739611bcfb7dd6955903d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/005.WAV",
+    "bytes": 38532,
+    "sha256": "2a628aff46c21c70746a8b0f4df6d6c6aea53f7ded377655ff937e23ebc5c598",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/006.wav",
+    "bytes": 53530,
+    "sha256": "ec4357456b7f2999772b1be11afd023a88139e609c4e9831ae6d0798a5267c47",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/007.WAV",
+    "bytes": 37746,
+    "sha256": "6c097b0d67e07632a9b3e7ab68d847a1422e1926f2f3affe8d681560fe287528",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/008.wav",
+    "bytes": 6662,
+    "sha256": "9b8e8f75604ab79bc49f8fb528e2c33a2562f3cc0b99498d683d4b1a9230f03c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/009.WAV",
+    "bytes": 11440,
+    "sha256": "13f28f792ca1c5373c02fe53786828e6a5cbfedcbf9709e18ac2f8aaf4757f1f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/010.wav",
+    "bytes": 25068,
+    "sha256": "e3ac8c9d1e421ad85beaa8dc7c196831c63df5a996e1339b92473703a3090bd9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/011.wav",
+    "bytes": 17162,
+    "sha256": "28dc3a9b28307eaa21bd96a87a83e1804e834b0e891d7e017acf702b03c1026e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/012.wav",
+    "bytes": 44624,
+    "sha256": "4afc42869234e73483f22166a7bafce4c14e64cdac825fed42b8f538ddfdd92b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/013.wav",
+    "bytes": 34600,
+    "sha256": "c44bf77838471e467d6570b30dfe36030c89ba3e0da54a5d859fc234bb851ae5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/014.WAV",
+    "bytes": 21506,
+    "sha256": "3889cfdd7f6d171da8eba2cb716bb7f1cbf0e6ccab473723edec7c74c86ba2b8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/015.wav",
+    "bytes": 35968,
+    "sha256": "91779a979a81e99675955b6b8090008694898eaad5acdd8e31931ebf79aef3b5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/016.wav",
+    "bytes": 13202,
+    "sha256": "4d3d9304029092410b055ca5fe124c4d3b741a6d059c481172b083ab778ce40d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/017.wav",
+    "bytes": 208626,
+    "sha256": "72dcb0bafee635adc76ccc95f130d0cbc6ddfee795595c10100622fe0cc6bdf8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/018.wav",
+    "bytes": 35628,
+    "sha256": "a22b2ebadf4dd5863a4e59a7f8e85b90389600b02d47680d7e8279e8165ceb38",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/019.wav",
+    "bytes": 46542,
+    "sha256": "8883b82daba26731278f8e15bfc07669ab6da6e15aa0e10d13480c77a79531c7",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/020.wav",
+    "bytes": 21822,
+    "sha256": "b1515f64807158aa4365ca7f43a863a5f014fd62205ebbda5db636279724af78",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/021.WAV",
+    "bytes": 32652,
+    "sha256": "d92845b16fafdf69953293cddf0d359580fd60736dd907cf1625ff7c48d169fc",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/022.wav",
+    "bytes": 18302,
+    "sha256": "aab12857da8407b4d2aa078386232594b53fddab85e6ec1c4d32ed80aed2ea22",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/023.WAV",
+    "bytes": 17600,
+    "sha256": "c63c9e31f267b9f04520c482fc6ff449a48d786fca38c5bac41958a90a283abd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/024.wav",
+    "bytes": 42890,
+    "sha256": "686961c3b12831bb6d61273d19b0bd11b9db93893e55a1239d5907bfc207bff5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/025.wav",
+    "bytes": 28634,
+    "sha256": "b13f0f592506ae1937cf0d01332c33e00099ad87237ef8f6e8a1a659e3a14a0d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/026.wav",
+    "bytes": 17228,
+    "sha256": "514c56cbe5823a3cea0a1af681d940fdc7a3364f9729a302f9b9fc44c82363cd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/027.wav",
+    "bytes": 11078,
+    "sha256": "bc1f893374fc6336f93812184bdb4bc6ce5e6b43b005ebef9dc6bdd6b5fde637",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/028.wav",
+    "bytes": 58838,
+    "sha256": "7c75df2bb79bab4325cbbac89c4cbf1d5fffb0e5062ea22581557c2d4b8f0e20",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/029.wav",
+    "bytes": 55078,
+    "sha256": "838370c75cb6b69da399b3e16670d95ae4819d250d693da5a842c58913f017a5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/030.wav",
+    "bytes": 64078,
+    "sha256": "9826629c3a122a85da2afa78e7b6d2eebc1900a56b08a1553f35e3587378f462",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/slash/knife_slash1.wav",
+    "bytes": 12335,
+    "sha256": "0e6870496f80100b7b978f4ea07ad596d639ef24cca4ad4e2b5ae945278ef9bd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/000.wav",
+    "bytes": 14328,
+    "sha256": "cd16f0663cae25b69ac0f96ff6b503874c80cc44a06b88d2e1694aa302443e36",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/001.wav",
+    "bytes": 15860,
+    "sha256": "cd94857b21e1bf1e48ee8bdf21ff0c916c03c3d467917e5853d8dc5565943960",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/002.wav",
+    "bytes": 26486,
+    "sha256": "e0f6f48f301c44972203bf37bd4067b76d5547a5ecb3d770d851d6eeaf79d63c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/003.wav",
+    "bytes": 13240,
+    "sha256": "4374fb4f06698e6cdad9e5ef3af17be2a11ef3fc6556fb58bcdaf3bc788655de",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/004.wav",
+    "bytes": 7272,
+    "sha256": "cb76ce7fba28175defb6c64c21466773d441d63c427786b4ae56606293ae15f2",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/005.wav",
+    "bytes": 12292,
+    "sha256": "db62bc17124d6b5da78ba2885a3c14a27635fa31ae0db19c44dcc1aa2f352caa",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/006.wav",
+    "bytes": 12394,
+    "sha256": "489259fb7c4eb0f5aa7f303085488b3768344546ef6283ac2a7855836d8dff25",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/007.WAV",
+    "bytes": 8332,
+    "sha256": "61f6ef0cf2d5b3b46b94ed9b29a7ad43e2d5321bfc1f0a94359e1c46f247cff5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/008.WAV",
+    "bytes": 62410,
+    "sha256": "3557580172beb98b6b057ef0c9a2b2eb6c68178cb42350010bc9f89bd5848279",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/009.WAV",
+    "bytes": 60686,
+    "sha256": "fc3c1129d98ac1885e4ab4e7cc37954a43a19099651453f476e393039375c635",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/010.wav",
+    "bytes": 48040,
+    "sha256": "fff85e3cf87af6cdde6d82e9397b4ef5575b3c15af13b7021d540c676e754f9b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/011.wav",
+    "bytes": 40296,
+    "sha256": "ea7f77d99320857fefd9394b5f892b89ee8cb63453905112ff5cc6ab67427eca",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/012.wav",
+    "bytes": 23478,
+    "sha256": "0f9230455a908cd8e13373347ac8b74851b5eed447c65ea551bb55240bfb7e68",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/013.wav",
+    "bytes": 62798,
+    "sha256": "00f753154df8c262dd8211a8348b36fc965483f1a87f134f6abe6421adaebadc",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/014.WAV",
+    "bytes": 49594,
+    "sha256": "a4c487bcb15fa76ff80c1599f263fec8e94716248db39da74a0eec82d9f1a770",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/015.wav",
+    "bytes": 9466,
+    "sha256": "b3195cf7d4ab8eba07713de6cfced38beae13d0b2f029fd44616d8f5728b72ff",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/016.wav",
+    "bytes": 10482,
+    "sha256": "205fec0c83635e5165c86d2aca9fe0358baf6328b1fa195ac6ed2497a87bd7c3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/017.wav",
+    "bytes": 12580,
+    "sha256": "665b8f914a88dd124665de2d0befda28a33f3cd3ea48341bab0bf286caadcc54",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/018.wav",
+    "bytes": 12006,
+    "sha256": "35e15183ff103c3ea87e63899746c85e18cda7628e44c9446b744f40edf10a10",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/019.wav",
+    "bytes": 28380,
+    "sha256": "099f1e65a97628abd5990b6f91b5ab59df5fec1375412594f412cd955b772511",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/020.wav",
+    "bytes": 5026,
+    "sha256": "28e84c0424b4ed1a7ec8efc2fb625ee283a1bced152d0e9f51b1f1f6a40fdebe",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/021.wav",
+    "bytes": 28048,
+    "sha256": "6726b892cdd6f4f95735f052ce4295ebd5e41c591aa66396701031e02104071b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/022.wav",
+    "bytes": 17920,
+    "sha256": "be5bc920a0364c0767532dcf066c71f9216f1bbb92ea0c5c408c15f55af9bf18",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/023.wav",
+    "bytes": 13694,
+    "sha256": "52d9b78c92b3b5b7c33dad822cf76f5e4c97fdba991971230de37243990f876f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/step/024.wav",
+    "bytes": 22782,
+    "sha256": "651a7fdd26f0010f9f1acf185b8377799b56ce1c1a20b509fda804a206eb6f0d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/stone/000.wav",
+    "bytes": 64110,
+    "sha256": "03e2897d1ccc93c3871104a90f878c2b678bf6f8055ce627431f68b50d1d6590",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/stone/001.wav",
+    "bytes": 43820,
+    "sha256": "0fae0fcc89c76ff849a5850a05dd9d493f7ce1b7b50749dae691b159e203fbbe",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/temp/fs_010.wav",
+    "bytes": 80904,
+    "sha256": "25fc5946905e4f4178e1e679512147581af0c868648e2d777c0188e08239ff84",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/th/000.WAV",
+    "bytes": 43762,
+    "sha256": "3c37c33bd52166d745416e212c9b44d34a30a6d08e18aa25e561c8799fb40cd2",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/th/001.WAV",
+    "bytes": 24976,
+    "sha256": "22c051f24aa66aef84983c8e0e57fec79f58fec63413f82fda68af7722bbc144",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/th/002.WAV",
+    "bytes": 32532,
+    "sha256": "6cc03bd19d4dc8238bb4e6eabea0a55532932d11caf3fb3c2219d3eae36001ba",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/th/003.WAV",
+    "bytes": 54622,
+    "sha256": "8df3c1b64110f665118997bef66a983530314722d26034467bb5429073904303",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/th/004.wav",
+    "bytes": 29688,
+    "sha256": "16a88d7dd8667acfb721e1cc58687af9ac29b7c61b174965f6567383d18e19cf",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/th/005.wav",
+    "bytes": 62814,
+    "sha256": "2e9072b59b8a6f1488a0827925c21b53e0396affe49c5412ee8e7c943ce39335",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/th/006.wav",
+    "bytes": 32416,
+    "sha256": "6ff47a1ab0ddefe9b0dfed6e32ac6092f302fa4a6b11e65526d40981da0ee945",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/th/007.wav",
+    "bytes": 16566,
+    "sha256": "069ca03c9525c9ca9231cc35a0f6ed57592b900e979f6d4ae77b286f3ca7dca9",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/th/008.wav",
+    "bytes": 21592,
+    "sha256": "ed36b3f9f09128eb2ed3c42359db59a952e3eb0b48247c1bdf640004c47a2bab",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/tree/000.wav",
+    "bytes": 60130,
+    "sha256": "3837170b3781738df4bc43be2c1497afb6ab04bfa649ba64f4ae977c65b0095b",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/tree/001.wav",
+    "bytes": 10200,
+    "sha256": "250fd4052a800d3c0d397d0818d016723c76a4de3146693c04ee7ed8dabb04d5",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/tree/002.WAV",
+    "bytes": 33630,
+    "sha256": "160545e5d22f2cf118c39cc41ac8d7334b0c902079d3aba0a976174b049765e6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/tree/003.WAV",
+    "bytes": 15736,
+    "sha256": "4abd0be457baa012a26d065f7d44c4c6ac38834ae019eceb717dea5c22862764",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/water/000.wav",
+    "bytes": 89872,
+    "sha256": "baa2602e81df5d418dae07b7682710c0420b700f30460972d5bff144bed5d4a8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/water/001.wav",
+    "bytes": 53558,
+    "sha256": "e345708752afc9b2938ea1ec6b0569c620df95c53b32d65cc1b690935aa3358f",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/wind/000.WAV",
+    "bytes": 71828,
+    "sha256": "503abe117aba7cdafb6d0e6dadd04c16e31e0e4be90c52f1dfbe21f54cb268db",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/wind/001.wav",
+    "bytes": 55892,
+    "sha256": "a51275c489d410b9fde1f3bc754281459351406d82c99c356994b32b1859d7f4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/wing/00.WAV",
+    "bytes": 4766,
+    "sha256": "d42150f9ade02c9e368425063ff7947a45e39903ae619e3cfcf624398b35156d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/wing/01.WAV",
+    "bytes": 4710,
+    "sha256": "733280f4f9b969699975f9c9d4d15465690db10a11b61160e15444ca588df009",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/wing/02.wav",
+    "bytes": 25128,
+    "sha256": "d74e8708978f12ec1237a3d5f9468d6bb19413374eb2aede82402ea946f8a768",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/000.WAV",
+    "bytes": 20406,
+    "sha256": "02b6aa05280908b7a128cdb92842b95423d20778b05ffcc9748e7e791cff1ae4",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/001.WAV",
+    "bytes": 10768,
+    "sha256": "4bff32636c7e6e59460245d5c7f2e964438d82507dbdae3ae0ed043ac9a90c2d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/002.WAV",
+    "bytes": 17976,
+    "sha256": "ebb0d4fd7425e8c84b4a186c5dedf93362b63c7857b796f76387556f5cdb07e1",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/003.WAV",
+    "bytes": 17102,
+    "sha256": "78af18a39312300542b0def5c5800aecbd381abab002b3cb1ced788445cf1ff6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/004.wav",
+    "bytes": 26078,
+    "sha256": "e47838f4127fbfec485844b7ed84a333deabcbdf87268c8d534e0740893b81d7",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/005.wav",
+    "bytes": 20324,
+    "sha256": "d007614ee6488e371453a2fe85bf54fe8cecd128009a34550ea4c2e672cc3e9c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/006.wav",
+    "bytes": 19078,
+    "sha256": "d440f2d7a87fdae55f3091a65c0281b941e8a189fc7d137bde88390a8b3b40d3",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/007.wav",
+    "bytes": 9806,
+    "sha256": "3b27769e93df7e5d1600e94f36eb71d35e556cecbdfab970dff675d5b7c72532",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/008.wav",
+    "bytes": 22104,
+    "sha256": "8e18e4befc7121e004bf07345f5f710f1b3092f8c5856c80147e540aa794295c",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/009.wav",
+    "bytes": 25016,
+    "sha256": "50951aff2044347902064ddcca881057300060488d512ad67311a0d6e3544976",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/010.wav",
+    "bytes": 18444,
+    "sha256": "19cbcfcec590324fa337bf11551f36fb801f1b6a5ad67ec8939a2481468ace22",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/011.wav",
+    "bytes": 17506,
+    "sha256": "e3dbe5e011f789da84c98c0d2bceedc50945743bec3134a245ecf6e3ae9f6889",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/012.wav",
+    "bytes": 136930,
+    "sha256": "fa2791fe1ccd954b212c036f34db7db828fd75f1c73fc4c99b619f2b0ae17764",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/013.wav",
+    "bytes": 6288,
+    "sha256": "76dbe5ae532da0fe1c59aaf0d857690b5b36b7dcfaa91574a430cde878c0b61d",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/014.wav",
+    "bytes": 33360,
+    "sha256": "c36cc5b7e21d155b7455bc47f93172c619f209cb8365e4a4e81dc6f4a56dd7fd",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/014_.wav",
+    "bytes": 31156,
+    "sha256": "915e4791d3137b511d3525d107b8ad4ade8edcf86d5e46a63a349dda6c51a1ed",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/015.wav",
+    "bytes": 21750,
+    "sha256": "0e0e1ecec823b28c48ef6e0a0a1e6c8db4c84171791fdf366e7928ea8d31d216",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/016.wav",
+    "bytes": 25304,
+    "sha256": "0fe6800a432133947aa3f4e5d2d953e1f654bf318c54924a01bf5daffdeb54b6",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/017.wav",
+    "bytes": 9216,
+    "sha256": "9db1f9a0bb57e87bcf8d607c88b0f3ff67b30f23988f923ea1da58fd5523a60e",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/018.wav",
+    "bytes": 22472,
+    "sha256": "c152378e07639ca3adbb38ba30d2e1a9bead002983634106e601a2028967ca54",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/019.wav",
+    "bytes": 6402,
+    "sha256": "d64d66d054231cfa43136d8baa6f17a8a44e85172f2a756aa2e33d71670fcee1",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/020.wav",
+    "bytes": 19232,
+    "sha256": "31fc09218c5ffa0e5d202ea400ee3286387e378a7cff0c1e5d73c8174479c2f8",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wave/woman/021.wav",
+    "bytes": 10290,
+    "sha256": "a83859c3baf653a5971b0d85a5eb9b12358239aad9c92d5e5cb48f2b7dcdfa43",
+    "extension": ".wav"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wind5.exe",
+    "bytes": 2497536,
+    "sha256": "6a81e35797531e4eaac9b4e072ea1ba2ad953a196610ef3a2109a707f91c393a",
+    "extension": ".exe"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/Wind5.ico",
+    "bytes": 6006,
+    "sha256": "aacbc7d7b8b011b26b698bc7bd525d456754fa2a3d8a37e543e49e3e36e97d4a",
+    "extension": ".ico"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/XFile/XFile.JBF",
+    "bytes": 76574705,
+    "sha256": "a085c4544ea7109a92147e1437235b1d155bf755f10c295eb3db5fed2b762824",
+    "extension": ".jbf"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/d3drwa.dll",
+    "bytes": 30208,
+    "sha256": "f0a1b51109acef85a0a6bc3993b54a7e29f161c79ea687a04f9dbe8c206f2a43",
+    "extension": ".dll"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/d3dx9_30.dll",
+    "bytes": 2388176,
+    "sha256": "5edeed79f2359527a55b8189cfa8b9b121cd608d44eead905a0f3436938ad532",
+    "extension": ".dll"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/d3dx9d_30.dll",
+    "bytes": 4115152,
+    "sha256": "b1910363608ab35d76f82b6bbf0221957f5407f1f5c55aa1d3a4bd910d6a84cb",
+    "extension": ".dll"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/ReadmeBottom.jpg",
+    "bytes": 13150,
+    "sha256": "5dbe818df8a984f3b9df51cf3be0bb5922f28322d831b5310a1b80bef91e80f2",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/ReadmeTOP.jpg",
+    "bytes": 48425,
+    "sha256": "c0aaa1d13a47904847b9a333c2c34ad9b6a1c571109948c7f24a3345c29c91bd",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/ReadmeTitle01.gif",
+    "bytes": 3577,
+    "sha256": "0fc8804904116711a33cefd94bb0da0633fff13c9b1a4fa79c5f26a6481c918c",
+    "extension": ".gif"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/ReadmeTitle02.gif",
+    "bytes": 2761,
+    "sha256": "5bf46886b6ecec2f790240d69bd9a6cb50870d8ff7d0c8025d3602551ae429e0",
+    "extension": ".gif"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/ReadmeTitle03.gif",
+    "bytes": 2755,
+    "sha256": "f7273e6287ee0df12c8a71c7c1cda4093158e7e261f26b6534d00c5b3054a3ae",
+    "extension": ".gif"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/ReadmeTitle04.gif",
+    "bytes": 2447,
+    "sha256": "230b1ea76ee8eaa2f4fb9ca213620a314e8b05b67a0948ea4860dbd8510501e5",
+    "extension": ".gif"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic01.jpg",
+    "bytes": 21291,
+    "sha256": "864eaef8d1e0a79816053f6921476cfa95dbacde59002681dbad180a2cd83f59",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic02.jpg",
+    "bytes": 18272,
+    "sha256": "ca3e553179b2ac0510843c7c306728610b74c9a97e99ec5459463a6490b3e955",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic03.jpg",
+    "bytes": 27513,
+    "sha256": "edae0d6c269c3664fdb0c4c409055251cb1157fd994970f86df251dfb4656490",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic04.jpg",
+    "bytes": 28847,
+    "sha256": "5ae592b3e32fffe961823f19a34c2f48fa4cb326a28dc18eafc595bcdf1aadd4",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic05.jpg",
+    "bytes": 23281,
+    "sha256": "596ff9728765d4a66fdfd956d1585ac183b8b6074123f02950f9e81ef1178662",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic06.jpg",
+    "bytes": 24608,
+    "sha256": "8f2ec57c370207676126fbd3a03682978c53ec8a98c9f5da5e57c7c8dc2eb511",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic07.jpg",
+    "bytes": 31976,
+    "sha256": "69435b6c2c3babc55a37dca8e07be928e07723b665d1856cdaea51cb7d2e4fbb",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic08.jpg",
+    "bytes": 23018,
+    "sha256": "a19726650f21e6e81cb115968fe2ca5cf6182e7cbc04ff8933fcd57c77682fb2",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic09.jpg",
+    "bytes": 26884,
+    "sha256": "d16d1bb809889955905b2fe75423e64b5c0a83d63a1fdd3cb89fe2f48c3eb942",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic10.jpg",
+    "bytes": 25061,
+    "sha256": "1aab0eb99e6ad214d33c7b62797c73575e17d6b599c9a8f26739fa436c61ab2d",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic11.gif",
+    "bytes": 43431,
+    "sha256": "2e410ab63f93472961c0df1f274fb62894e1f7b952c4f9511f38402923108c3c",
+    "extension": ".gif"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic12.jpg",
+    "bytes": 61507,
+    "sha256": "2781beca15c65c7351848cbf035a8ce646e778d5d58a2cae9d99e4648d28fe57",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic13.gif",
+    "bytes": 13188,
+    "sha256": "f23823946c88bd0b8602e7dca5ef7c55d3396e3f2fa5ffad4d1c8bc1adbcca4f",
+    "extension": ".gif"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic13.jpg",
+    "bytes": 27787,
+    "sha256": "eb5521b9548da6175512b55a48477ca883847430bc60615d5f003b79afeec9ba",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic14.jpg",
+    "bytes": 46490,
+    "sha256": "aab21fc176d2742faba938951119e23bbfd6069d6a76bc1f339176c141115d6f",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/Readmepic15.jpg",
+    "bytes": 83462,
+    "sha256": "17fb6b905a1228e7eb9887c8c07e927330a3da71ee0ec73c7e79b1225267b783",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/chart.jpg",
+    "bytes": 899466,
+    "sha256": "91f5e0480bc107c56e5c6f1440a8151bd6e83ef1a63ae0c4ad533f439b449b09",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/chart1.jpg",
+    "bytes": 203036,
+    "sha256": "e7949805aa30164bba84067bf977651fc4fdee5bd0f5d3987ac44c95a3363420",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261/风色幻想5/images/install_wf5OK.jpg",
+    "bytes": 193241,
+    "sha256": "ad8b5983d92037c77cd189cf391b8f37af276360ad18d3ca16f1b2be289ee421",
+    "extension": ".jpg"
+  },
+  {
+    "path": "original_resources/source/fshx5_101261.zip",
+    "bytes": 764507119,
+    "sha256": "380c5b375156d30e005ba196db2b99e072c826b1d6b763c795a825a992b1dbd9",
+    "extension": ".zip"
+  }
+]

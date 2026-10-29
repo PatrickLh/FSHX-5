@@ -1,0 +1,22 @@
+[
+  {
+    "id": "AniTexture:sp/bk/bk020_.psd@1aab8961",
+    "source_path": "original_resources/unpacked_verified_v1/AniTexture/sp/bk/bk020_.psd",
+    "path": "original_resources/organized/source_art/AniTexture/sp/bk/bk020_.psd.png",
+    "width": 2667,
+    "height": 2000,
+    "mode": "RGBA",
+    "preview_kind": "merged composite; PSD layers remain in original source",
+    "source_sha256": "5892d3d0d63376069cf58bba3faba2c383374b35b2321809671413f8729812a0"
+  },
+  {
+    "id": "AniTexture:sp/sht/hhh.psd@1d28f8e3",
+    "source_path": "original_resources/unpacked_verified_v1/AniTexture/sp/sht/hhh.psd",
+    "path": "original_resources/organized/source_art/AniTexture/sp/sht/hhh.psd.png",
+    "width": 480,
+    "height": 640,
+    "mode": "RGB",
+    "preview_kind": "merged composite; PSD layers remain in original source",
+    "source_sha256": "86af8d7574253a6df31b72a27a62386e62358e305d5c01b8bac410956e7e8d72"
+  }
+]

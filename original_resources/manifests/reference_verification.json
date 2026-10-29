@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "config_reference_rows": 22630,
+  "unicode_reference_regression": "passed",
+  "shader_swizzle_exclusion": "passed",
+  "particle_reference_rows": 376,
+  "attack_event_offset_raw": 375,
+  "attack_event_frame_zero_based": 8,
+  "manual_branch_gates_retained": true,
+  "wrap_structures_checked": 10,
+  "texture_lists_verified": 55,
+  "texture_batch_and_duplicate_keys": "passed"
+}

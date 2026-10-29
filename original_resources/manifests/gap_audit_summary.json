@@ -1,0 +1,14 @@
+{
+  "reference_issues": 512,
+  "reference_issue_kinds": {
+    "model_texture_reference": 32,
+    "animation_resource_reference": 183,
+    "material_reference": 31,
+    "config_reference": 266
+  },
+  "no_basename_candidates": 301,
+  "candidate_rows_only": 211,
+  "extension_candidate_rows": 36,
+  "wrap_files": 10,
+  "wrap_size_relations_verified": 10
+}

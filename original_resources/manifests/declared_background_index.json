@@ -1,0 +1,3203 @@
+[
+  {
+    "config_id": "GameData:Particle/BG/WF5_black.se@0056fbdb",
+    "original_path": "Particle/BG/WF5_black.se",
+    "node_path": "/Ani",
+    "source_line": 2,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 4
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF5_Black.bmp",
+        "line": 5
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 7
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 9
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 10
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 11
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:Particle/BG/WF5_black.se@0056fbdb",
+        "line": 5,
+        "attribute": "TextureName",
+        "reference": "bg\\WF5_Black.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF5_Black.bmp@010285c8"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/dawn01.se@005bc0a2",
+    "original_path": "SceneElement/BG/dawn01.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\dawn01.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/dawn01.se@005bc0a2",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\dawn01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/dawn01.bmp@000017f1"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/dawn01.se@005bc0a2",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\dawn01a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/dawn01a.bmp@00091a10"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/dawn01.se@005bc0a2",
+    "original_path": "SceneElement/BG/dawn01.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\dawn01a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/dawn01.se@005bc0a2",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\dawn01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/dawn01.bmp@000017f1"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/dawn01.se@005bc0a2",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\dawn01a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/dawn01a.bmp@00091a10"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/day01.se@005bc2a2",
+    "original_path": "SceneElement/BG/day01.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\day01.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "1.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/day01.se@005bc2a2",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\day01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day01.bmp@00091a52"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/day01.se@005bc2a2",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\day01a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day01a.bmp@0010c31f"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/day01.se@005bc2a2",
+    "original_path": "SceneElement/BG/day01.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\day01a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "1.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/day01.se@005bc2a2",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\day01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day01.bmp@00091a52"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/day01.se@005bc2a2",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\day01a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day01a.bmp@0010c31f"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/day02.se@005bc4a0",
+    "original_path": "SceneElement/BG/day02.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\day02.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/day02.se@005bc4a0",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\day02.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day02.bmp@0010c361"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/day02.se@005bc4a0",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\day02a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day02a.bmp@001b06e1"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/day02.se@005bc4a0",
+    "original_path": "SceneElement/BG/day02.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\day02a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/day02.se@005bc4a0",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\day02.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day02.bmp@0010c361"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/day02.se@005bc4a0",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\day02a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day02a.bmp@001b06e1"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/day03.se@005bc69f",
+    "original_path": "SceneElement/BG/day03.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\day03.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/day03.se@005bc69f",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\day03.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day03.bmp@001b0722"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/day03.se@005bc69f",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\day03a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day03a.bmp@001ff6be"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/day03.se@005bc69f",
+    "original_path": "SceneElement/BG/day03.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\day03a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/day03.se@005bc69f",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\day03.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day03.bmp@001b0722"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/day03.se@005bc69f",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\day03a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day03a.bmp@001ff6be"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/day04.se@005bc89e",
+    "original_path": "SceneElement/BG/day04.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\day04.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/day04.se@005bc89e",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\day04.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day04.bmp@001ff700"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/day04.se@005bc89e",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\day04a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day04a.bmp@0025b700"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/day04.se@005bc89e",
+    "original_path": "SceneElement/BG/day04.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\day04a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/day04.se@005bc89e",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\day04.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day04.bmp@001ff700"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/day04.se@005bc89e",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\day04a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/day04a.bmp@0025b700"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/eve01.se@005bca9d",
+    "original_path": "SceneElement/BG/eve01.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\eve01.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/eve01.se@005bca9d",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\eve01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/eve01.bmp@0025b741"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/eve01.se@005bca9d",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\eve01a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/eve01a.bmp@002cd2d3"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/eve01.se@005bca9d",
+    "original_path": "SceneElement/BG/eve01.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\eve01a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/eve01.se@005bca9d",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\eve01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/eve01.bmp@0025b741"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/eve01.se@005bca9d",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\eve01a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/eve01a.bmp@002cd2d3"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/eve02.se@005bcc9c",
+    "original_path": "SceneElement/BG/eve02.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\eve02.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/eve02.se@005bcc9c",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\eve02.bmp",
+        "exact_path_targets": [
+          "Texture:BG/eve02.bmp@002cd315"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/eve02.se@005bcc9c",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\eve02a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/eve02a.bmp@0032bce0"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/eve02.se@005bcc9c",
+    "original_path": "SceneElement/BG/eve02.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\eve02a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/eve02.se@005bcc9c",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\eve02.bmp",
+        "exact_path_targets": [
+          "Texture:BG/eve02.bmp@002cd315"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/eve02.se@005bcc9c",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\eve02a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/eve02a.bmp@0032bce0"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/night01.se@005bce9b",
+    "original_path": "SceneElement/BG/night01.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\night01.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/night01.se@005bce9b",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\night01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/night01.bmp@006a183a"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/night01.se@005bce9b",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\night01a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/night01a.bmp@00706d9d"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/night01.se@005bce9b",
+    "original_path": "SceneElement/BG/night01.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\night01a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/night01.se@005bce9b",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\night01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/night01.bmp@006a183a"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/night01.se@005bce9b",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\night01a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/night01a.bmp@00706d9d"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/night02.se@005bd09c",
+    "original_path": "SceneElement/BG/night02.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\night02.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/night02.se@005bd09c",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\night02.bmp",
+        "exact_path_targets": [
+          "Texture:BG/night02.bmp@00706ddf"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/night02.se@005bd09c",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\night02a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/night02a.bmp@007650e2"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/night02.se@005bd09c",
+    "original_path": "SceneElement/BG/night02.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\night02a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/night02.se@005bd09c",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\night02.bmp",
+        "exact_path_targets": [
+          "Texture:BG/night02.bmp@00706ddf"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/night02.se@005bd09c",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\night02a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/night02a.bmp@007650e2"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/town.se@005bd29d",
+    "original_path": "SceneElement/BG/town.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\town_bg.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.5f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/town.se@005bd29d",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\town_bg.bmp",
+        "exact_path_targets": [
+          "Texture:BG/town_bg.bmp@00765124"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF500701.se@005bd480",
+    "original_path": "SceneElement/BG/WF500701.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF50701.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF500701.se@005bd480",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF50701.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF50701.bmp@00883861"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/WF500701.se@005bd480",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\WF50702.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF50702.bmp@008b1f77"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF500701.se@005bd480",
+    "original_path": "SceneElement/BG/WF500701.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF50702.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF500701.se@005bd480",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF50701.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF50701.bmp@00883861"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/WF500701.se@005bd480",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\WF50702.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF50702.bmp@008b1f77"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF501001.se@005bd684",
+    "original_path": "SceneElement/BG/WF501001.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF50101.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "1.5f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF501001.se@005bd684",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF50101.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF50101.bmp@0079e125"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF502601.se@005bd863",
+    "original_path": "SceneElement/BG/WF502601.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF52601.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF502601.se@005bd863",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF52601.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF52601.bmp@008b1fb9"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/WF502601.se@005bd863",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\WF52602.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF52602.bmp@008f28c1"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF502601.se@005bd863",
+    "original_path": "SceneElement/BG/WF502601.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF52602.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF502601.se@005bd863",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF52601.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF52601.bmp@008b1fb9"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/WF502601.se@005bd863",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\WF52602.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF52602.bmp@008f28c1"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF502901.se@005bda64",
+    "original_path": "SceneElement/BG/WF502901.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF52901.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF502901.se@005bda64",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF52901.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF52901.bmp@008f2903"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/WF502901.se@005bda64",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\WF52902.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF52902.bmp@00935210"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF502901.se@005bda64",
+    "original_path": "SceneElement/BG/WF502901.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF52902.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF502901.se@005bda64",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF52901.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF52901.bmp@008f2903"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/WF502901.se@005bda64",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\WF52902.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF52902.bmp@00935210"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF503201.se@005bdc65",
+    "original_path": "SceneElement/BG/WF503201.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF53201.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF503201.se@005bdc65",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF53201.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF53201.bmp@00935254"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF503201_1.se@005bde41",
+    "original_path": "SceneElement/BG/WF503201_1.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF53201_1.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF503201_1.se@005bde41",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF53201_1.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF53201_1.bmp@009dba3c"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m008.se@005be023",
+    "original_path": "SceneElement/BG/wf5_bg_m008.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m008.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m008.se@005be023",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m008.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m008.bmp@00aab1d9"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m017.se@005be204",
+    "original_path": "SceneElement/BG/wf5_bg_m017.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m017.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m017.se@005be204",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m017.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m017.bmp@00b6c596"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m017.se@005be204",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m017a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m017a.bmp@00b77548"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m017.se@005be204",
+    "original_path": "SceneElement/BG/wf5_bg_m017.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m017a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m017.se@005be204",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m017.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m017.bmp@00b6c596"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m017.se@005be204",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m017a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m017a.bmp@00b77548"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m020.se@005be409",
+    "original_path": "SceneElement/BG/wf5_bg_m020.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m020.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m020.se@005be409",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m020.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m020.bmp@00b7758c"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m022.se@005be5e8",
+    "original_path": "SceneElement/BG/wf5_bg_m022.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m022.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.5f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m022.se@005be5e8",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m022.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m022.bmp@00bae7ef"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m023.se@005be7cc",
+    "original_path": "SceneElement/BG/wf5_bg_m023.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m023.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.5f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m023.se@005be7cc",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m023.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m023.bmp@00c0cca0"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m023.se@005be7cc",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m023a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m023a.bmp@00c486be"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m023.se@005be7cc",
+    "original_path": "SceneElement/BG/wf5_bg_m023.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m023a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.5f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m023.se@005be7cc",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m023.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m023.bmp@00c0cca0"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m023.se@005be7cc",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m023a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m023a.bmp@00c486be"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m024.se@005be9d1",
+    "original_path": "SceneElement/BG/wf5_bg_m024.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m024.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m024.se@005be9d1",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m024.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m024.bmp@00c48702"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m025.se@005bebb2",
+    "original_path": "SceneElement/BG/wf5_bg_m025.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m025.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.5f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m025.se@005bebb2",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m025.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m025.bmp@00d20e1e"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m030.se@005bed93",
+    "original_path": "SceneElement/BG/wf5_bg_m030.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m030.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m030.se@005bed93",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m030.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m030.bmp@00d55ea2"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m030.se@005bed93",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m030a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m030a.bmp@00d8b835"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m030.se@005bed93",
+    "original_path": "SceneElement/BG/wf5_bg_m030.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m030a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m030.se@005bed93",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m030.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m030.bmp@00d55ea2"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m030.se@005bed93",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m030a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m030a.bmp@00d8b835"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m033.se@005bef98",
+    "original_path": "SceneElement/BG/wf5_bg_m033.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m033.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m033.se@005bef98",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m033.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m033.bmp@00d8b879"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m033_1.se@005bf17b",
+    "original_path": "SceneElement/BG/wf5_bg_m033_1.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m033_1.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m033_1.se@005bf17b",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m033_1.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m033_1.bmp@00e3769c"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m033_2.se@005bf35e",
+    "original_path": "SceneElement/BG/wf5_bg_m033_2.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m033_2.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m033_2.se@005bf35e",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m033_2.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m033_2.bmp@00ef4314"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m034.se@005bf541",
+    "original_path": "SceneElement/BG/wf5_bg_m034.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m034.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m034.se@005bf541",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m034.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m034.bmp@00f9b2d6"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m034.se@005bf541",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m034a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m034a.bmp@0102858b"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/wf5_bg_m034.se@005bf541",
+    "original_path": "SceneElement/BG/wf5_bg_m034.se",
+    "node_path": "/Ani",
+    "source_line": 49,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 51
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\wf5_bg_m034a.bmp",
+        "line": 52
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 54
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 56
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 57
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 58
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m034.se@005bf541",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m034.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m034.bmp@00f9b2d6"
+        ],
+        "status": "resolved"
+      },
+      {
+        "from": "GameData:SceneElement/BG/wf5_bg_m034.se@005bf541",
+        "line": 52,
+        "attribute": "TextureName",
+        "reference": "bg\\wf5_bg_m034a.bmp",
+        "exact_path_targets": [
+          "Texture:BG/wf5_bg_m034a.bmp@0102858b"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_black.se@005bf746",
+    "original_path": "SceneElement/BG/WF5_black.se",
+    "node_path": "/Ani",
+    "source_line": 2,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 4
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF5_Black.bmp",
+        "line": 5
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 7
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 9
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 10
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 11
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_black.se@005bf746",
+        "line": 5,
+        "attribute": "TextureName",
+        "reference": "bg\\WF5_Black.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF5_Black.bmp@010285c8"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_M13_BG.se@005bf931",
+    "original_path": "SceneElement/BG/WF5_M13_BG.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\m13bg01.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_M13_BG.se@005bf931",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\m13bg01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/m13bg01.bmp@0032bd22"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_M15_BG.se@005bfb12",
+    "original_path": "SceneElement/BG/WF5_M15_BG.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\m15bg01.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "1.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_M15_BG.se@005bfb12",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\m15bg01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/m15bg01.bmp@003c95ec"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_M35_BG.se@005bfcf3",
+    "original_path": "SceneElement/BG/WF5_M35_BG.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\m35bg01.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "1.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_M35_BG.se@005bfcf3",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\m35bg01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/m35bg01.bmp@0043206e"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_M36_BG.se@005bfed1",
+    "original_path": "SceneElement/BG/WF5_M36_BG.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\m36bg01.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_M36_BG.se@005bfed1",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\m36bg01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/m36bg01.bmp@005196f7"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_M42_BG.se@005c00b3",
+    "original_path": "SceneElement/BG/WF5_M42_BG.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\m42bg01.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Background",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "0",
+        "line": 10
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_M42_BG.se@005c00b3",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\m42bg01.bmp",
+        "exact_path_targets": [
+          "Texture:BG/m42bg01.bmp@005b68ad"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_Main_B_250.se@005c0292",
+    "original_path": "SceneElement/BG/WF5_Main_B_250.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF5_Main_B_250.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Main",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "9",
+        "line": 10
+      },
+      {
+        "key": "Effect",
+        "value": "Effect\\黑透a_不動.Xef",
+        "line": 13
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_Main_B_250.se@005c0292",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF5_Main_B_250.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF5_Main_B_250.bmp@01028605"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_Main_B_250_002.se@005c049c",
+    "original_path": "SceneElement/BG/WF5_Main_B_250_002.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF5_Main_B_250_002.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Main",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "9",
+        "line": 10
+      },
+      {
+        "key": "Effect",
+        "value": "Effect\\黑透a_不動.Xef",
+        "line": 13
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_Main_B_250_002.se@005c049c",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF5_Main_B_250_002.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF5_Main_B_250_002.bmp@010287b4"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_Main_R_300.se@005c06a9",
+    "original_path": "SceneElement/BG/WF5_Main_R_300.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF5_Main_R_300.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Main",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "9",
+        "line": 10
+      },
+      {
+        "key": "Effect",
+        "value": "Effect\\黑透a_不動.Xef",
+        "line": 13
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_Main_R_300.se@005c06a9",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF5_Main_R_300.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF5_Main_R_300.bmp@0102899b"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_Main_Y_250.se@005c08b2",
+    "original_path": "SceneElement/BG/WF5_Main_Y_250.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF5_Main_Y_300.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Main",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "9",
+        "line": 10
+      },
+      {
+        "key": "Effect",
+        "value": "Effect\\黑透a_不動.Xef",
+        "line": 13
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_Main_Y_250.se@005c08b2",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF5_Main_Y_300.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF5_Main_Y_300.bmp@01028daf"
+        ],
+        "status": "resolved"
+      }
+    ]
+  },
+  {
+    "config_id": "GameData:SceneElement/BG/WF5_Main_Y_300.se@005c0abc",
+    "original_path": "SceneElement/BG/WF5_Main_Y_300.se",
+    "node_path": "/Ani",
+    "source_line": 1,
+    "declared_type": "background",
+    "attributes": [
+      {
+        "key": "Type",
+        "value": "background",
+        "line": 3
+      },
+      {
+        "key": "TextureName",
+        "value": "bg\\WF5_Main_Y_300.bmp",
+        "line": 4
+      },
+      {
+        "key": "fRotateSpeed",
+        "value": "0.0f",
+        "line": 6
+      },
+      {
+        "key": "CoordinateSystem",
+        "value": "Screen",
+        "line": 8
+      },
+      {
+        "key": "RenderQueue",
+        "value": "Main",
+        "line": 9
+      },
+      {
+        "key": "iRenderQueueDelta",
+        "value": "9",
+        "line": 10
+      },
+      {
+        "key": "Effect",
+        "value": "Effect\\黑透a_不動.Xef",
+        "line": 13
+      }
+    ],
+    "image_references": [
+      {
+        "from": "GameData:SceneElement/BG/WF5_Main_Y_300.se@005c0abc",
+        "line": 4,
+        "attribute": "TextureName",
+        "reference": "bg\\WF5_Main_Y_300.bmp",
+        "exact_path_targets": [
+          "Texture:BG/WF5_Main_Y_300.bmp@01028daf"
+        ],
+        "status": "resolved"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "archive_files": 48737,
+  "loose_media": 551,
+  "images_decoded": 32355,
+  "status_counts": {
+    "extracted": 16933,
+    "image_decoded": 32355
+  },
+  "animation_descriptions": 6573,
+  "animation_resource_rows": 61361,
+  "animation_unmatched_rows": 750,
+  "models": 652,
+  "particle_configs": 238,
+  "battle_scripts": 299,
+  "issues": 517,
+  "source_art_composite_previews": 2
+}

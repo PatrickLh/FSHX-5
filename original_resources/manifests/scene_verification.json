@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "model_versions": 652,
+  "mesh_blocks": 1049,
+  "binary_models_checked": 2,
+  "truncated_binary_rejected": true,
+  "invalid_index_fixture_detected": true,
+  "scenes": 70,
+  "scene_elements": 140,
+  "known_unclosed_source_elements": [
+    "SceneElement/WF5_Par_M41_ghost.se"
+  ],
+  "scope": "static geometry and source row coverage; not renderer/import validation"
+}

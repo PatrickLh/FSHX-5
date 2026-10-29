@@ -1,0 +1,1913 @@
+[
+  {
+    "table_row": 0,
+    "name": "場白",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0001.ant",
+    "animation_id": "Ani:face/sf0001.ant@0000a78c",
+    "image_ids": [
+      "AniTexture:face/sf0001a.bmp@00c0a869",
+      "AniTexture:face/sf0001b.bmp@00c59ce4",
+      "AniTexture:face/sf0001c.bmp@00c61a5c",
+      "AniTexture:face/sf0001d.bmp@00c697b6",
+      "AniTexture:face/sf0001e.bmp@00c7163c",
+      "AniTexture:face/sf0001f.bmp@00c79445",
+      "AniTexture:face/sf0001g.bmp@00c81338",
+      "AniTexture:face/sf0001h.bmp@00c89317",
+      "AniTexture:face/sf0001i.bmp@00c913cb",
+      "AniTexture:face/sf0001j.bmp@00c99274",
+      "AniTexture:face/sf0001k.bmp@00ca10e2",
+      "AniTexture:face/sf0001l.bmp@00ca91b5",
+      "AniTexture:face/sf0001m.bmp@00cb11d7",
+      "AniTexture:face/sf0001n.bmp@00cb89e5",
+      "AniTexture:face/sf0001o.bmp@00cc0815"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 1,
+    "name": "艾因",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0001.ant",
+    "animation_id": "Ani:face/sf0001.ant@0000a78c",
+    "image_ids": [
+      "AniTexture:face/sf0001a.bmp@00c0a869",
+      "AniTexture:face/sf0001b.bmp@00c59ce4",
+      "AniTexture:face/sf0001c.bmp@00c61a5c",
+      "AniTexture:face/sf0001d.bmp@00c697b6",
+      "AniTexture:face/sf0001e.bmp@00c7163c",
+      "AniTexture:face/sf0001f.bmp@00c79445",
+      "AniTexture:face/sf0001g.bmp@00c81338",
+      "AniTexture:face/sf0001h.bmp@00c89317",
+      "AniTexture:face/sf0001i.bmp@00c913cb",
+      "AniTexture:face/sf0001j.bmp@00c99274",
+      "AniTexture:face/sf0001k.bmp@00ca10e2",
+      "AniTexture:face/sf0001l.bmp@00ca91b5",
+      "AniTexture:face/sf0001m.bmp@00cb11d7",
+      "AniTexture:face/sf0001n.bmp@00cb89e5",
+      "AniTexture:face/sf0001o.bmp@00cc0815"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 2,
+    "name": "莉可",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0002.ant",
+    "animation_id": "Ani:face/sf0002.ant@0000a970",
+    "image_ids": [
+      "AniTexture:face/sf0002a.bmp@00cc8550",
+      "AniTexture:face/sf0002b.bmp@00d159f0",
+      "AniTexture:face/sf0002c.bmp@00d1ccdd",
+      "AniTexture:face/sf0002d.bmp@00d23cbe",
+      "AniTexture:face/sf0002e.bmp@00d2b03c",
+      "AniTexture:face/sf0002f.bmp@00d323e3",
+      "AniTexture:face/sf0002g.bmp@00d397b5",
+      "AniTexture:face/sf0002h.bmp@00d40961",
+      "AniTexture:face/sf0002i.bmp@00d47bb6",
+      "AniTexture:face/sf0002j.bmp@00d4ef12",
+      "AniTexture:face/sf0002k.bmp@00d5e1af",
+      "AniTexture:face/sf0002l.bmp@00d6d447"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 3,
+    "name": "希亞",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0003.ant",
+    "animation_id": "Ani:face/sf0003.ant@0000ab4f",
+    "image_ids": [
+      "AniTexture:face/sf0003a.bmp@00d746f0",
+      "AniTexture:face/sf0003b.bmp@00dc2309",
+      "AniTexture:face/sf0003c.bmp@00dc9660",
+      "AniTexture:face/sf0003d.bmp@00dd0ab3",
+      "AniTexture:face/sf0003e.bmp@00dd7f33",
+      "AniTexture:face/sf0003f.bmp@00ddf5d2",
+      "AniTexture:face/sf0003g.bmp@00de68fc",
+      "AniTexture:face/sf0003h.bmp@00dedf5d",
+      "AniTexture:face/sf0003i.bmp@00df52b9",
+      "AniTexture:face/sf0003j.bmp@00e1799a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 4,
+    "name": "梅魯",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0004.ant",
+    "animation_id": "Ani:face/sf0004.ant@0000ad1e",
+    "image_ids": [
+      "AniTexture:face/sf0004a.bmp@00e1f02b",
+      "AniTexture:face/sf0004b.bmp@00e5ee1a",
+      "AniTexture:face/sf0004c.bmp@00e682c3",
+      "AniTexture:face/sf0004d.bmp@00e713ec",
+      "AniTexture:face/sf0004e.bmp@00e7a7f6",
+      "AniTexture:face/sf0004f.bmp@00e83cb8",
+      "AniTexture:face/sf0004g.bmp@00e8d1ff",
+      "AniTexture:face/sf0004h.bmp@00e962e6",
+      "AniTexture:face/sf0004i.bmp@00e9f72e",
+      "AniTexture:face/sf0004j.bmp@00ea886f",
+      "AniTexture:face/sf0004k.bmp@00eb1c3b",
+      "AniTexture:face/sf0004l.bmp@00ebab8c"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 5,
+    "name": "可麗兒",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0005.ant",
+    "animation_id": "Ani:face/sf0005.ant@0000aeee",
+    "image_ids": [
+      "AniTexture:face/sf0005a.bmp@00ec3f6f",
+      "AniTexture:face/sf0005b.bmp@00f09b2d",
+      "AniTexture:face/sf0005c.bmp@00f10afa",
+      "AniTexture:face/sf0005d.bmp@00f17b1a",
+      "AniTexture:face/sf0005e.bmp@00f1ec16",
+      "AniTexture:face/sf0005f.bmp@00f25bc8",
+      "AniTexture:face/sf0005g.bmp@00f2ccf6",
+      "AniTexture:face/sf0005h.bmp@00f33d18",
+      "AniTexture:face/sf0005i.bmp@00f3af58",
+      "AniTexture:face/sf0005j.bmp@00f421e8",
+      "AniTexture:face/sf0005k.bmp@00f5391a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 6,
+    "name": "可麗兒",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0006.ant",
+    "animation_id": "Ani:face/sf0006.ant@0000b0cd",
+    "image_ids": [
+      "AniTexture:face/sf0006a.bmp@00f5aaf5",
+      "AniTexture:face/sf0006b.bmp@00fa1ffb",
+      "AniTexture:face/sf0006c.bmp@00fa905c",
+      "AniTexture:face/sf0006d.bmp@00fb0101",
+      "AniTexture:face/sf0006e.bmp@00fb72c3",
+      "AniTexture:face/sf0006f.bmp@00fbe30e",
+      "AniTexture:face/sf0006g.bmp@00fc54d2",
+      "AniTexture:face/sf0006h.bmp@00fcc5a7",
+      "AniTexture:face/sf0006i.bmp@00fd387a",
+      "AniTexture:face/sf0006j.bmp@00fdab91",
+      "AniTexture:face/sf0006k.bmp@00fecdbd"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 7,
+    "name": "費特",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0007.ant",
+    "animation_id": "Ani:face/sf0007.ant@0000b284",
+    "image_ids": [
+      "AniTexture:face/sf0007a.bmp@00ff4043",
+      "AniTexture:face/sf0007b.bmp@01039e48",
+      "AniTexture:face/sf0007c.bmp@0103fdbf",
+      "AniTexture:face/sf0007d.bmp@01045cd7",
+      "AniTexture:face/sf0007e.bmp@0104bd54",
+      "AniTexture:face/sf0007f.bmp@01051c85",
+      "AniTexture:face/sf0007g.bmp@01057ca8",
+      "AniTexture:face/sf0007h.bmp@0105dc1c"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 8,
+    "name": "幽墜",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0008.ant",
+    "animation_id": "Ani:face/sf0008.ant@0000b426",
+    "image_ids": [
+      "AniTexture:face/sf0008a.bmp@0107aa26",
+      "AniTexture:face/sf0008b.bmp@010b4a6d",
+      "AniTexture:face/sf0008c.bmp@010bcf91",
+      "AniTexture:face/sf0008d.bmp@010c546d",
+      "AniTexture:face/sf0008e.bmp@010cd68c",
+      "AniTexture:face/sf0008f.bmp@010d5d8a",
+      "AniTexture:face/sf0008g.bmp@010de559",
+      "AniTexture:face/sf0008h.bmp@010e6a42"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 9,
+    "name": "碧",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0009a.ant",
+    "animation_id": "Ani:face/sf0009a.ant@0000b70d",
+    "image_ids": [
+      "AniTexture:face/sf0009aa.bmp@01132344",
+      "AniTexture:face/sf0009ab.bmp@01175f21",
+      "AniTexture:face/sf0009ac.bmp@0117dde9",
+      "AniTexture:face/sf0009ad.bmp@01185d7a",
+      "AniTexture:face/sf0009ae.bmp@0118db6b",
+      "AniTexture:face/sf0009af.bmp@011959dd"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 10,
+    "name": "帕蕾莉雅",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0010.ant",
+    "animation_id": "Ani:face/sf0010.ant@0000ba06",
+    "image_ids": [
+      "AniTexture:face/sf0010a.bmp@0121cabe",
+      "AniTexture:face/sf0010b.bmp@0125cab8",
+      "AniTexture:face/sf0010c.bmp@01264b73",
+      "AniTexture:face/sf0010d.bmp@0126cb31",
+      "AniTexture:face/sf0010e.bmp@01274bcc",
+      "AniTexture:face/sf0010f.bmp@0127cc4f",
+      "AniTexture:face/sf0010g.bmp@01284d36",
+      "AniTexture:face/sf0010h.bmp@0128ce9a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 11,
+    "name": "帕蕾莉雅",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0011.ant",
+    "animation_id": "Ani:face/sf0011.ant@0000bba4",
+    "image_ids": [
+      "AniTexture:face/sf0011a.bmp@0129d8f6",
+      "AniTexture:face/sf0011b.bmp@012ef96c",
+      "AniTexture:face/sf0011c.bmp@012f69f0",
+      "AniTexture:face/sf0011d.bmp@012fda23",
+      "AniTexture:face/sf0011e.bmp@01304a07",
+      "AniTexture:face/sf0011f.bmp@0130ba90",
+      "AniTexture:face/sf0011g.bmp@01312ad3",
+      "AniTexture:face/sf0011h.bmp@01319bdb"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 12,
+    "name": "西札爾",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0012.ant",
+    "animation_id": "Ani:face/sf0012.ant@0000bd38",
+    "image_ids": [
+      "AniTexture:face/sf0012a.bmp@01320d35",
+      "AniTexture:face/sf0012b.bmp@01392a21",
+      "AniTexture:face/sf0012c.bmp@0139a24f",
+      "AniTexture:face/sf0012d.bmp@013a1afa",
+      "AniTexture:face/sf0012e.bmp@013a935c",
+      "AniTexture:face/sf0012f.bmp@013b0c69",
+      "AniTexture:face/sf0012g.bmp@013b85a3",
+      "AniTexture:face/sf0012h.bmp@013bfe67",
+      "AniTexture:face/sf0012i.bmp@013c775d"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 13,
+    "name": "蓋亞",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0014a.ant",
+    "animation_id": "Ani:face/sf0014a.ant@0000c038",
+    "image_ids": [
+      "AniTexture:face/sf0014a.bmp@013cf05a",
+      "AniTexture:face/sf0014b.bmp@0141ef67",
+      "AniTexture:face/sf0014c.bmp@01429480"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 14,
+    "name": "蓋亞",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0014b.ant",
+    "animation_id": "Ani:face/sf0014b.ant@0000c195",
+    "image_ids": [
+      "AniTexture:face/sf0014a.bmp@013cf05a",
+      "AniTexture:face/sf0014d.bmp@01433a3f",
+      "AniTexture:face/sf0014e.bmp@0143dc7e",
+      "AniTexture:face/sf0014f.bmp@0144802a",
+      "AniTexture:face/sf0014g.bmp@01452348",
+      "AniTexture:face/sf0014h.bmp@0145c74f",
+      "AniTexture:face/sf0014i.bmp@01466bde"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 15,
+    "name": "史緹菈",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0015.ant",
+    "animation_id": "Ani:face/sf0015.ant@0000c314",
+    "image_ids": [
+      "AniTexture:face/sf0015a.bmp@01470fca",
+      "AniTexture:face/sf0015b.bmp@014a2ec0",
+      "AniTexture:face/sf0015c.bmp@014a8a0c",
+      "AniTexture:face/sf0015d.bmp@014ae5e1",
+      "AniTexture:face/sf0015e.bmp@014b42be",
+      "AniTexture:face/sf0015f.bmp@014ba17f",
+      "AniTexture:face/sf0015g.bmp@014bfce1",
+      "AniTexture:face/sf0015h.bmp@014c5ba0"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 16,
+    "name": "雷斯特",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0016.ant",
+    "animation_id": "Ani:face/sf0016.ant@0000c4aa",
+    "image_ids": [
+      "AniTexture:face/sf0016a.bmp@014cb720",
+      "AniTexture:face/sf0016b.bmp@01525d60",
+      "AniTexture:face/sf0016c.bmp@0152b7fc",
+      "AniTexture:face/sf0016d.bmp@015313de",
+      "AniTexture:face/sf0016e.bmp@01537080",
+      "AniTexture:face/sf0016f.bmp@0153cc94",
+      "AniTexture:face/sf0016g.bmp@01542954",
+      "AniTexture:face/sf0016h.bmp@0154838b",
+      "AniTexture:face/sf0016i.bmp@0154dd40",
+      "AniTexture:face/sf0016j.bmp@015536f3"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 17,
+    "name": "憐",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0017.ant",
+    "animation_id": "Ani:face/sf0017.ant@0000c63e",
+    "image_ids": [
+      "AniTexture:face/sf0017a.bmp@015596de",
+      "AniTexture:face/sf0017b.bmp@015b3d1f",
+      "AniTexture:face/sf0017c.bmp@015ba86c",
+      "AniTexture:face/sf0017d.bmp@015c13d1",
+      "AniTexture:face/sf0017e.bmp@015c7f6d",
+      "AniTexture:face/sf0017f.bmp@015ceb1d"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 18,
+    "name": "潘格泥",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0018.ant",
+    "animation_id": "Ani:face/sf0018.ant@0000c7bf",
+    "image_ids": [
+      "AniTexture:face/sf0018a.bmp@015d56fe",
+      "AniTexture:face/sf0018b.bmp@015f3875",
+      "AniTexture:face/sf0018c.bmp@0160203e",
+      "AniTexture:face/sf0018d.bmp@01611426",
+      "AniTexture:face/sf0018e.bmp@0161f268",
+      "AniTexture:face/sf0018f.bmp@0162cb58",
+      "AniTexture:face/sf0018g.bmp@0163b314"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 19,
+    "name": "亞特拉斯",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0019.ant",
+    "animation_id": "Ani:face/sf0019.ant@0000c932",
+    "image_ids": [
+      "AniTexture:face/sf0019a.bmp@01650e9f",
+      "AniTexture:face/sf0019b.bmp@016a0ae9",
+      "AniTexture:face/sf0019c.bmp@016a5d80",
+      "AniTexture:face/sf0019d.bmp@016ab0a3",
+      "AniTexture:face/sf0019e.bmp@016b03ab"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 20,
+    "name": "八月",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0020.ant",
+    "animation_id": "Ani:face/sf0020.ant@0000caa9",
+    "image_ids": [
+      "AniTexture:face/sf0020a.bmp@016eae95",
+      "AniTexture:face/sf0020b.bmp@01714058",
+      "AniTexture:face/sf0020c.bmp@0171b04e",
+      "AniTexture:face/sf0020d.bmp@01722006",
+      "AniTexture:face/sf0020e.bmp@01729105",
+      "AniTexture:face/sf0020f.bmp@017301f5",
+      "AniTexture:face/sf0020g.bmp@01737360"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 21,
+    "name": "莉啞",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0021.ant",
+    "animation_id": "Ani:face/sf0021.ant@0000cc15",
+    "image_ids": [
+      "AniTexture:face/sf0021a.bmp@0173e66a",
+      "AniTexture:face/sf0021b.bmp@01784da9",
+      "AniTexture:face/sf0021c.bmp@0178ba9d",
+      "AniTexture:face/sf0021d.bmp@0179298b"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 22,
+    "name": "克羅諾斯",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0028a.ant",
+    "animation_id": "Ani:face/sf0028a.ant@0000cec2",
+    "image_ids": [
+      "AniTexture:face/sf0028aa.bmp@0181e0e4",
+      "AniTexture:face/sf0028ab.bmp@018599f6",
+      "AniTexture:face/sf0028ac.bmp@018607ae",
+      "AniTexture:face/sf0028ad.bmp@01867596",
+      "AniTexture:face/sf0028ae.bmp@0186e35d",
+      "AniTexture:face/sf0028af.bmp@0187512b",
+      "AniTexture:face/sf0028ag.bmp@0187bfdd"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 23,
+    "name": "克羅諾斯",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0028b.ant",
+    "animation_id": "Ani:face/sf0028b.ant@0000d02e",
+    "image_ids": [
+      "AniTexture:face/sf0028a.bmp@017d6f85",
+      "AniTexture:face/sf0028b.bmp@01882cef",
+      "AniTexture:face/sf0028c.bmp@01887fa1",
+      "AniTexture:face/sf0028d.bmp@0188d307"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 24,
+    "name": "杜魯門諾",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0030.ant",
+    "animation_id": "Ani:face/sf0030.ant@0000d18e",
+    "image_ids": [
+      "AniTexture:face/sf0030a.bmp@01892346",
+      "AniTexture:face/sf0030b.bmp@018cde57",
+      "AniTexture:face/sf0030c.bmp@018d4073",
+      "AniTexture:face/sf0030d.bmp@018da2ec",
+      "AniTexture:face/sf0030e.bmp@018e0456",
+      "AniTexture:face/sf0030f.bmp@018e6618"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 25,
+    "name": "韓德爾",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0080.ant",
+    "animation_id": "Ani:face/sf0080.ant@0000e0c3",
+    "image_ids": [
+      "AniTexture:face/sf0080a.bmp@01c23cbe",
+      "AniTexture:face/sf0080b.bmp@01c759bf",
+      "AniTexture:face/sf0080c.bmp@01c7ae59",
+      "AniTexture:face/sf0080d.bmp@01c802bf",
+      "AniTexture:face/sf0080e.bmp@01c85772",
+      "AniTexture:face/sf0080f.bmp@01c8ac12",
+      "AniTexture:face/sf0080g.bmp@01c8fffb",
+      "AniTexture:face/sf0080h.bmp@01c954c5"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 26,
+    "name": "莎",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0081.ant",
+    "animation_id": "Ani:face/sf0081.ant@0000e24a",
+    "image_ids": [
+      "AniTexture:face/sf0081a.bmp@01c9a9a7",
+      "AniTexture:face/sf0081b.bmp@01cce2de",
+      "AniTexture:face/sf0081c.bmp@01cd4fe5",
+      "AniTexture:face/sf0081d.bmp@01cdbc4e",
+      "AniTexture:face/sf0081e.bmp@01ce28be",
+      "AniTexture:face/sf0081f.bmp@01ce9501",
+      "AniTexture:face/sf0081g.bmp@01ceff77"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 27,
+    "name": "艾夏",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0061.ant",
+    "animation_id": "Ani:face/sf0061.ant@0000d6ac",
+    "image_ids": [
+      "AniTexture:face/sf0061a.bmp@01963d98"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 28,
+    "name": "艾夏",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0082b.ant",
+    "animation_id": "Ani:face/sf0082b.ant@0000e3c7",
+    "image_ids": [
+      "AniTexture:face/sf0082ba.bmp@01cf6c38",
+      "AniTexture:face/sf0082bb.bmp@01d19ea6",
+      "AniTexture:face/sf0082bc.bmp@01d1fb62",
+      "AniTexture:face/sf0082bd.bmp@01d25875",
+      "AniTexture:face/sf0082be.bmp@01d2b68e",
+      "AniTexture:face/sf0082bf.bmp@01d314b2",
+      "AniTexture:face/sf0082bg.bmp@01d37268"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 29,
+    "name": "華格那",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0083.ant",
+    "animation_id": "Ani:face/sf0083.ant@0000e55d",
+    "image_ids": [
+      "AniTexture:face/sf0083a.bmp@01d3d1db",
+      "AniTexture:face/sf0083a_.bmp@01d7eef7",
+      "AniTexture:face/sf0083b.bmp@01d860bb",
+      "AniTexture:face/sf0083c.bmp@01d8d264",
+      "AniTexture:face/sf0083d.bmp@01d9457e",
+      "AniTexture:face/sf0083e.bmp@01d9b785",
+      "AniTexture:face/sf0083f.bmp@01da29c5",
+      "AniTexture:face/sf0083g.bmp@01da9bbe",
+      "AniTexture:face/sf0083h.bmp@01db0e09"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 30,
+    "name": "烏拉諾斯",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0084.ant",
+    "animation_id": "Ani:face/sf0084.ant@0000e6ec",
+    "image_ids": [
+      "AniTexture:face/sf0084a.bmp@01db80ac",
+      "AniTexture:face/sf0084a_.bmp@01dea266",
+      "AniTexture:face/sf0084b.bmp@01df4366",
+      "AniTexture:face/sf0084c.bmp@01dfe5c1",
+      "AniTexture:face/sf0084d.bmp@01e0891c",
+      "AniTexture:face/sf0084e.bmp@01e12b8a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 31,
+    "name": "笛敏特",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0085.ant",
+    "animation_id": "Ani:face/sf0085.ant@0000e84e",
+    "image_ids": [
+      "AniTexture:face/sf0085a.bmp@01e1cd59",
+      "AniTexture:face/sf0085b.bmp@01e7a191",
+      "AniTexture:face/sf0085c.bmp@01e8312d",
+      "AniTexture:face/sf0085d.bmp@01e8c0f2"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 32,
+    "name": "蓋洛",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0086.ant",
+    "animation_id": "Ani:face/sf0086.ant@0000e9a7",
+    "image_ids": [
+      "AniTexture:face/sf0086a.bmp@01e950b2",
+      "AniTexture:face/sf0086b.bmp@01ec710e",
+      "AniTexture:face/sf0086c.bmp@01ed87ce",
+      "AniTexture:face/sf0086d.bmp@01ee9b2a",
+      "AniTexture:face/sf0086e.bmp@01efb6c6"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 33,
+    "name": "法伊娜",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0087.ant",
+    "animation_id": "Ani:face/sf0087.ant@0000eb16",
+    "image_ids": [
+      "AniTexture:face/sf0087a.bmp@01f0cfb2",
+      "AniTexture:face/sf0087b.bmp@01f454a7",
+      "AniTexture:face/sf0087c.bmp@01f49ead",
+      "AniTexture:face/sf0087d.bmp@01f4e87f",
+      "AniTexture:face/sf0087e.bmp@01f53293",
+      "AniTexture:face/sf0087f.bmp@01f57c46"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 34,
+    "name": "馬其頓",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0088.ant",
+    "animation_id": "Ani:face/sf0088.ant@0000eca0",
+    "image_ids": [
+      "AniTexture:face/sf0088_a.bmp@01f5c5d1",
+      "AniTexture:face/sf0088a.bmp@01f6f128",
+      "AniTexture:face/sf0088b.bmp@01f9bd75",
+      "AniTexture:face/sf0088c.bmp@01fa90d4",
+      "AniTexture:face/sf0088d.bmp@01fb6077",
+      "AniTexture:face/sf0088e.bmp@01fc32fe",
+      "AniTexture:face/sf0088f.bmp@01fd040c"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 35,
+    "name": "莉莉耶",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0089.ant",
+    "animation_id": "Ani:face/sf0089.ant@0000ee3d",
+    "image_ids": [
+      "AniTexture:face/sf0089a.bmp@01fdd5d6",
+      "AniTexture:face/sf0089b.bmp@02005e5f",
+      "AniTexture:face/sf0089c.bmp@0200bde1",
+      "AniTexture:face/sf0089d.bmp@02011cb0",
+      "AniTexture:face/sf0089e.bmp@02017cbc",
+      "AniTexture:face/sf0089f.bmp@0201dbe4",
+      "AniTexture:face/sf0089g.bmp@02023b65"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 36,
+    "name": "諾維",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0090.ant",
+    "animation_id": "Ani:face/sf0090.ant@0000efbe",
+    "image_ids": [
+      "AniTexture:face/sf0090a.bmp@02029a89",
+      "AniTexture:face/sf0090b.bmp@020a7634",
+      "AniTexture:face/sf0090c.bmp@020ade2d",
+      "AniTexture:face/sf0090d.bmp@020b4614",
+      "AniTexture:face/sf0090e.bmp@020bad1d",
+      "AniTexture:face/sf0090f.bmp@020c1613",
+      "AniTexture:face/sf0090g.bmp@020c7e7d",
+      "AniTexture:face/sf0090h.bmp@020ce5f2"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 37,
+    "name": "傑",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0091a.ant",
+    "animation_id": "Ani:face/sf0091a.ant@0000f436",
+    "image_ids": [
+      "AniTexture:face/sf0091aa.bmp@020d4db2",
+      "AniTexture:face/sf0091ab.bmp@021039fc",
+      "AniTexture:face/sf0091ac.bmp@02107ca6",
+      "AniTexture:face/sf0091ad.bmp@0210bf25",
+      "AniTexture:face/sf0091ae.bmp@021101e0",
+      "AniTexture:face/sf0091af.bmp@02114872",
+      "AniTexture:face/sf0091ag.bmp@02118c27"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 38,
+    "name": "潔",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0091b.ant",
+    "animation_id": "Ani:face/sf0091b.ant@0000f590",
+    "image_ids": [
+      "AniTexture:face/sf0091ba.bmp@0211ce61",
+      "AniTexture:face/sf0091bb.bmp@02142f32"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 39,
+    "name": "愛琳",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0092.ant",
+    "animation_id": "Ani:face/sf0092.ant@0000f6e4",
+    "image_ids": [
+      "AniTexture:face/sf0092a.bmp@0214a212",
+      "AniTexture:face/sf0092b.bmp@0216a036",
+      "AniTexture:face/sf0092c.bmp@0216fc4a",
+      "AniTexture:face/sf0092d.bmp@0217567c",
+      "AniTexture:face/sf0092e.bmp@0217ae71",
+      "AniTexture:face/sf0092f.bmp@021807cb"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 40,
+    "name": "安蒂",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0093.ant",
+    "animation_id": "Ani:face/sf0093.ant@0000f837",
+    "image_ids": [
+      "AniTexture:face/sf0093a.bmp@02186407",
+      "AniTexture:face/sf0093b.bmp@021b0d3b"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 41,
+    "name": "斯魯多",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0094.ant",
+    "animation_id": "Ani:face/sf0094.ant@0000f981",
+    "image_ids": [
+      "AniTexture:face/sf0094a.bmp@021b42de",
+      "AniTexture:face/sf0094b.bmp@021ea4fd",
+      "AniTexture:face/sf0094c.bmp@021eebd4",
+      "AniTexture:face/sf0094d.bmp@021f335d"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 42,
+    "name": "尼爾",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0095.ant",
+    "animation_id": "Ani:face/sf0095.ant@0000fae2",
+    "image_ids": [
+      "AniTexture:face/sf0095a.bmp@021f79f5",
+      "AniTexture:face/sf0095b.bmp@0222624b",
+      "AniTexture:face/sf0095c.bmp@0222ba18",
+      "AniTexture:face/sf0095d.bmp@0223123c",
+      "AniTexture:face/sf0095e.bmp@02236a59",
+      "AniTexture:face/sf0095f.bmp@0223c350"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 43,
+    "name": "漢克",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0096.ant",
+    "animation_id": "Ani:face/sf0096.ant@0000fc5f",
+    "image_ids": [
+      "AniTexture:face/sf0096a.bmp@02271696",
+      "AniTexture:face/sf0096b.bmp@022b3086",
+      "AniTexture:face/sf0096c.bmp@022bd444",
+      "AniTexture:face/sf0096d.bmp@022f4fa7",
+      "AniTexture:face/sf0096e.bmp@022ff420",
+      "AniTexture:face/sf0096f.bmp@023098c9"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 44,
+    "name": "甘普",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0097.ant",
+    "animation_id": "Ani:face/sf0097.ant@0000fdd8",
+    "image_ids": [
+      "AniTexture:face/SF001D0027.bmp@016b56ac",
+      "AniTexture:face/SF001D0027A.bmp@016d6555",
+      "AniTexture:face/SF001D0027B.bmp@016dd709",
+      "AniTexture:face/SF001D0027C.bmp@016e4195"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 45,
+    "name": "塔莉塔莉",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0099.ant",
+    "animation_id": "Ani:face/sf0099.ant@0000ff66",
+    "image_ids": [
+      "AniTexture:face/sf0099a.bmp@02313d1e",
+      "AniTexture:face/sf0099b.bmp@02364c64",
+      "AniTexture:face/sf0099c.bmp@02370068",
+      "AniTexture:face/sf0099d.bmp@0237b526",
+      "AniTexture:face/sf0099e.bmp@0238686b",
+      "AniTexture:face/sf0099f.bmp@02391deb",
+      "AniTexture:face/sf0099g.bmp@0239cee2",
+      "AniTexture:face/sf0099h.bmp@023a7fed",
+      "AniTexture:face/sf0099i.bmp@023b3339",
+      "AniTexture:face/sf0099j.bmp@023be503"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 46,
+    "name": "黑百合",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0100.ant",
+    "animation_id": "Ani:face/sf0100.ant@00010109",
+    "image_ids": [
+      "AniTexture:face/sf0100a.bmp@023c9811",
+      "AniTexture:face/sf0100b.bmp@023f83b5",
+      "AniTexture:face/sf0100c.bmp@02400e7a",
+      "AniTexture:face/sf0100d.bmp@024099bc",
+      "AniTexture:face/sf0100e.bmp@02412473",
+      "AniTexture:face/sf0100f.bmp@0241b1c8",
+      "AniTexture:face/sf0100g.bmp@02423c63",
+      "AniTexture:face/sf0100h.bmp@0242c929"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 47,
+    "name": "凱蒂",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0101.ant",
+    "animation_id": "Ani:face/sf0101.ant@0001029d",
+    "image_ids": [
+      "AniTexture:face/sf0101a.bmp@0243e506",
+      "AniTexture:face/sf0101b.bmp@024749f6",
+      "AniTexture:face/sf0101c.bmp@02484c89",
+      "AniTexture:face/sf0101d.bmp@02495003",
+      "AniTexture:face/sf0101e.bmp@024a52d2",
+      "AniTexture:face/sf0101f.bmp@024b55ce"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 48,
+    "name": "魔恩",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0102.ant",
+    "animation_id": "Ani:face/sf0102.ant@00010425",
+    "image_ids": [
+      "AniTexture:face/sf0102a.bmp@024c58f8",
+      "AniTexture:face/sf0102b.bmp@02503fff",
+      "AniTexture:face/sf0102c.bmp@0250d069",
+      "AniTexture:face/sf0102d.bmp@02515f30",
+      "AniTexture:face/sf0102e.bmp@0251ed22",
+      "AniTexture:face/sf0102f.bmp@02527bb6",
+      "AniTexture:face/sf0102g.bmp@02530a34",
+      "AniTexture:face/sf0102h.bmp@025395dc"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 49,
+    "name": "亞歲",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0108.ant",
+    "animation_id": "Ani:face/sf0108.ant@000105d2",
+    "image_ids": [
+      "AniTexture:face/sf0108a.bmp@0254e0bf",
+      "AniTexture:face/sf0108b.bmp@02572bd1",
+      "AniTexture:face/sf0108c.bmp@02577b3f",
+      "AniTexture:face/sf0108d.bmp@0257cadd",
+      "AniTexture:face/sf0108e.bmp@025818e1",
+      "AniTexture:face/sf0108f.bmp@0258695f",
+      "AniTexture:face/sf0108g.bmp@0258b7be",
+      "AniTexture:face/sf0108h.bmp@025906fc",
+      "AniTexture:face/sf0108i.bmp@025955b6"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 50,
+    "name": "賽依雅",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0109.ant",
+    "animation_id": "Ani:face/sf0109.ant@00010761",
+    "image_ids": [
+      "AniTexture:face/sf0109a.bmp@0259aeb5",
+      "AniTexture:face/sf0109b.bmp@025f1350",
+      "AniTexture:face/sf0109c.bmp@026018fb",
+      "AniTexture:face/sf0109d.bmp@02611c55",
+      "AniTexture:face/sf0109e.bmp@02621e70",
+      "AniTexture:face/sf0109f.bmp@02632388"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 51,
+    "name": "艾瑪",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0110.ant",
+    "animation_id": "Ani:face/sf0110.ant@000108ee",
+    "image_ids": [
+      "AniTexture:face/sf0110a.bmp@0264caaf",
+      "AniTexture:face/sf0110b.bmp@0267f94f",
+      "AniTexture:face/sf0110c.bmp@0268cb62",
+      "AniTexture:face/sf0110d.bmp@02699d4b",
+      "AniTexture:face/sf0110e.bmp@026a6f68",
+      "AniTexture:face/sf0110f.bmp@026b4205"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 52,
+    "name": "榭菈",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0111.ant",
+    "animation_id": "Ani:face/sf0111.ant@00010a6d",
+    "image_ids": [
+      "AniTexture:face/sf0111a.bmp@026c1363",
+      "AniTexture:face/sf0111b.bmp@026f92c0",
+      "AniTexture:face/sf0111c.bmp@02707909",
+      "AniTexture:face/sf0111d.bmp@02715fce",
+      "AniTexture:face/sf0111e.bmp@027248ff",
+      "AniTexture:face/sf0111f.bmp@02733040",
+      "AniTexture:face/sf0111g.bmp@0274196b",
+      "AniTexture:face/sf0111h.bmp@02750067"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 53,
+    "name": "哈貝魯卡",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0666.ant",
+    "animation_id": "Ani:face/sf0666.ant@0001184f",
+    "image_ids": [
+      "AniTexture:face/sf0666a.bmp@029162d7",
+      "AniTexture:face/sf0666b.bmp@0294d5cb",
+      "AniTexture:face/sf0666c.bmp@029553f5",
+      "AniTexture:face/sf0666d.bmp@0295d1cc",
+      "AniTexture:face/sf0666e.bmp@029652dc",
+      "AniTexture:face/sf0666f.bmp@0296d058",
+      "AniTexture:face/sf0666g.bmp@02974b5e"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 54,
+    "name": "荻菈",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0777.ant",
+    "animation_id": "Ani:face/sf0777.ant@000119ca",
+    "image_ids": [
+      "AniTexture:face/sf0777a.bmp@0297c709",
+      "AniTexture:face/sf0777b.bmp@029b7ff0",
+      "AniTexture:face/sf0777c.bmp@029c3878",
+      "AniTexture:face/sf0777d.bmp@029cefcc",
+      "AniTexture:face/sf0777e.bmp@029da7c8",
+      "AniTexture:face/sf0777f.bmp@029e5fe0",
+      "AniTexture:face/sf0777g.bmp@029f17fd"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 55,
+    "name": "席格",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0072.ant",
+    "animation_id": "Ani:face/sf0072.ant@0000db5e",
+    "image_ids": [
+      "AniTexture:face/sf0072a.bmp@01a313a5",
+      "AniTexture:face/sf0072b.bmp@01a8a93b",
+      "AniTexture:face/sf0072c.bmp@01a90281",
+      "AniTexture:face/sf0072d.bmp@01a95b1a",
+      "AniTexture:face/sf0072e.bmp@01a9b1d9",
+      "AniTexture:face/sf0072f.bmp@01aa07d1"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 56,
+    "name": "賽連",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0026.ant",
+    "animation_id": "Ani:face/sf0026.ant@0000cd60",
+    "image_ids": [
+      "AniTexture:face/sf0026a.bmp@017998ce",
+      "AniTexture:face/sf0026b.bmp@017d1ca1",
+      "AniTexture:face/sf0026c.bmp@017d4411"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 57,
+    "name": "阿努比斯",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0029.ant",
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 58,
+    "name": "海盜",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0067.ant",
+    "animation_id": "Ani:face/sf0067.ant@0000d804",
+    "image_ids": [
+      "AniTexture:face/sf0067a.bmp@01983fda",
+      "AniTexture:face/sf0067b.bmp@019af304",
+      "AniTexture:face/sf0067c.bmp@019b4c0a",
+      "AniTexture:face/sf0067d.bmp@019ba29a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 59,
+    "name": "聯邦兵",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0068.ant",
+    "animation_id": "Ani:face/sf0068.ant@0000d921",
+    "image_ids": [
+      "AniTexture:face/sf0068a.bmp@019c0705"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 60,
+    "name": "彌賽亞兵",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0078.ant",
+    "animation_id": "Ani:face/sf0078.ant@0000df6f",
+    "image_ids": [
+      "AniTexture:face/sf0078a.bmp@01bcf6f2"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 61,
+    "name": "晶耀正規兵",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0077.ant",
+    "animation_id": "Ani:face/sf0077.ant@0000de77",
+    "image_ids": [
+      "AniTexture:face/sf0077a.bmp@01b7bc23"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 62,
+    "name": "聖堂守軍",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0076.ant",
+    "animation_id": "Ani:face/sf0076.ant@0000dd81",
+    "image_ids": [
+      "AniTexture:face/sf0076a.bmp@01b25683"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 63,
+    "name": "暴牙",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0052.ant",
+    "animation_id": "Ani:face/sf0052.ant@0000d3b3",
+    "image_ids": [
+      "AniTexture:face/sf0052a.bmp@0190fd11"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 64,
+    "name": "小奈",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0060.ant",
+    "animation_id": "Ani:face/sf0060.ant@0000d5b3",
+    "image_ids": [
+      "AniTexture:face/sf0060a.bmp@01950697"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 65,
+    "name": "黑輪",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0050.ant",
+    "animation_id": "Ani:face/sf0050.ant@0000d2b7",
+    "image_ids": [
+      "AniTexture:face/sf0050a.bmp@018ec75a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 66,
+    "name": "盜賊",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0067.ant",
+    "animation_id": "Ani:face/sf0067.ant@0000d804",
+    "image_ids": [
+      "AniTexture:face/sf0067a.bmp@01983fda",
+      "AniTexture:face/sf0067b.bmp@019af304",
+      "AniTexture:face/sf0067c.bmp@019b4c0a",
+      "AniTexture:face/sf0067d.bmp@019ba29a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 67,
+    "name": "碧",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0009b.ant",
+    "animation_id": "Ani:face/sf0009b.ant@0000b87f",
+    "image_ids": [
+      "AniTexture:face/sf0009ba.bmp@011a57c0",
+      "AniTexture:face/sf0009bb.bmp@011da273",
+      "AniTexture:face/sf0009bc.bmp@011e119f",
+      "AniTexture:face/sf0009bd.bmp@011e81b9",
+      "AniTexture:face/sf0009be.bmp@011ef032",
+      "AniTexture:face/sf0009bf.bmp@011f5ec2"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 68,
+    "name": "瓊安",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0113.ant",
+    "animation_id": "Ani:face/sf0113.ant@000115a9",
+    "image_ids": [
+      "AniTexture:face/sf0113a.bmp@028aa326",
+      "AniTexture:face/sf0113b.bmp@028d31fd",
+      "AniTexture:face/sf0113c.bmp@028d92be"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 69,
+    "name": "茱莉葉特",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0114.ant",
+    "animation_id": "Ani:face/sf0114.ant@000116eb",
+    "image_ids": [
+      "AniTexture:face/sf0114a.bmp@028df3ad",
+      "AniTexture:face/sf0114b.bmp@029087f9",
+      "AniTexture:face/sf0114c.bmp@0290f602"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 70,
+    "name": "諾維",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0090a.ant",
+    "animation_id": "Ani:face/sf0090a.ant@0000f137",
+    "image_ids": [
+      "AniTexture:face/sf0090aa.bmp@02057148",
+      "AniTexture:face/sf0090ab.bmp@02088063",
+      "AniTexture:face/sf0090ac.bmp@0208e47f",
+      "AniTexture:face/sf0090ad.bmp@02094a9c",
+      "AniTexture:face/sf0090ae.bmp@0209ae6a",
+      "AniTexture:face/sf0090af.bmp@020a1242"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 71,
+    "name": "暗殺喵",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0050.ant",
+    "animation_id": "Ani:face/sf0050.ant@0000d2b7",
+    "image_ids": [
+      "AniTexture:face/sf0050a.bmp@018ec75a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 72,
+    "name": "工程地鼠",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0050.ant",
+    "animation_id": "Ani:face/sf0050.ant@0000d2b7",
+    "image_ids": [
+      "AniTexture:face/sf0050a.bmp@018ec75a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 73,
+    "name": "雷蒙特",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0083.ant",
+    "animation_id": "Ani:face/sf0083.ant@0000e55d",
+    "image_ids": [
+      "AniTexture:face/sf0083a.bmp@01d3d1db",
+      "AniTexture:face/sf0083a_.bmp@01d7eef7",
+      "AniTexture:face/sf0083b.bmp@01d860bb",
+      "AniTexture:face/sf0083c.bmp@01d8d264",
+      "AniTexture:face/sf0083d.bmp@01d9457e",
+      "AniTexture:face/sf0083e.bmp@01d9b785",
+      "AniTexture:face/sf0083f.bmp@01da29c5",
+      "AniTexture:face/sf0083g.bmp@01da9bbe",
+      "AniTexture:face/sf0083h.bmp@01db0e09"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 74,
+    "name": "瑟莉絲",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0005.ant",
+    "animation_id": "Ani:face/sf0005.ant@0000aeee",
+    "image_ids": [
+      "AniTexture:face/sf0005a.bmp@00ec3f6f",
+      "AniTexture:face/sf0005b.bmp@00f09b2d",
+      "AniTexture:face/sf0005c.bmp@00f10afa",
+      "AniTexture:face/sf0005d.bmp@00f17b1a",
+      "AniTexture:face/sf0005e.bmp@00f1ec16",
+      "AniTexture:face/sf0005f.bmp@00f25bc8",
+      "AniTexture:face/sf0005g.bmp@00f2ccf6",
+      "AniTexture:face/sf0005h.bmp@00f33d18",
+      "AniTexture:face/sf0005i.bmp@00f3af58",
+      "AniTexture:face/sf0005j.bmp@00f421e8",
+      "AniTexture:face/sf0005k.bmp@00f5391a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 75,
+    "name": "盜賊",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0067.ant",
+    "animation_id": "Ani:face/sf0067.ant@0000d804",
+    "image_ids": [
+      "AniTexture:face/sf0067a.bmp@01983fda",
+      "AniTexture:face/sf0067b.bmp@019af304",
+      "AniTexture:face/sf0067c.bmp@019b4c0a",
+      "AniTexture:face/sf0067d.bmp@019ba29a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 76,
+    "name": "醫生",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0067.ant",
+    "animation_id": "Ani:face/sf0067.ant@0000d804",
+    "image_ids": [
+      "AniTexture:face/sf0067a.bmp@01983fda",
+      "AniTexture:face/sf0067b.bmp@019af304",
+      "AniTexture:face/sf0067c.bmp@019b4c0a",
+      "AniTexture:face/sf0067d.bmp@019ba29a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 77,
+    "name": "？？",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0002.ant",
+    "animation_id": "Ani:face/sf0002.ant@0000a970",
+    "image_ids": [
+      "AniTexture:face/sf0002a.bmp@00cc8550",
+      "AniTexture:face/sf0002b.bmp@00d159f0",
+      "AniTexture:face/sf0002c.bmp@00d1ccdd",
+      "AniTexture:face/sf0002d.bmp@00d23cbe",
+      "AniTexture:face/sf0002e.bmp@00d2b03c",
+      "AniTexture:face/sf0002f.bmp@00d323e3",
+      "AniTexture:face/sf0002g.bmp@00d397b5",
+      "AniTexture:face/sf0002h.bmp@00d40961",
+      "AniTexture:face/sf0002i.bmp@00d47bb6",
+      "AniTexture:face/sf0002j.bmp@00d4ef12",
+      "AniTexture:face/sf0002k.bmp@00d5e1af",
+      "AniTexture:face/sf0002l.bmp@00d6d447"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 78,
+    "name": "依協莉絲",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0002.ant",
+    "animation_id": "Ani:face/sf0002.ant@0000a970",
+    "image_ids": [
+      "AniTexture:face/sf0002a.bmp@00cc8550",
+      "AniTexture:face/sf0002b.bmp@00d159f0",
+      "AniTexture:face/sf0002c.bmp@00d1ccdd",
+      "AniTexture:face/sf0002d.bmp@00d23cbe",
+      "AniTexture:face/sf0002e.bmp@00d2b03c",
+      "AniTexture:face/sf0002f.bmp@00d323e3",
+      "AniTexture:face/sf0002g.bmp@00d397b5",
+      "AniTexture:face/sf0002h.bmp@00d40961",
+      "AniTexture:face/sf0002i.bmp@00d47bb6",
+      "AniTexture:face/sf0002j.bmp@00d4ef12",
+      "AniTexture:face/sf0002k.bmp@00d5e1af",
+      "AniTexture:face/sf0002l.bmp@00d6d447"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 79,
+    "name": "喬伊",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0001.ant",
+    "animation_id": "Ani:face/sf0001.ant@0000a78c",
+    "image_ids": [
+      "AniTexture:face/sf0001a.bmp@00c0a869",
+      "AniTexture:face/sf0001b.bmp@00c59ce4",
+      "AniTexture:face/sf0001c.bmp@00c61a5c",
+      "AniTexture:face/sf0001d.bmp@00c697b6",
+      "AniTexture:face/sf0001e.bmp@00c7163c",
+      "AniTexture:face/sf0001f.bmp@00c79445",
+      "AniTexture:face/sf0001g.bmp@00c81338",
+      "AniTexture:face/sf0001h.bmp@00c89317",
+      "AniTexture:face/sf0001i.bmp@00c913cb",
+      "AniTexture:face/sf0001j.bmp@00c99274",
+      "AniTexture:face/sf0001k.bmp@00ca10e2",
+      "AniTexture:face/sf0001l.bmp@00ca91b5",
+      "AniTexture:face/sf0001m.bmp@00cb11d7",
+      "AniTexture:face/sf0001n.bmp@00cb89e5",
+      "AniTexture:face/sf0001o.bmp@00cc0815"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 80,
+    "name": "小孩",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0001.ant",
+    "animation_id": "Ani:face/sf0001.ant@0000a78c",
+    "image_ids": [
+      "AniTexture:face/sf0001a.bmp@00c0a869",
+      "AniTexture:face/sf0001b.bmp@00c59ce4",
+      "AniTexture:face/sf0001c.bmp@00c61a5c",
+      "AniTexture:face/sf0001d.bmp@00c697b6",
+      "AniTexture:face/sf0001e.bmp@00c7163c",
+      "AniTexture:face/sf0001f.bmp@00c79445",
+      "AniTexture:face/sf0001g.bmp@00c81338",
+      "AniTexture:face/sf0001h.bmp@00c89317",
+      "AniTexture:face/sf0001i.bmp@00c913cb",
+      "AniTexture:face/sf0001j.bmp@00c99274",
+      "AniTexture:face/sf0001k.bmp@00ca10e2",
+      "AniTexture:face/sf0001l.bmp@00ca91b5",
+      "AniTexture:face/sf0001m.bmp@00cb11d7",
+      "AniTexture:face/sf0001n.bmp@00cb89e5",
+      "AniTexture:face/sf0001o.bmp@00cc0815"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 81,
+    "name": "塔莉（？）",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0099.ant",
+    "animation_id": "Ani:face/sf0099.ant@0000ff66",
+    "image_ids": [
+      "AniTexture:face/sf0099a.bmp@02313d1e",
+      "AniTexture:face/sf0099b.bmp@02364c64",
+      "AniTexture:face/sf0099c.bmp@02370068",
+      "AniTexture:face/sf0099d.bmp@0237b526",
+      "AniTexture:face/sf0099e.bmp@0238686b",
+      "AniTexture:face/sf0099f.bmp@02391deb",
+      "AniTexture:face/sf0099g.bmp@0239cee2",
+      "AniTexture:face/sf0099h.bmp@023a7fed",
+      "AniTexture:face/sf0099i.bmp@023b3339",
+      "AniTexture:face/sf0099j.bmp@023be503"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 82,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 83,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 84,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 85,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 86,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 87,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 88,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 89,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 90,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 91,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 92,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 93,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 94,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 95,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 96,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 97,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 98,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 99,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 100,
+    "name": "？？？",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0001.ant",
+    "animation_id": "Ani:face/sf0001.ant@0000a78c",
+    "image_ids": [
+      "AniTexture:face/sf0001a.bmp@00c0a869",
+      "AniTexture:face/sf0001b.bmp@00c59ce4",
+      "AniTexture:face/sf0001c.bmp@00c61a5c",
+      "AniTexture:face/sf0001d.bmp@00c697b6",
+      "AniTexture:face/sf0001e.bmp@00c7163c",
+      "AniTexture:face/sf0001f.bmp@00c79445",
+      "AniTexture:face/sf0001g.bmp@00c81338",
+      "AniTexture:face/sf0001h.bmp@00c89317",
+      "AniTexture:face/sf0001i.bmp@00c913cb",
+      "AniTexture:face/sf0001j.bmp@00c99274",
+      "AniTexture:face/sf0001k.bmp@00ca10e2",
+      "AniTexture:face/sf0001l.bmp@00ca91b5",
+      "AniTexture:face/sf0001m.bmp@00cb11d7",
+      "AniTexture:face/sf0001n.bmp@00cb89e5",
+      "AniTexture:face/sf0001o.bmp@00cc0815"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 101,
+    "name": "？？？",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0001.ant",
+    "animation_id": "Ani:face/sf0001.ant@0000a78c",
+    "image_ids": [
+      "AniTexture:face/sf0001a.bmp@00c0a869",
+      "AniTexture:face/sf0001b.bmp@00c59ce4",
+      "AniTexture:face/sf0001c.bmp@00c61a5c",
+      "AniTexture:face/sf0001d.bmp@00c697b6",
+      "AniTexture:face/sf0001e.bmp@00c7163c",
+      "AniTexture:face/sf0001f.bmp@00c79445",
+      "AniTexture:face/sf0001g.bmp@00c81338",
+      "AniTexture:face/sf0001h.bmp@00c89317",
+      "AniTexture:face/sf0001i.bmp@00c913cb",
+      "AniTexture:face/sf0001j.bmp@00c99274",
+      "AniTexture:face/sf0001k.bmp@00ca10e2",
+      "AniTexture:face/sf0001l.bmp@00ca91b5",
+      "AniTexture:face/sf0001m.bmp@00cb11d7",
+      "AniTexture:face/sf0001n.bmp@00cb89e5",
+      "AniTexture:face/sf0001o.bmp@00cc0815"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 102,
+    "name": "眾人",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0001.ant",
+    "animation_id": "Ani:face/sf0001.ant@0000a78c",
+    "image_ids": [
+      "AniTexture:face/sf0001a.bmp@00c0a869",
+      "AniTexture:face/sf0001b.bmp@00c59ce4",
+      "AniTexture:face/sf0001c.bmp@00c61a5c",
+      "AniTexture:face/sf0001d.bmp@00c697b6",
+      "AniTexture:face/sf0001e.bmp@00c7163c",
+      "AniTexture:face/sf0001f.bmp@00c79445",
+      "AniTexture:face/sf0001g.bmp@00c81338",
+      "AniTexture:face/sf0001h.bmp@00c89317",
+      "AniTexture:face/sf0001i.bmp@00c913cb",
+      "AniTexture:face/sf0001j.bmp@00c99274",
+      "AniTexture:face/sf0001k.bmp@00ca10e2",
+      "AniTexture:face/sf0001l.bmp@00ca91b5",
+      "AniTexture:face/sf0001m.bmp@00cb11d7",
+      "AniTexture:face/sf0001n.bmp@00cb89e5",
+      "AniTexture:face/sf0001o.bmp@00cc0815"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 103,
+    "name": "鎮民",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0001.ant",
+    "animation_id": "Ani:face/sf0001.ant@0000a78c",
+    "image_ids": [
+      "AniTexture:face/sf0001a.bmp@00c0a869",
+      "AniTexture:face/sf0001b.bmp@00c59ce4",
+      "AniTexture:face/sf0001c.bmp@00c61a5c",
+      "AniTexture:face/sf0001d.bmp@00c697b6",
+      "AniTexture:face/sf0001e.bmp@00c7163c",
+      "AniTexture:face/sf0001f.bmp@00c79445",
+      "AniTexture:face/sf0001g.bmp@00c81338",
+      "AniTexture:face/sf0001h.bmp@00c89317",
+      "AniTexture:face/sf0001i.bmp@00c913cb",
+      "AniTexture:face/sf0001j.bmp@00c99274",
+      "AniTexture:face/sf0001k.bmp@00ca10e2",
+      "AniTexture:face/sf0001l.bmp@00ca91b5",
+      "AniTexture:face/sf0001m.bmp@00cb11d7",
+      "AniTexture:face/sf0001n.bmp@00cb89e5",
+      "AniTexture:face/sf0001o.bmp@00cc0815"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 104,
+    "name": "鎮民",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0001.ant",
+    "animation_id": "Ani:face/sf0001.ant@0000a78c",
+    "image_ids": [
+      "AniTexture:face/sf0001a.bmp@00c0a869",
+      "AniTexture:face/sf0001b.bmp@00c59ce4",
+      "AniTexture:face/sf0001c.bmp@00c61a5c",
+      "AniTexture:face/sf0001d.bmp@00c697b6",
+      "AniTexture:face/sf0001e.bmp@00c7163c",
+      "AniTexture:face/sf0001f.bmp@00c79445",
+      "AniTexture:face/sf0001g.bmp@00c81338",
+      "AniTexture:face/sf0001h.bmp@00c89317",
+      "AniTexture:face/sf0001i.bmp@00c913cb",
+      "AniTexture:face/sf0001j.bmp@00c99274",
+      "AniTexture:face/sf0001k.bmp@00ca10e2",
+      "AniTexture:face/sf0001l.bmp@00ca91b5",
+      "AniTexture:face/sf0001m.bmp@00cb11d7",
+      "AniTexture:face/sf0001n.bmp@00cb89e5",
+      "AniTexture:face/sf0001o.bmp@00cc0815"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 105,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 106,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 107,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 108,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 109,
+    "name": "保留",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": null,
+    "animation_id": null,
+    "image_ids": [],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 110,
+    "name": "彌賽亞衛兵",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0078.ant",
+    "animation_id": "Ani:face/sf0078.ant@0000df6f",
+    "image_ids": [
+      "AniTexture:face/sf0078a.bmp@01bcf6f2"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 111,
+    "name": "陽光般的少年",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0112a.ant",
+    "animation_id": "Ani:face/sf0112a.ant@00010c9c",
+    "image_ids": [
+      "AniTexture:face/sf0112aa.bmp@0275e93d"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 112,
+    "name": "小男孩",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0112b.ant",
+    "animation_id": "Ani:face/sf0112b.ant@00010d98",
+    "image_ids": [
+      "AniTexture:face/sf0112ba.bmp@02784a7e"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 113,
+    "name": "當服務生的男性",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0112c.ant",
+    "animation_id": "Ani:face/sf0112c.ant@00010e94",
+    "image_ids": [
+      "AniTexture:face/sf0112ca.bmp@027a2e45"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 114,
+    "name": "看似輕浮的男子",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0112d.ant",
+    "animation_id": "Ani:face/sf0112d.ant@00010f91",
+    "image_ids": [
+      "AniTexture:face/sf0112da.bmp@027c8e0b"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 115,
+    "name": "看守燈塔的長者",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0112e.ant",
+    "animation_id": "Ani:face/sf0112e.ant@00011090",
+    "image_ids": [
+      "AniTexture:face/sf0112ea.bmp@027f0aa5"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 116,
+    "name": "沉穩的智者",
+    "raw_first_field": "0xff8dcef3",
+    "face_animation_reference": "face\\sf0112f.ant",
+    "animation_id": "Ani:face/sf0112f.ant@00011192",
+    "image_ids": [
+      "AniTexture:face/sf0112fa.bmp@0281427a"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 117,
+    "name": "陽光般的少女",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0112g.ant",
+    "animation_id": "Ani:face/sf0112g.ant@0001128f",
+    "image_ids": [
+      "AniTexture:face/sf0112ga.bmp@0283b4d8"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 118,
+    "name": "小女孩",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0112h.ant",
+    "animation_id": "Ani:face/sf0112h.ant@00011385",
+    "image_ids": [
+      "AniTexture:face/sf0112ha.bmp@0285c2dc"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  },
+  {
+    "table_row": 119,
+    "name": "端莊的女仕",
+    "raw_first_field": "0xfff4abcf",
+    "face_animation_reference": "face\\sf0112i.ant",
+    "animation_id": "Ani:face/sf0112i.ant@0001147f",
+    "image_ids": [
+      "AniTexture:face/sf0112ia.bmp@028801cf"
+    ],
+    "evidence": "DialoguePersonData.txt row and exact animation texture references",
+    "model_or_man_binding": "not yet established"
+  }
+]

@@ -1,0 +1,2031 @@
+[
+  {
+    "id": "Ani:man/0050/33b.ani.BAK@00194bcf",
+    "source_sha256": "324e4c795fcb301982f6d499543eb2062338425da6693bcbc4fa3a5a13558fdf",
+    "original_path": "man/0050/33b.ani.BAK",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\102\\17b01.bmp",
+        "width": 78,
+        "height": 190,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b02.bmp",
+        "width": 76,
+        "height": 207,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b03.bmp",
+        "width": 77,
+        "height": 219,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b04.bmp",
+        "width": 76,
+        "height": 227,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b05.bmp",
+        "width": 104,
+        "height": 233,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b06.bmp",
+        "width": 145,
+        "height": 219,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b07.bmp",
+        "width": 171,
+        "height": 182,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b08.bmp",
+        "width": 179,
+        "height": 143,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b09.bmp",
+        "width": 181,
+        "height": 119,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b10.bmp",
+        "width": 134,
+        "height": 161,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b11.bmp",
+        "width": 111,
+        "height": 185,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\102\\17b12.bmp",
+        "width": 141,
+        "height": 125,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\106\\zz1.bmp",
+        "width": 125,
+        "height": 185,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\106\\zz2.bmp",
+        "width": 125,
+        "height": 185,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\106\\zz3.bmp",
+        "width": 125,
+        "height": 93,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/17a.ani.bak@002793f4",
+    "source_sha256": "5bd0b99f0ad362f723591124ee8bd06c719888337d974b3293f0dd411f55263f",
+    "original_path": "man/0102/17a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\17a00.bmp",
+        "width": 106,
+        "height": 158,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17a01.bmp",
+        "width": 116,
+        "height": 150,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17a02.bmp",
+        "width": 125,
+        "height": 141,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17a03.bmp",
+        "width": 127,
+        "height": 148,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17a04.bmp",
+        "width": 122,
+        "height": 155,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17a05.bmp",
+        "width": 104,
+        "height": 148,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17a06.bmp",
+        "width": 112,
+        "height": 142,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17a07.bmp",
+        "width": 120,
+        "height": 132,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17a08.bmp",
+        "width": 112,
+        "height": 136,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\fr.bmp",
+        "width": 53,
+        "height": 41,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/17b.ani.bak@0027994e",
+    "source_sha256": "1818837eeb2bd8607f636f80c7f7e5280cd56426a6f6dd68fa10ad6d27829159",
+    "original_path": "man/0102/17b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\17b00.bmp",
+        "width": 92,
+        "height": 139,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17b01.bmp",
+        "width": 98,
+        "height": 138,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17b02.bmp",
+        "width": 103,
+        "height": 138,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17b03.bmp",
+        "width": 109,
+        "height": 154,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17b04.bmp",
+        "width": 114,
+        "height": 158,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17b05.bmp",
+        "width": 123,
+        "height": 145,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17b06.bmp",
+        "width": 136,
+        "height": 147,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17b07.bmp",
+        "width": 147,
+        "height": 143,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\17b08.bmp",
+        "width": 142,
+        "height": 140,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\fr.bmp",
+        "width": 53,
+        "height": 41,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/18a.ani.bak@00279d82",
+    "source_sha256": "050f3a2007cd2c3b01eb618daa97fafdfc960d14316a0a5a5a047ceb352bd087",
+    "original_path": "man/0102/18a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\18a00.bmp",
+        "width": 77,
+        "height": 108,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/18b.ani.bak@00279f4d",
+    "source_sha256": "3ea41a0eb048d43b302ba17f0eab4f0cd09593bd7af6c27255676a27a6344264",
+    "original_path": "man/0102/18b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\18b00.bmp",
+        "width": 95,
+        "height": 90,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/19a.ani.bak@0027a0f9",
+    "source_sha256": "c9397bef356f694afd0f5f9ec5e46651acc50729bf1505233a2c3bc1e9d03cf1",
+    "original_path": "man/0102/19a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\18a00.bmp",
+        "width": 77,
+        "height": 108,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/19b.ani.bak@0027a289",
+    "source_sha256": "3ea41a0eb048d43b302ba17f0eab4f0cd09593bd7af6c27255676a27a6344264",
+    "original_path": "man/0102/19b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\18b00.bmp",
+        "width": 95,
+        "height": 90,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/20a.ani.bak@0027a428",
+    "source_sha256": "8fb022fdb1062003bd93b2e27dad9099817a3c1a93beb8a1798adcaa7c1b9b89",
+    "original_path": "man/0102/20a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\08a00.bmp",
+        "width": 115,
+        "height": 139,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/20b.ani.bak@0027a5b8",
+    "source_sha256": "86ddccd9327746784705a1333d30beb33a335cba283c44d203d3bb4779df3523",
+    "original_path": "man/0102/20b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\08b00.bmp",
+        "width": 70,
+        "height": 133,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/21a.ani.bak@0027a75f",
+    "source_sha256": "a8f18e4fe7d7b4b1c3ccabb9dc6c37f37bbe3ac8d0dbb318205082b80da98889",
+    "original_path": "man/0102/21a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\21a00.bmp",
+        "width": 87,
+        "height": 120,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/21b.ani.bak@0027a927",
+    "source_sha256": "30aca9db87be2ae04460207f827b04de774ff49044906fe9cb7057040d5deff6",
+    "original_path": "man/0102/21b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\21b00.bmp",
+        "width": 93,
+        "height": 83,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/22a.ani.bak@0027aadb",
+    "source_sha256": "d10ee8a990749e83636d7ee7e47dd3ee9a208099d7ced2bd35d2cfa39588278a",
+    "original_path": "man/0102/22a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\04a04.bmp",
+        "width": 111,
+        "height": 76,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/22b.ani.bak@0027ac69",
+    "source_sha256": "dc21fe56df4bcbc69f73b8bde1e24ac5a52fc5dc78ed83e90347e9cb1ab5bccf",
+    "original_path": "man/0102/22b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\04b04.bmp",
+        "width": 88,
+        "height": 81,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/23a.ani.bak@0027adf6",
+    "source_sha256": "e6275a4e510202ba3231ba3d0864dbc3e3022ec113e08aaa4e7db65195eb3fdd",
+    "original_path": "man/0102/23a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\05a04.bmp",
+        "width": 129,
+        "height": 93,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/23b.ani.bak@0027af84",
+    "source_sha256": "a7db8597796c2bcab369734a0520a9865c05850d329d2afd4c2eeb3a97031d96",
+    "original_path": "man/0102/23b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\05b04.bmp",
+        "width": 78,
+        "height": 96,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/24a.ani.bak@0027b13f",
+    "source_sha256": "9bd357cd6d352aa4017c8ac2aac2c78bf3f40ea14b5b960b6038c5cb1ddcff25",
+    "original_path": "man/0102/24a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\02a00.bmp",
+        "width": 148,
+        "height": 91,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/24b.ani.bak@0027b340",
+    "source_sha256": "54fefdaeca56fc7351a2694cfdedaecabba33d092957f26b57a0bdb986a6fddf",
+    "original_path": "man/0102/24b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\02b00.bmp",
+        "width": 115,
+        "height": 130,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/25a.ani.bak@0027b5ed",
+    "source_sha256": "dafd28e6464dc207544dac2fdf4fb146fb2ec2f1431d942d2262bd4797641572",
+    "original_path": "man/0102/25a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\25a00.bmp",
+        "width": 106,
+        "height": 158,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25a01.bmp",
+        "width": 114,
+        "height": 153,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25a02.bmp",
+        "width": 122,
+        "height": 147,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25a03.bmp",
+        "width": 130,
+        "height": 142,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25a04.bmp",
+        "width": 136,
+        "height": 137,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25a05.bmp",
+        "width": 134,
+        "height": 135,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25a06.bmp",
+        "width": 115,
+        "height": 135,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25a07.bmp",
+        "width": 118,
+        "height": 138,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25a08.bmp",
+        "width": 112,
+        "height": 143,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/25b.ani.bak@0027b9bd",
+    "source_sha256": "593a5292fe9eaf52dc932a8dd3aec86489992005c7ee2a025901c424b8bc24ef",
+    "original_path": "man/0102/25b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\25b00.bmp",
+        "width": 92,
+        "height": 139,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25b01.bmp",
+        "width": 92,
+        "height": 138,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25b02.bmp",
+        "width": 89,
+        "height": 136,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25b03.bmp",
+        "width": 87,
+        "height": 135,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25b04.bmp",
+        "width": 86,
+        "height": 135,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25b05.bmp",
+        "width": 93,
+        "height": 136,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25b06.bmp",
+        "width": 110,
+        "height": 136,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25b07.bmp",
+        "width": 131,
+        "height": 136,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\25b08.bmp",
+        "width": 144,
+        "height": 135,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/s1081a.ani.bak@0027be49",
+    "source_sha256": "146911d46b7aae39e199f7a723daf46169801c97a7de7a20dd2d44477f5490e3",
+    "original_path": "man/0102/s1081a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\31a00.bmp",
+        "width": 106,
+        "height": 158,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31a01.bmp",
+        "width": 118,
+        "height": 136,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31a02.bmp",
+        "width": 77,
+        "height": 137,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31a03.bmp",
+        "width": 104,
+        "height": 146,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31a04.bmp",
+        "width": 95,
+        "height": 136,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31a05.bmp",
+        "width": 96,
+        "height": 134,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31a06.bmp",
+        "width": 151,
+        "height": 121,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31a07.bmp",
+        "width": 157,
+        "height": 112,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31a08.bmp",
+        "width": 152,
+        "height": 105,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31a09.bmp",
+        "width": 119,
+        "height": 136,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\fr.bmp",
+        "width": 53,
+        "height": 41,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\056\\ool.bmp",
+        "width": 200,
+        "height": 200,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/s1081b.ani.bak@0027c46a",
+    "source_sha256": "16a3feabe58a84c00d90567184429784b4823c51ac6088d080b07171da6b06b0",
+    "original_path": "man/0102/s1081b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\31b00.bmp",
+        "width": 92,
+        "height": 139,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31b01.bmp",
+        "width": 143,
+        "height": 142,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31b02.bmp",
+        "width": 130,
+        "height": 183,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31b03.bmp",
+        "width": 115,
+        "height": 158,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31b04.bmp",
+        "width": 127,
+        "height": 143,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31b05.bmp",
+        "width": 124,
+        "height": 183,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31b06.bmp",
+        "width": 109,
+        "height": 180,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31b07.bmp",
+        "width": 120,
+        "height": 149,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31b08.bmp",
+        "width": 122,
+        "height": 116,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\31b09.bmp",
+        "width": 97,
+        "height": 176,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\fr.bmp",
+        "width": 53,
+        "height": 41,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\056\\ool.bmp",
+        "width": 200,
+        "height": 200,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/s1082a.ani.bak@0027cb79",
+    "source_sha256": "70872c03df3d25acd46e641e5446d527f406310beafdfa48b59979e36f42e395",
+    "original_path": "man/0102/s1082a.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\32a00.bmp",
+        "width": 106,
+        "height": 158,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32a01.bmp",
+        "width": 107,
+        "height": 156,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32a02.bmp",
+        "width": 102,
+        "height": 138,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32a03.bmp",
+        "width": 112,
+        "height": 177,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32a04.bmp",
+        "width": 84,
+        "height": 229,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32a05.bmp",
+        "width": 114,
+        "height": 192,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32a06.bmp",
+        "width": 95,
+        "height": 143,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32a07.bmp",
+        "width": 78,
+        "height": 148,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32a08.bmp",
+        "width": 140,
+        "height": 145,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32a09.bmp",
+        "width": 115,
+        "height": 145,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\fr.bmp",
+        "width": 53,
+        "height": 41,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\057\\ool2.bmp",
+        "width": 200,
+        "height": 200,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\056\\ool.bmp",
+        "width": 200,
+        "height": 200,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\067\\31al201.bmp",
+        "width": 80,
+        "height": 76,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\067\\31al202.bmp",
+        "width": 80,
+        "height": 76,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\067\\31al203.bmp",
+        "width": 80,
+        "height": 76,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Ani:man/0102/s1082b.ani.bak@0027d4c0",
+    "source_sha256": "8d6fc155cc07a712d9ae6169ac97948a1d5b16ca2e0b4561e337a0dfee46b25b",
+    "original_path": "man/0102/s1082b.ani.bak",
+    "status": "resource_table_parsed",
+    "resources": [
+      {
+        "reference": "MAN\\020\\fr.bmp",
+        "width": 53,
+        "height": 41,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\057\\ool2.bmp",
+        "width": 200,
+        "height": 200,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\056\\ool.bmp",
+        "width": 200,
+        "height": 200,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\067\\31al201.bmp",
+        "width": 80,
+        "height": 76,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\067\\31al202.bmp",
+        "width": 80,
+        "height": 76,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\067\\31al203.bmp",
+        "width": 80,
+        "height": 76,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32b00.bmp",
+        "width": 92,
+        "height": 139,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32b01.bmp",
+        "width": 124,
+        "height": 139,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32b02.bmp",
+        "width": 156,
+        "height": 139,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32b03.bmp",
+        "width": 103,
+        "height": 210,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32b04.bmp",
+        "width": 106,
+        "height": 218,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32b05.bmp",
+        "width": 84,
+        "height": 172,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32b06.bmp",
+        "width": 155,
+        "height": 135,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32b07.bmp",
+        "width": 165,
+        "height": 134,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32b08.bmp",
+        "width": 117,
+        "height": 128,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "reference": "MAN\\020\\32b09.bmp",
+        "width": 105,
+        "height": 179,
+        "fields_raw": [
+          0,
+          0,
+          65280
+        ],
+        "color_key_candidate_rgb": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  }
+]

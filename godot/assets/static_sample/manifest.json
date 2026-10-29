@@ -1,0 +1,94 @@
+{
+  "scene_id": "GameData:Scene/map004.sce@00594628",
+  "status": "diagnostic_local_geometry_only",
+  "omitted": [
+    "frame and scene transforms",
+    "original normals",
+    "vertex colors",
+    "material assignments and textures",
+    "animation",
+    "skin weights",
+    "effects"
+  ],
+  "coordinate_policy": "source local XYZ; no unit or axis conversion; OBJ UV unchanged",
+  "models": [
+    {
+      "source_id": "XFile:M04/M04001.X@01422f4f",
+      "source_path": "original_resources/organized/models/XFile/M04/M04001.X",
+      "source_sha256": "62b27b42ee4114945f80c7718d9fc80d99b126331f7982dc7fc3708b872bc90e",
+      "slot": "Mesh00",
+      "obj": "godot/assets/static_sample/M04001.obj",
+      "obj_sha256": "068bd7697e6ba02389564b12555909aee21e7e085d2b9c75312f7166e552afe0",
+      "mesh_json": "godot/assets/static_sample/M04001.mesh.json",
+      "mesh_json_sha256": "16c20d392c04c6329d791527a8b8aa088121197ae79775fc48862d558fb31ed3",
+      "meshes": 3,
+      "vertices": 580,
+      "faces": 752
+    },
+    {
+      "source_id": "XFile:M04/M04004_2.X@01440740",
+      "source_path": "original_resources/organized/models/XFile/M04/M04004_2.X",
+      "source_sha256": "0f6aff50b828c512677ee43e3301d6e2092c394c7cc75c4195fde5375de48a8a",
+      "slot": "Mesh01",
+      "obj": "godot/assets/static_sample/M04004_2.obj",
+      "obj_sha256": "71eccf81f90b1a0824b50bda237addee6095a8876de485c9b910843b025f755a",
+      "mesh_json": "godot/assets/static_sample/M04004_2.mesh.json",
+      "mesh_json_sha256": "10637fbcda626521016835b987f1281214431519e1b81c2ecf6794e79333c06d",
+      "meshes": 2,
+      "vertices": 925,
+      "faces": 676
+    },
+    {
+      "source_id": "XFile:M04/M04004_3.X@01443f48",
+      "source_path": "original_resources/organized/models/XFile/M04/M04004_3.X",
+      "source_sha256": "66dead19a9bfa68bfdc892e0f29c472c884636286c98a791e1a7c469e1573adb",
+      "slot": "Mesh02",
+      "obj": "godot/assets/static_sample/M04004_3.obj",
+      "obj_sha256": "2d8e328af785dc6290b6508ee9f049ed8843cad2126de1cdcc80cc873b476670",
+      "mesh_json": "godot/assets/static_sample/M04004_3.mesh.json",
+      "mesh_json_sha256": "a11703125d48f731d4703b907b8965d5249c6f510311b4d2f5b30e86224eec69",
+      "meshes": 1,
+      "vertices": 294,
+      "faces": 340
+    },
+    {
+      "source_id": "XFile:M04/M04004_4.X@01445ec2",
+      "source_path": "original_resources/organized/models/XFile/M04/M04004_4.X",
+      "source_sha256": "d68ec0059be88aa86751ce53b00cff1076d77540407ae330fa28be5fdfd00df1",
+      "slot": "Mesh03",
+      "obj": "godot/assets/static_sample/M04004_4.obj",
+      "obj_sha256": "106dab373a888188bc3b978d2e99b6f96523fd4fdea19cdee6663dee3cdb2fec",
+      "mesh_json": "godot/assets/static_sample/M04004_4.mesh.json",
+      "mesh_json_sha256": "4d4fbd3049a371c32e2db484f28f002ef8dc9de8270b05a6f79601c8903e651b",
+      "meshes": 1,
+      "vertices": 434,
+      "faces": 480
+    },
+    {
+      "source_id": "XFile:M04/M04002.X@01427d75",
+      "source_path": "original_resources/organized/models/XFile/M04/M04002.X",
+      "source_sha256": "173c5442680c7f8fbef457d18a5fb494ded047e93224ebb84f4cdd614c9bba29",
+      "slot": "Mesh04",
+      "obj": "godot/assets/static_sample/M04002.obj",
+      "obj_sha256": "9a177cf065b0c82ce9d6fc92ea05e23f11c0940a4d89583a15da499e83c248f9",
+      "mesh_json": "godot/assets/static_sample/M04002.mesh.json",
+      "mesh_json_sha256": "c6add8a0009849921088b6d95456061edf5e0ae7307a3e0f0d7eeceeb050b81f",
+      "meshes": 1,
+      "vertices": 1065,
+      "faces": 1575
+    },
+    {
+      "source_id": "XFile:M04/M04003.X@01430877",
+      "source_path": "original_resources/organized/models/XFile/M04/M04003.X",
+      "source_sha256": "1f5a7a100a97c1ff3997ca47f679f054939ab3f95838a528cbf655f1ad68bf96",
+      "slot": "Mesh05",
+      "obj": "godot/assets/static_sample/M04003.obj",
+      "obj_sha256": "263cdd545161283d0f15e302f857443eee456776d1a42c5befcc4f9cfac68c46",
+      "mesh_json": "godot/assets/static_sample/M04003.mesh.json",
+      "mesh_json_sha256": "7c414f5179fef353be3c804c302db45d92a7bd2df8d67923622d552172f2e0d7",
+      "meshes": 1,
+      "vertices": 5060,
+      "faces": 2760
+    }
+  ]
+}

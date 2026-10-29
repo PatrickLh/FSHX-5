@@ -1,0 +1,207 @@
+{
+  "schema_version": 2,
+  "format": "directory file descriptor: chunk_count, payload_sum, stored_size, data_offset; concatenated blocks followed by block lengths and per-block codec (0=raw, 1=zlib)",
+  "directory_parsing": "timestamped file entries recovered and validated by contiguous data extents, chunk tables, raw sizes and zlib checksums; directory-only metadata preserved verbatim",
+  "archives": [
+    {
+      "archive": "original_resources/source/fshx5_101261/风色幻想5/Ani/Ani.JBF",
+      "archive_sha256": "6d546b5e370b83721d3fc9f464f6f42fee55fa6261ed90eb4bccc6501210c2fa",
+      "bytes": 4262570,
+      "files": 13145,
+      "streams": 13145,
+      "multi_chunk_files": 0,
+      "uncompressed_chunks": 0,
+      "historical_versions": 0,
+      "data_end": 3282315,
+      "metadata_bytes": 980255,
+      "metadata_path": "original_resources/manifests/container_metadata/Ani.bin",
+      "metadata_sha256": "ad9628fcfaf30e72385062a70fa8d2ac51635224a00c4cade63b82c383aa7a5b",
+      "metadata_segments": [
+        {
+          "offset": 3282315,
+          "bytes": 980255,
+          "sha256": "ad9628fcfaf30e72385062a70fa8d2ac51635224a00c4cade63b82c383aa7a5b",
+          "path": "original_resources/manifests/container_metadata/Ani.bin",
+          "classification": "terminal directory metadata; preserved verbatim, not fully structurally parsed"
+        }
+      ],
+      "types": {
+        "ani": 5922,
+        "txt": 6573,
+        "bin": 650
+      },
+      "legacy_files": 13145,
+      "legacy_matching_files": 13145,
+      "legacy_different_files": 0,
+      "legacy_missing_streams": 0,
+      "legacy_index_mismatches": 0,
+      "legacy_extra_files": [],
+      "status": "verified"
+    },
+    {
+      "archive": "original_resources/source/fshx5_101261/风色幻想5/AniTexture/AniTexture.JBF",
+      "archive_sha256": "4d3ce9ef1970169790324774d35b84b38d4a2debb82ff86e4f2a31f68890a9e0",
+      "bytes": 561167529,
+      "files": 30311,
+      "streams": 31215,
+      "multi_chunk_files": 452,
+      "uncompressed_chunks": 0,
+      "historical_versions": 3184,
+      "data_end": 559132204,
+      "metadata_bytes": 2035325,
+      "metadata_path": "original_resources/manifests/container_metadata/AniTexture.bin",
+      "metadata_sha256": "4378ef5d64e4d12bf5f94b51b4d853931b6ecfa04574b3cc3aa360a2239cb27a",
+      "metadata_segments": [
+        {
+          "offset": 515025574,
+          "bytes": 2000283,
+          "sha256": "dd7590dca14cc6e6e1cc48dc73656668e9037693f64ca5444dc45950c1f0771f",
+          "path": "original_resources/manifests/container_metadata/AniTexture_1eb2aaa6.bin",
+          "classification": "historical directory metadata; preserved verbatim, not fully structurally parsed"
+        },
+        {
+          "offset": 559132204,
+          "bytes": 2035325,
+          "sha256": "4378ef5d64e4d12bf5f94b51b4d853931b6ecfa04574b3cc3aa360a2239cb27a",
+          "path": "original_resources/manifests/container_metadata/AniTexture.bin",
+          "classification": "terminal directory metadata; preserved verbatim, not fully structurally parsed"
+        }
+      ],
+      "types": {
+        "bmp": 30252,
+        "bin": 58,
+        "txt": 1
+      },
+      "legacy_files": 35281,
+      "legacy_matching_files": 35281,
+      "legacy_different_files": 0,
+      "legacy_missing_streams": 0,
+      "legacy_index_mismatches": 0,
+      "legacy_extra_files": [],
+      "status": "verified"
+    },
+    {
+      "archive": "original_resources/source/fshx5_101261/风色幻想5/GameData/GameData.JBF",
+      "archive_sha256": "1b10c18420d795c597209c8a19a8b79101a422bed13dd4198dd85d14d5bc9e0c",
+      "bytes": 6352215,
+      "files": 2466,
+      "streams": 2398,
+      "multi_chunk_files": 0,
+      "uncompressed_chunks": 68,
+      "historical_versions": 0,
+      "data_end": 6137793,
+      "metadata_bytes": 214422,
+      "metadata_path": "original_resources/manifests/container_metadata/GameData.bin",
+      "metadata_sha256": "037146344559fe077c6632e0c0e268053db2e6fdbcb2d7c26f85647d5a44c67b",
+      "metadata_segments": [
+        {
+          "offset": 6137793,
+          "bytes": 214422,
+          "sha256": "037146344559fe077c6632e0c0e268053db2e6fdbcb2d7c26f85647d5a44c67b",
+          "path": "original_resources/manifests/container_metadata/GameData.bin",
+          "classification": "terminal directory metadata; preserved verbatim, not fully structurally parsed"
+        }
+      ],
+      "types": {
+        "txt": 2462,
+        "bin": 4
+      },
+      "legacy_files": 2398,
+      "legacy_matching_files": 2398,
+      "legacy_different_files": 0,
+      "legacy_missing_streams": 0,
+      "legacy_index_mismatches": 0,
+      "legacy_extra_files": [],
+      "status": "verified"
+    },
+    {
+      "archive": "original_resources/source/fshx5_101261/风色幻想5/Texture/Texture.JBF",
+      "archive_sha256": "de6367afa4142e58d1dd4e42a1861df0d24ddf95608752d61f3fde30b785d837",
+      "bytes": 25132186,
+      "files": 1645,
+      "streams": 1686,
+      "multi_chunk_files": 31,
+      "uncompressed_chunks": 2,
+      "historical_versions": 0,
+      "data_end": 25003654,
+      "metadata_bytes": 128532,
+      "metadata_path": "original_resources/manifests/container_metadata/Texture.bin",
+      "metadata_sha256": "e6eb47f2cef87ecd9f6e9aefec773978f974f76a77819cb5f3d016c2868b29d2",
+      "metadata_segments": [
+        {
+          "offset": 24870291,
+          "bytes": 128379,
+          "sha256": "05bfbb51940f1b600b307ce14d6ccae83b5f1b945f85c694d58f9100a5eaac37",
+          "path": "original_resources/manifests/container_metadata/Texture_017b7d93.bin",
+          "classification": "historical directory metadata; preserved verbatim, not fully structurally parsed"
+        },
+        {
+          "offset": 25003654,
+          "bytes": 128532,
+          "sha256": "e6eb47f2cef87ecd9f6e9aefec773978f974f76a77819cb5f3d016c2868b29d2",
+          "path": "original_resources/manifests/container_metadata/Texture.bin",
+          "classification": "terminal directory metadata; preserved verbatim, not fully structurally parsed"
+        }
+      ],
+      "types": {
+        "bmp": 1501,
+        "txt": 44,
+        "jpg": 98,
+        "bin": 2
+      },
+      "legacy_files": 1686,
+      "legacy_matching_files": 1686,
+      "legacy_different_files": 0,
+      "legacy_missing_streams": 0,
+      "legacy_index_mismatches": 0,
+      "legacy_extra_files": [],
+      "status": "verified"
+    },
+    {
+      "archive": "original_resources/source/fshx5_101261/风色幻想5/XFile/XFile.JBF",
+      "archive_sha256": "a085c4544ea7109a92147e1437235b1d155bf755f10c295eb3db5fed2b762824",
+      "bytes": 76574705,
+      "files": 1170,
+      "streams": 1297,
+      "multi_chunk_files": 109,
+      "uncompressed_chunks": 0,
+      "historical_versions": 195,
+      "data_end": 76499654,
+      "metadata_bytes": 75051,
+      "metadata_path": "original_resources/manifests/container_metadata/XFile.bin",
+      "metadata_sha256": "991f584a4474e859ee36a834c458646a8795f12ee83cccd657a6e476644fcf21",
+      "metadata_segments": [
+        {
+          "offset": 69769797,
+          "bytes": 74169,
+          "sha256": "3b7dbe498b0b3143177ca7f14fcacb38bd82015281bb56632c698d381beea502",
+          "path": "original_resources/manifests/container_metadata/XFile_04289a45.bin",
+          "classification": "historical directory metadata; preserved verbatim, not fully structurally parsed"
+        },
+        {
+          "offset": 76499654,
+          "bytes": 75051,
+          "sha256": "991f584a4474e859ee36a834c458646a8795f12ee83cccd657a6e476644fcf21",
+          "path": "original_resources/manifests/container_metadata/XFile.bin",
+          "classification": "terminal directory metadata; preserved verbatim, not fully structurally parsed"
+        }
+      ],
+      "types": {
+        "bmp": 501,
+        "x": 652,
+        "txt": 11,
+        "bin": 3,
+        "jpg": 3
+      },
+      "legacy_files": 1297,
+      "legacy_matching_files": 1297,
+      "legacy_different_files": 0,
+      "legacy_missing_streams": 0,
+      "legacy_index_mismatches": 0,
+      "legacy_extra_files": [],
+      "status": "verified"
+    }
+  ],
+  "historical_data_retained": true,
+  "canonical_root": "original_resources/unpacked_verified_v1"
+}

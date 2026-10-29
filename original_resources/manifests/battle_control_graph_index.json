@@ -1,0 +1,5231 @@
+[
+  {
+    "id": "GameData:BattleScript/9000.txt@00000000",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/9000.json",
+    "entry_points": 5,
+    "condition_edges": 26,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/9001.txt@00000a41",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/9001.json",
+    "entry_points": 5,
+    "condition_edges": 26,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/9002.txt@00001481",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/9002.json",
+    "entry_points": 5,
+    "condition_edges": 26,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/9003.txt@00001ec1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/9003.json",
+    "entry_points": 5,
+    "condition_edges": 26,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/9004.txt@00002902",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/9004.json",
+    "entry_points": 5,
+    "condition_edges": 26,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/9005.txt@00003342",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/9005.json",
+    "entry_points": 5,
+    "condition_edges": 26,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/ani20752a00'.txt@00003d82",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/ani20752a00'.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/ani20752a00.txt@00004375",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/ani20752a00.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/arrow.txt@0000496a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/arrow.json",
+    "entry_points": 1,
+    "condition_edges": 10,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Arrow00.txt@00004ff3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Arrow00.json",
+    "entry_points": 1,
+    "condition_edges": 10,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/attack00.txt@000053da",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/attack00.json",
+    "entry_points": 9,
+    "condition_edges": 19,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/attack01.txt@00005ba8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/attack01.json",
+    "entry_points": 9,
+    "condition_edges": 19,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/attack02.txt@00006375",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/attack02.json",
+    "entry_points": 9,
+    "condition_edges": 19,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/attack03.txt@00006b42",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/attack03.json",
+    "entry_points": 9,
+    "condition_edges": 19,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/attack04.txt@0000730f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/attack04.json",
+    "entry_points": 6,
+    "condition_edges": 47,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/attack05.txt@000081dc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/attack05.json",
+    "entry_points": 7,
+    "condition_edges": 36,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/attack06.txt@00008f77",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/attack06.json",
+    "entry_points": 9,
+    "condition_edges": 19,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/attack07.txt@00009746",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/attack07.json",
+    "entry_points": 7,
+    "condition_edges": 35,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/ball.txt@0000a499",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/ball.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/ball_.txt@0000a9b5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/ball_.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/beam.txt@0000aece",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/beam.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/BK000.txt@0000b621",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/BK000.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/bk000s.txt@0000bc6f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/bk000s.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/bk004.txt@0000c2e9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/bk004.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/bk004_.txt@0000c83c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/bk004_.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Bk_000.txt@0000cd90",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Bk_000.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Bk_003.txt@0000d291",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Bk_003.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Bk_100.txt@0000d8fa",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Bk_100.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/bk_changelight.txt@0000df69",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/bk_changelight.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/bobo.txt@0000e442",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/bobo.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/bomb.txt@0000e9fb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/bomb.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Bomb000.txt@0000ec08",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Bomb000.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Bomb000a.txt@0000ee13",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Bomb000a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Bomb001.txt@0000f023",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Bomb001.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Bomb001a.txt@0000f232",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Bomb001a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/bomb0a.txt@0000f43e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/bomb0a.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/bomb0b.txt@0000f674",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/bomb0b.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/bomb0c.txt@0000f8ac",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/bomb0c.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/bombstone.txt@0000fae1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/bombstone.json",
+    "entry_points": 1,
+    "condition_edges": 9,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/boss01.txt@0000febd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/boss01.json",
+    "entry_points": 8,
+    "condition_edges": 85,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/boss02.txt@000111ff",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/boss02.json",
+    "entry_points": 9,
+    "condition_edges": 59,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/boss03.txt@000124ae",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/boss03.json",
+    "entry_points": 5,
+    "condition_edges": 96,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/boss04.txt@0001391b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/boss04.json",
+    "entry_points": 5,
+    "condition_edges": 76,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/boss05.txt@00014b01",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/boss05.json",
+    "entry_points": 10,
+    "condition_edges": 201,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/boss06.txt@00016e43",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/boss06.json",
+    "entry_points": 7,
+    "condition_edges": 122,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/boss06_Laser.txt@00018bf5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/boss06_Laser.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen000.txt@00018d58",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen000.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen000_big.txt@00018f54",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen000_big.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen001.txt@000194dd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen001.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen002.txt@000196e1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen002.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen010.txt@000198dd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen010.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen011.txt@00019bf3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen011.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen012.txt@00019f0a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen012.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen013.txt@0001a235",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen013.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen014.txt@0001a552",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen014.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen015.txt@0001a870",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen015.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen015_big.txt@0001ab8e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen015_big.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen024.txt@0001aef6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen024.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen0521.txt@0001b0f9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen0521.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen_dark00.txt@0001b419",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen_dark00.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen_sk1021.txt@0001b985",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen_sk1021.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen_sk1021_S.txt@0001bb8b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen_sk1021_S.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/cen_sk1106.txt@0001bd93",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/cen_sk1106.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/chain.txt@0001bf9a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/chain.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/chain_sword.txt@0001c791",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/chain_sword.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/chase.txt@0001ccdc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/chase.json",
+    "entry_points": 9,
+    "condition_edges": 79,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/common0000.txt@0001df09",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0000.json",
+    "entry_points": 10,
+    "condition_edges": 36,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0001.txt@0001ecd6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0001.json",
+    "entry_points": 5,
+    "condition_edges": 48,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0002.txt@0001f9ea",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0002.json",
+    "entry_points": 9,
+    "condition_edges": 31,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0003.txt@000205fc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0003.json",
+    "entry_points": 7,
+    "condition_edges": 31,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0004.txt@00021265",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0004.json",
+    "entry_points": 4,
+    "condition_edges": 25,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/common0005.txt@00021fae",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0005.json",
+    "entry_points": 6,
+    "condition_edges": 55,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/common0006.txt@00022f51",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0006.json",
+    "entry_points": 7,
+    "condition_edges": 22,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0007.txt@00023ac4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0007.json",
+    "entry_points": 8,
+    "condition_edges": 29,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0008.txt@00024853",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0008.json",
+    "entry_points": 5,
+    "condition_edges": 48,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0009.txt@00025616",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0009.json",
+    "entry_points": 8,
+    "condition_edges": 60,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0010.txt@000267c5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0010.json",
+    "entry_points": 6,
+    "condition_edges": 48,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0011.TXT@000276c2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0011.json",
+    "entry_points": 9,
+    "condition_edges": 63,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0012.txt@0002886e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0012.json",
+    "entry_points": 9,
+    "condition_edges": 23,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0013.txt@00029350",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0013.json",
+    "entry_points": 8,
+    "condition_edges": 43,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0014.txt@0002a1ef",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0014.json",
+    "entry_points": 6,
+    "condition_edges": 38,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0015.txt@0002aebb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0015.json",
+    "entry_points": 5,
+    "condition_edges": 26,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/common0016.txt@0002b90a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0016.json",
+    "entry_points": 10,
+    "condition_edges": 39,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0017.txt@0002c2b7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0017.json",
+    "entry_points": 6,
+    "condition_edges": 36,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0018.txt@0002cfb6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0018.json",
+    "entry_points": 7,
+    "condition_edges": 27,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0019.txt@0002dc5f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0019.json",
+    "entry_points": 4,
+    "condition_edges": 49,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/common0020.txt@0002eb2a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0020.json",
+    "entry_points": 5,
+    "condition_edges": 67,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0021.txt@0002f9ef",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0021.json",
+    "entry_points": 4,
+    "condition_edges": 41,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/common0022.txt@00030780",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0022.json",
+    "entry_points": 5,
+    "condition_edges": 77,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0023.txt@00031891",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0023.json",
+    "entry_points": 10,
+    "condition_edges": 165,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/common0024.txt@0003351a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0024.json",
+    "entry_points": 6,
+    "condition_edges": 56,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0025.txt@000346f5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0025.json",
+    "entry_points": 6,
+    "condition_edges": 50,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0026.txt@000355e8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0026.json",
+    "entry_points": 7,
+    "condition_edges": 21,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0027.txt@0003605f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0027.json",
+    "entry_points": 8,
+    "condition_edges": 20,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0028.txt@00036aa8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0028.json",
+    "entry_points": 5,
+    "condition_edges": 29,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0029.txt@000372fd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0029.json",
+    "entry_points": 9,
+    "condition_edges": 78,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0030.txt@000383e7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0030.json",
+    "entry_points": 6,
+    "condition_edges": 36,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0031.txt@0003913b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0031.json",
+    "entry_points": 6,
+    "condition_edges": 35,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0032.txt@00039f5a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0032.json",
+    "entry_points": 9,
+    "condition_edges": 21,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0033.txt@0003a9a6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0033.json",
+    "entry_points": 9,
+    "condition_edges": 22,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0034.txt@0003b22c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0034.json",
+    "entry_points": 8,
+    "condition_edges": 24,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0035.txt@0003bf29",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0035.json",
+    "entry_points": 8,
+    "condition_edges": 35,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/common0036.txt@0003cb8a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0036.json",
+    "entry_points": 7,
+    "condition_edges": 22,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0037.txt@0003d846",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0037.json",
+    "entry_points": 9,
+    "condition_edges": 84,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/common0038.txt@0003e6f4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0038.json",
+    "entry_points": 4,
+    "condition_edges": 38,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/common0039.txt@0003f56e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0039.json",
+    "entry_points": 4,
+    "condition_edges": 34,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/common0040.txt@00040391",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0040.json",
+    "entry_points": 5,
+    "condition_edges": 79,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0041.txt@00041693",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0041.json",
+    "entry_points": 9,
+    "condition_edges": 25,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0042.txt@00042301",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0042.json",
+    "entry_points": 7,
+    "condition_edges": 19,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0043.txt@00042ccf",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0043.json",
+    "entry_points": 7,
+    "condition_edges": 27,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/common0044.txt@000438d6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0044.json",
+    "entry_points": 9,
+    "condition_edges": 31,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0045.txt@000445c0",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0045.json",
+    "entry_points": 7,
+    "condition_edges": 70,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0046.txt@0004571d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0046.json",
+    "entry_points": 6,
+    "condition_edges": 76,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0047.txt@00046bc9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0047.json",
+    "entry_points": 4,
+    "condition_edges": 25,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/common0048.txt@0004791e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0048.json",
+    "entry_points": 7,
+    "condition_edges": 37,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0049.txt@00048757",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0049.json",
+    "entry_points": 7,
+    "condition_edges": 58,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0050.txt@0004990e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0050.json",
+    "entry_points": 8,
+    "condition_edges": 24,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0051.txt@0004a60e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0051.json",
+    "entry_points": 7,
+    "condition_edges": 23,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0052.txt@0004b0bb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0052.json",
+    "entry_points": 9,
+    "condition_edges": 22,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0053.txt@0004bb6a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0053.json",
+    "entry_points": 7,
+    "condition_edges": 18,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/common0054.txt@0004c4ca",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0054.json",
+    "entry_points": 5,
+    "condition_edges": 44,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0055.txt@0004cf7c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0055.json",
+    "entry_points": 8,
+    "condition_edges": 35,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0056.txt@0004dbbc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0056.json",
+    "entry_points": 6,
+    "condition_edges": 45,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/common0057.txt@0004eab6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0057.json",
+    "entry_points": 7,
+    "condition_edges": 23,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0058.txt@0004f5bc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0058.json",
+    "entry_points": 9,
+    "condition_edges": 120,
+    "message_routes": 8
+  },
+  {
+    "id": "GameData:BattleScript/common0059.txt@00050c0d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0059.json",
+    "entry_points": 6,
+    "condition_edges": 112,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0060.txt@00052306",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0060.json",
+    "entry_points": 7,
+    "condition_edges": 24,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0061.txt@00052eb3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0061.json",
+    "entry_points": 6,
+    "condition_edges": 79,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/common0062.txt@000542f5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0062.json",
+    "entry_points": 8,
+    "condition_edges": 31,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0063.txt@00054e25",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0063.json",
+    "entry_points": 13,
+    "condition_edges": 60,
+    "message_routes": 11
+  },
+  {
+    "id": "GameData:BattleScript/common0064.txt@00055de4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0064.json",
+    "entry_points": 5,
+    "condition_edges": 53,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/common0065.txt@00056e0e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0065.json",
+    "entry_points": 7,
+    "condition_edges": 39,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0066.txt@00057d07",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0066.json",
+    "entry_points": 9,
+    "condition_edges": 35,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0067.txt@000589fb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0067.json",
+    "entry_points": 8,
+    "condition_edges": 28,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/common0068.txt@0005954e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/common0068.json",
+    "entry_points": 7,
+    "condition_edges": 73,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/commontemp.txt@00059ea2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/commontemp.json",
+    "entry_points": 8,
+    "condition_edges": 79,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/commontest.txt@0005b0d8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/commontest.json",
+    "entry_points": 7,
+    "condition_edges": 73,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/commontext.txt@0005ba2c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/commontext.json",
+    "entry_points": 10,
+    "condition_edges": 36,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/commoontemp.txt@0005c7d5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/commoontemp.json",
+    "entry_points": 8,
+    "condition_edges": 79,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/dark.txt@0005da0b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/dark.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/dark_01.txt@0005df78",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/dark_01.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/dark_02.TXT@0005e4f1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/dark_02.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/dark_03.TXT@0005ea6f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/dark_03.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/dark_04.txt@0005efe9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/dark_04.json",
+    "entry_points": 1,
+    "condition_edges": 11,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/dark_blade.txt@0005f81d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/dark_blade.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/DASH.txt@0005fdd6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/DASH.json",
+    "entry_points": 1,
+    "condition_edges": 17,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/dash01.txt@000604d3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/dash01.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/DASH02.TXT@00060b29",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/DASH02.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/DASH03.TXT@00061172",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/DASH03.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson.txt@000615b9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson_a.txt@00061765",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson_a.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson_s1007.txt@00061912",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson_s1007.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson_s1056.txt@00061ac2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson_s1056.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson_s1057.txt@00061df7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson_s1057.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson_s1063.txt@00062184",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson_s1063.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson_s1068.txt@00062327",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson_s1068.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson_s1072.txt@000624da",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson_s1072.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson_s1076.txt@00062689",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson_s1076.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson_s1152.txt@00062825",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson_s1152.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/divideperson_stand.txt@00062b95",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/divideperson_stand.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/DodgeA.txt@00062d42",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/DodgeA.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/DodgeB.txt@000631f3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/DodgeB.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/drill.txt@000634d7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/drill.json",
+    "entry_points": 1,
+    "condition_edges": 10,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/emblem0000.txt@00063cfa",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0000.json",
+    "entry_points": 10,
+    "condition_edges": 37,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0001.txt@00064af1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0001.json",
+    "entry_points": 5,
+    "condition_edges": 48,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0002.txt@0006599b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0002.json",
+    "entry_points": 5,
+    "condition_edges": 59,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0003.txt@000669e7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0003.json",
+    "entry_points": 9,
+    "condition_edges": 30,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0004.txt@000677e6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0004.json",
+    "entry_points": 9,
+    "condition_edges": 30,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0005.txt@000685de",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0005.json",
+    "entry_points": 9,
+    "condition_edges": 30,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0006.txt@000693d5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0006.json",
+    "entry_points": 9,
+    "condition_edges": 30,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0007.txt@0006a1cb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0007.json",
+    "entry_points": 9,
+    "condition_edges": 30,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0008.txt@0006af9d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0008.json",
+    "entry_points": 7,
+    "condition_edges": 49,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0009.txt@0006c027",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0009.json",
+    "entry_points": 7,
+    "condition_edges": 48,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0010.txt@0006d099",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0010.json",
+    "entry_points": 7,
+    "condition_edges": 48,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0011.txt@0006e10f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0011.json",
+    "entry_points": 8,
+    "condition_edges": 26,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0012.txt@0006ecba",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0012.json",
+    "entry_points": 8,
+    "condition_edges": 29,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0013.txt@0006f894",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0013.json",
+    "entry_points": 4,
+    "condition_edges": 43,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0014.txt@000706de",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0014.json",
+    "entry_points": 4,
+    "condition_edges": 49,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0015.txt@000715d6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0015.json",
+    "entry_points": 4,
+    "condition_edges": 25,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/emblem0016.txt@00072316",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0016.json",
+    "entry_points": 9,
+    "condition_edges": 28,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0017.txt@00072ebf",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0017.json",
+    "entry_points": 9,
+    "condition_edges": 29,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0018.txt@00073b1a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0018.json",
+    "entry_points": 5,
+    "condition_edges": 65,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0019.txt@00074b7b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0019.json",
+    "entry_points": 9,
+    "condition_edges": 19,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0020.txt@000755a2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0020.json",
+    "entry_points": 9,
+    "condition_edges": 20,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0021.txt@00076178",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0021.json",
+    "entry_points": 8,
+    "condition_edges": 27,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0022.txt@00076ee9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0022.json",
+    "entry_points": 5,
+    "condition_edges": 47,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0023.txt@00077e68",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0023.json",
+    "entry_points": 5,
+    "condition_edges": 49,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0024.txt@00078f21",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0024.json",
+    "entry_points": 5,
+    "condition_edges": 11,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/emblem0025.txt@00079868",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0025.json",
+    "entry_points": 5,
+    "condition_edges": 26,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/emblem0026.txt@0007a502",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0026.json",
+    "entry_points": 5,
+    "condition_edges": 79,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0027.txt@0007ba35",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0027.json",
+    "entry_points": 4,
+    "condition_edges": 41,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0028.txt@0007ca09",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0028.json",
+    "entry_points": 4,
+    "condition_edges": 49,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0029.txt@0007db22",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0029.json",
+    "entry_points": 4,
+    "condition_edges": 56,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/emblem0030.txt@0007e87c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0030.json",
+    "entry_points": 4,
+    "condition_edges": 59,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/emblem0031.txt@0007f766",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0031.json",
+    "entry_points": 4,
+    "condition_edges": 31,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0032.txt@000802d3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0032.json",
+    "entry_points": 4,
+    "condition_edges": 31,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0033.txt@00080e40",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0033.json",
+    "entry_points": 4,
+    "condition_edges": 31,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0034.txt@000819a7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0034.json",
+    "entry_points": 4,
+    "condition_edges": 31,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0035.txt@00082515",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0035.json",
+    "entry_points": 4,
+    "condition_edges": 31,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0036.txt@00083082",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0036.json",
+    "entry_points": 6,
+    "condition_edges": 44,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/emblem0037.txt@00083a88",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0037.json",
+    "entry_points": 6,
+    "condition_edges": 51,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/emblem0038.txt@000849f7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0038.json",
+    "entry_points": 6,
+    "condition_edges": 56,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/emblem0039.txt@000859e3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0039.json",
+    "entry_points": 8,
+    "condition_edges": 43,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0040.txt@000867db",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0040.json",
+    "entry_points": 8,
+    "condition_edges": 58,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0041.txt@000878dc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0041.json",
+    "entry_points": 9,
+    "condition_edges": 36,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0042.txt@00088535",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0042.json",
+    "entry_points": 9,
+    "condition_edges": 31,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0043.txt@00089292",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0043.json",
+    "entry_points": 6,
+    "condition_edges": 46,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0044.txt@0008a19a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0044.json",
+    "entry_points": 5,
+    "condition_edges": 82,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0045.txt@0008b354",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0045.json",
+    "entry_points": 10,
+    "condition_edges": 170,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/emblem0046.txt@0008d05b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0046.json",
+    "entry_points": 5,
+    "condition_edges": 63,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/emblem0047.txt@0008e1a7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0047.json",
+    "entry_points": 6,
+    "condition_edges": 112,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0048.txt@0008f927",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0048.json",
+    "entry_points": 9,
+    "condition_edges": 126,
+    "message_routes": 8
+  },
+  {
+    "id": "GameData:BattleScript/emblem0049.txt@00091000",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0049.json",
+    "entry_points": 8,
+    "condition_edges": 55,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/emblem0050.txt@00091e85",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0050.json",
+    "entry_points": 6,
+    "condition_edges": 60,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0051.txt@00092e4a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0051.json",
+    "entry_points": 6,
+    "condition_edges": 50,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0052.txt@00093fca",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0052.json",
+    "entry_points": 6,
+    "condition_edges": 39,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0053.txt@00094c09",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0053.json",
+    "entry_points": 6,
+    "condition_edges": 49,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/emblem0054.txt@00095b4e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0054.json",
+    "entry_points": 6,
+    "condition_edges": 81,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0055.txt@000970f5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0055.json",
+    "entry_points": 6,
+    "condition_edges": 42,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0056.txt@00097dbc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0056.json",
+    "entry_points": 6,
+    "condition_edges": 79,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0057.txt@0009924a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0057.json",
+    "entry_points": 9,
+    "condition_edges": 71,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0058.txt@0009a3fa",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0058.json",
+    "entry_points": 6,
+    "condition_edges": 38,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0059.txt@0009b149",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0059.json",
+    "entry_points": 6,
+    "condition_edges": 55,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0060.txt@0009c0e9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0060.json",
+    "entry_points": 8,
+    "condition_edges": 65,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0061.txt@0009d31e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0061.json",
+    "entry_points": 8,
+    "condition_edges": 46,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0062.txt@0009e110",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0062.json",
+    "entry_points": 8,
+    "condition_edges": 46,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0063.txt@0009ef00",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0063.json",
+    "entry_points": 8,
+    "condition_edges": 46,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0064.txt@0009fcf7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0064.json",
+    "entry_points": 8,
+    "condition_edges": 46,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0065.txt@000a0aee",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0065.json",
+    "entry_points": 7,
+    "condition_edges": 54,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0066.txt@000a1944",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0066.json",
+    "entry_points": 9,
+    "condition_edges": 34,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0067.txt@000a25e5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0067.json",
+    "entry_points": 8,
+    "condition_edges": 38,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0068.txt@000a33a2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0068.json",
+    "entry_points": 9,
+    "condition_edges": 37,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0069.txt@000a41ba",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0069.json",
+    "entry_points": 9,
+    "condition_edges": 35,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0070.txt@000a4fa8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0070.json",
+    "entry_points": 9,
+    "condition_edges": 32,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0071.txt@000a5d5e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0071.json",
+    "entry_points": 6,
+    "condition_edges": 45,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0072.txt@000a6e3d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0072.json",
+    "entry_points": 9,
+    "condition_edges": 32,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0073.txt@000a7bcc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0073.json",
+    "entry_points": 7,
+    "condition_edges": 37,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0074.txt@000a8975",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0074.json",
+    "entry_points": 7,
+    "condition_edges": 37,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0075.txt@000a971e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0075.json",
+    "entry_points": 7,
+    "condition_edges": 41,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0076.txt@000aa58a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0076.json",
+    "entry_points": 7,
+    "condition_edges": 72,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0077.txt@000ab70e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0077.json",
+    "entry_points": 7,
+    "condition_edges": 48,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0078.txt@000ac56e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0078.json",
+    "entry_points": 7,
+    "condition_edges": 50,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0079.txt@000ad48a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0079.json",
+    "entry_points": 7,
+    "condition_edges": 37,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0080.txt@000ae264",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0080.json",
+    "entry_points": 7,
+    "condition_edges": 44,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0081.txt@000af106",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0081.json",
+    "entry_points": 7,
+    "condition_edges": 41,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0082.txt@000b003b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0082.json",
+    "entry_points": 9,
+    "condition_edges": 50,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0083.txt@000b0e2b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0083.json",
+    "entry_points": 5,
+    "condition_edges": 42,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0084.txt@000b1b8b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0084.json",
+    "entry_points": 9,
+    "condition_edges": 27,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0085.txt@000b2677",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0085.json",
+    "entry_points": 5,
+    "condition_edges": 67,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0086.txt@000b36e5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0086.json",
+    "entry_points": 6,
+    "condition_edges": 47,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0087.txt@000b4628",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0087.json",
+    "entry_points": 5,
+    "condition_edges": 45,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0088.txt@000b546a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0088.json",
+    "entry_points": 9,
+    "condition_edges": 49,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0089.txt@000b62fc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0089.json",
+    "entry_points": 9,
+    "condition_edges": 50,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0090.txt@000b7191",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0090.json",
+    "entry_points": 9,
+    "condition_edges": 59,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0091.txt@000b807e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0091.json",
+    "entry_points": 12,
+    "condition_edges": 108,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/emblem0092.txt@000b97d4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0092.json",
+    "entry_points": 9,
+    "condition_edges": 52,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/emblem0093.txt@000ba755",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0093.json",
+    "entry_points": 7,
+    "condition_edges": 38,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0094.txt@000bb52a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0094.json",
+    "entry_points": 6,
+    "condition_edges": 33,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/emblem0095.txt@000bc24b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0095.json",
+    "entry_points": 6,
+    "condition_edges": 33,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/emblem0096.txt@000bcf6f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0096.json",
+    "entry_points": 6,
+    "condition_edges": 33,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/emblem0097.txt@000bdc93",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0097.json",
+    "entry_points": 9,
+    "condition_edges": 42,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0098.txt@000beadb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0098.json",
+    "entry_points": 6,
+    "condition_edges": 48,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/emblem0099.txt@000bfa40",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0099.json",
+    "entry_points": 8,
+    "condition_edges": 43,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0100.txt@000c0856",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0100.json",
+    "entry_points": 9,
+    "condition_edges": 42,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0101.txt@000c1643",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0101.json",
+    "entry_points": 8,
+    "condition_edges": 42,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblem0102.txt@000c242c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblem0102.json",
+    "entry_points": 8,
+    "condition_edges": 52,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblemtest.txt@000c3352",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblemtest.json",
+    "entry_points": 8,
+    "condition_edges": 52,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/emblemtest_.txt@000c426e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/emblemtest_.json",
+    "entry_points": 9,
+    "condition_edges": 9,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/FalconAttack.txt@000c4afc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/FalconAttack.json",
+    "entry_points": 5,
+    "condition_edges": 24,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/FalconAttack01.txt@000c4fff",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/FalconAttack01.json",
+    "entry_points": 5,
+    "condition_edges": 27,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/fateattack.txt@000c59c5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fateattack.json",
+    "entry_points": 7,
+    "condition_edges": 36,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/fierpar02.txt@000c6760",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fierpar02.json",
+    "entry_points": 1,
+    "condition_edges": 16,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fire.txt@000c70a3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fire.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fire_01.txt@000c7603",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fire_01.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fire_02.txt@000c7b63",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fire_02.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fire_bomb.txt@000c80c4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fire_bomb.json",
+    "entry_points": 1,
+    "condition_edges": 15,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fire_pillar.txt@000c8720",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fire_pillar.json",
+    "entry_points": 1,
+    "condition_edges": 12,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fire_storm.txt@000c8e83",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fire_storm.json",
+    "entry_points": 1,
+    "condition_edges": 45,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fire_test.txt@000c9a5d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fire_test.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/firepar.txt@000c9f9f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/firepar.json",
+    "entry_points": 1,
+    "condition_edges": 16,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/firepar02.txt@000ca8d6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/firepar02.json",
+    "entry_points": 1,
+    "condition_edges": 20,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/FIREWALL.TXT@000cb2fd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/FIREWALL.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fly000.txt@000cb6a9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fly000.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fly001.txt@000cbb21",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fly001.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fly002.txt@000cc010",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fly002.json",
+    "entry_points": 1,
+    "condition_edges": 26,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fly002_.txt@000cca17",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fly002_.json",
+    "entry_points": 1,
+    "condition_edges": 9,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fly002_a.txt@000cd24f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fly002_a.json",
+    "entry_points": 1,
+    "condition_edges": 9,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fly002_temp.txt@000cda86",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fly002_temp.json",
+    "entry_points": 1,
+    "condition_edges": 26,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fly003.txt@000ce485",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fly003.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fly004.txt@000ce916",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fly004.json",
+    "entry_points": 1,
+    "condition_edges": 10,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fly005.txt@000cf21e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fly005.json",
+    "entry_points": 1,
+    "condition_edges": 10,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/fly006.txt@000cfa80",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/fly006.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/FlySword00.txt@000d0207",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/FlySword00.json",
+    "entry_points": 1,
+    "condition_edges": 10,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/gread_stone.txt@000d054e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/gread_stone.json",
+    "entry_points": 1,
+    "condition_edges": 14,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/gread_stone_01.txt@000d0ca1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/gread_stone_01.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/guard.txt@000d13d6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/guard.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/guard_01.txt@000d188b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/guard_01.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_fire.txt@000d1d44",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_fire.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_fire1.txt@000d2291",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_fire1.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_fire2.txt@000d25e0",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_fire2.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_fire3.txt@000d2ad6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_fire3.json",
+    "entry_points": 1,
+    "condition_edges": 9,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_fire4.txt@000d3187",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_fire4.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_shot.txt@000d3641",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_shot.json",
+    "entry_points": 1,
+    "condition_edges": 22,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_shot01.txt@000d3da2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_shot01.json",
+    "entry_points": 1,
+    "condition_edges": 22,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_shot02.txt@000d4504",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_shot02.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_shot03.txt@000d4a52",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_shot03.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_shot04.txt@000d4d9c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_shot04.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Gun_shot05.txt@000d52b8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Gun_shot05.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hammer_01.txt@000d5762",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hammer_01.json",
+    "entry_points": 1,
+    "condition_edges": 24,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hammer_02.txt@000d6090",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hammer_02.json",
+    "entry_points": 1,
+    "condition_edges": 22,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hammer_06.txt@000d6938",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hammer_06.json",
+    "entry_points": 1,
+    "condition_edges": 17,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hammer_07.txt@000d7288",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hammer_07.json",
+    "entry_points": 1,
+    "condition_edges": 12,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hearten.txt@000d7ab1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hearten.json",
+    "entry_points": 1,
+    "condition_edges": 21,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit.txt@000d836a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit000z06.txt@000d8808",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit000z06.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_00.txt@000d8e07",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_00.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_01.txt@000d90d1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_01.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_0151a.txt@000d939f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_0151a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_01b.txt@000d966c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_01b.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_01s.txt@000d99a4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_01s.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_02.txt@000d9cdd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_02.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_03.txt@000d9ff4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_03.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_03a.txt@000da1a2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_03a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_03b.txt@000da352",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_03b.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_03money.txt@000da4ff",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_03money.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_03S.txt@000da9e2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_03S.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_04.txt@000dac19",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_04.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_05.txt@000daee6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_05.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_05a.txt@000db1fd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_05a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_060.txt@000db58e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_060.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_07.txt@000dba2a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_07.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_08.txt@000dbe1f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_08.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_2050d.txt@000dc129",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_2050d.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_443.txt@000dc582",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_443.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_455.txt@000dc925",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_455.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_472.txt@000dcacb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_472.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_472_02.txt@000dd12f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_472_02.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_472_03.txt@000dd794",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_472_03.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_472_04.txt@000dddfa",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_472_04.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_disorter.txt@000de45a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_disorter.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_Gun.txt@000de72a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_Gun.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_sk0121.txt@000dea3f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_sk0121.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_sk0786.txt@000ded6d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_sk0786.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_smk.txt@000df03c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_smk.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_smk01.txt@000df393",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_smk01.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_smk02.txt@000df6d9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_smk02.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_smk03.txt@000dfbee",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_smk03.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_twis.txt@000e0103",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_twis.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_twis01.txt@000e053f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_twis01.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_twis02.txt@000e0977",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_twis02.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_z01.txt@000e0db4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_z01.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z011.txt@000e10d3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z011.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_z01_NoWave.txt@000e13ff",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_z01_NoWave.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z01a.txt@000e171d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z01a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/HIT_Z01UP.txt@000e1a3d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/HIT_Z01UP.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_z02.txt@000e1d86",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_z02.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z02_.txt@000e2054",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z02_.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z02a.txt@000e254c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z02a.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z03.txt@000e2856",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z03.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z03_1.txt@000e2b21",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z03_1.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z04.txt@000e2e46",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z04.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_z05.txt@000e3166",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_z05.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_z06.txt@000e348b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_z06.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_z06_01.txt@000e3933",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_z06_01.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/HIT_Z06A.txt@000e3dd8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/HIT_Z06A.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z06B.txt@000e3fe4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z06B.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z06c.txt@000e4272",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z06c.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Hit_z10.txt@000e4482",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Hit_z10.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z11.txt@000e47af",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z11.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/hit_z11a.txt@000e4add",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/hit_z11a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/ice00.txt@000e4e0b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/ice00.json",
+    "entry_points": 1,
+    "condition_edges": 12,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/ice01.txt@000e54d7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/ice01.json",
+    "entry_points": 1,
+    "condition_edges": 12,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/ice_storm.txt@000e5ba6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/ice_storm.json",
+    "entry_points": 1,
+    "condition_edges": 16,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/icea01.txt@000e645c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/icea01.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/iceb01.txt@000e68f0",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/iceb01.json",
+    "entry_points": 1,
+    "condition_edges": 11,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/icec01.txt@000e710a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/icec01.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/iced01.txt@000e796c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/iced01.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/icep01.txt@000e81d2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/icep01.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/IcePiton.txt@000e849f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/IcePiton.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/laser.txt@000e8767",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/laser.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Laser0916.txt@000e8cfc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Laser0916.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/laserblub.txt@000e9329",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/laserblub.json",
+    "entry_points": 1,
+    "condition_edges": 9,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/laserblub_.txt@000e99c2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/laserblub_.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/laserred.txt@000ea03f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/laserred.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/light_01.txt@000ea677",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/light_01.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/light_01a.txt@000ea887",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/light_01a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/light_02.txt@000eab19",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/light_02.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/light_bomb.txt@000ead28",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/light_bomb.json",
+    "entry_points": 1,
+    "condition_edges": 15,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightball-12.txt@000eb384",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightball-12.json",
+    "entry_points": 1,
+    "condition_edges": 15,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightball.txt@000eb9e0",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightball.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightball23.txt@000ebeca",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightball23.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightball_.txt@000ec2ab",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightball_.json",
+    "entry_points": 2,
+    "condition_edges": 10,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/LightBeam.txt@000eca49",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/LightBeam.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightbobo.txt@000ed15b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightbobo.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightbobo_1.txt@000ed994",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightbobo_1.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightbobo_2.txt@000ee1cd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightbobo_2.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightbobo_3.txt@000ee95e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightbobo_3.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightbobo_4.txt@000ef0ef",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightbobo_4.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightning.txt@000ef880",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightning.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightning_2.txt@000efb9e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightning_2.json",
+    "entry_points": 1,
+    "condition_edges": 9,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightning_3.txt@000f00f9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightning_3.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightning_3s.txt@000f0615",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightning_3s.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightning_red.txt@000f0b4f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightning_red.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightning_s.txt@000f106f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightning_s.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightswd.txt@000f1337",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightswd.json",
+    "entry_points": 1,
+    "condition_edges": 9,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightswd_.txt@000f1b73",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightswd_.json",
+    "entry_points": 1,
+    "condition_edges": 9,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/lightswd_a.txt@000f23b0",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/lightswd_a.json",
+    "entry_points": 1,
+    "condition_edges": 9,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/m_attack00.txt@000f2beb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/m_attack00.json",
+    "entry_points": 8,
+    "condition_edges": 22,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/m_attack00_temp.txt@000f35d2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/m_attack00_temp.json",
+    "entry_points": 8,
+    "condition_edges": 48,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/m_attack01.txt@000f4157",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/m_attack01.json",
+    "entry_points": 8,
+    "condition_edges": 41,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/m_attack02.txt@000f4f78",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/m_attack02.json",
+    "entry_points": 6,
+    "condition_edges": 55,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/m_attack03.txt@000f5971",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/m_attack03.json",
+    "entry_points": 8,
+    "condition_edges": 46,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/m_attack04.txt@000f638c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/m_attack04.json",
+    "entry_points": 6,
+    "condition_edges": 18,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/magic000.txt@000f6e49",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic000.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic001.txt@000f73d2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic001.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic002.txt@000f795b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic002.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic003.txt@000f7ee3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic003.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic004.txt@000f846d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic004.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic005.txt@000f89f6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic005.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic006.txt@000f8f7e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic006.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic007.txt@000f9507",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic007.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic008.txt@000f9a90",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic008.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic009.txt@000fa019",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic009.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic010.txt@000fa5a1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic010.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magic011.txt@000fab2a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magic011.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/magiclaser.txt@000fb0b3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/magiclaser.json",
+    "entry_points": 1,
+    "condition_edges": 21,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/meteor.txt@000fba8d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/meteor.json",
+    "entry_points": 1,
+    "condition_edges": 27,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/missile.txt@000fc2c5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/missile.json",
+    "entry_points": 1,
+    "condition_edges": 11,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/money.txt@000fcb87",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/money.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/money1.txt@000fd296",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/money1.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/money1a.txt@000fd9a6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/money1a.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/money2.txt@000fe0c3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/money2.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/money2a.txt@000fe7d3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/money2a.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/monster00.txt@000feef0",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster00.json",
+    "entry_points": 7,
+    "condition_edges": 38,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster01.txt@000ffcb2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster01.json",
+    "entry_points": 6,
+    "condition_edges": 28,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster02.txt@001007bb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster02.json",
+    "entry_points": 8,
+    "condition_edges": 25,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster03.txt@001010a8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster03.json",
+    "entry_points": 7,
+    "condition_edges": 23,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster04.txt@0010198f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster04.json",
+    "entry_points": 7,
+    "condition_edges": 46,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster05.txt@0010260f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster05.json",
+    "entry_points": 6,
+    "condition_edges": 30,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster06.txt@00102ed1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster06.json",
+    "entry_points": 11,
+    "condition_edges": 39,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/monster07.txt@001038da",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster07.json",
+    "entry_points": 5,
+    "condition_edges": 33,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster08.txt@001044f1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster08.json",
+    "entry_points": 5,
+    "condition_edges": 82,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster09.txt@00105604",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster09.json",
+    "entry_points": 6,
+    "condition_edges": 27,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster10.txt@00106049",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster10.json",
+    "entry_points": 8,
+    "condition_edges": 34,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster11.txt@00106ce5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster11.json",
+    "entry_points": 10,
+    "condition_edges": 41,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster12.txt@00107b88",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster12.json",
+    "entry_points": 5,
+    "condition_edges": 31,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster13.txt@0010845b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster13.json",
+    "entry_points": 5,
+    "condition_edges": 100,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster14.txt@0010946e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster14.json",
+    "entry_points": 6,
+    "condition_edges": 38,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster15.txt@00109f93",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster15.json",
+    "entry_points": 6,
+    "condition_edges": 53,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/monster16.txt@0010b093",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster16.json",
+    "entry_points": 9,
+    "condition_edges": 24,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster17.txt@0010b8de",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster17.json",
+    "entry_points": 9,
+    "condition_edges": 38,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/monster18.txt@0010c3f0",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster18.json",
+    "entry_points": 4,
+    "condition_edges": 81,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/monster19.txt@0010d265",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster19.json",
+    "entry_points": 6,
+    "condition_edges": 28,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster20.txt@0010daab",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster20.json",
+    "entry_points": 8,
+    "condition_edges": 53,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/monster21.txt@0010ea8f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster21.json",
+    "entry_points": 6,
+    "condition_edges": 34,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster22.txt@0010f45e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster22.json",
+    "entry_points": 6,
+    "condition_edges": 29,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster23.txt@0010fd9c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster23.json",
+    "entry_points": 10,
+    "condition_edges": 59,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/monster24.txt@00110d30",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster24.json",
+    "entry_points": 8,
+    "condition_edges": 30,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster25.txt@00111698",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster25.json",
+    "entry_points": 7,
+    "condition_edges": 40,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/monster26.txt@001121ed",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster26.json",
+    "entry_points": 6,
+    "condition_edges": 68,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/monster27.txt@00113058",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster27.json",
+    "entry_points": 9,
+    "condition_edges": 50,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/monster28.txt@00113a69",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster28.json",
+    "entry_points": 10,
+    "condition_edges": 28,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster29.txt@001142d4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster29.json",
+    "entry_points": 6,
+    "condition_edges": 28,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster30.txt@00114d4f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster30.json",
+    "entry_points": 8,
+    "condition_edges": 26,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster31.txt@00115550",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster31.json",
+    "entry_points": 11,
+    "condition_edges": 39,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/monster32.txt@00115f72",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster32.json",
+    "entry_points": 5,
+    "condition_edges": 12,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/monster33.txt@001166cb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster33.json",
+    "entry_points": 6,
+    "condition_edges": 44,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster34.txt@001174b8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster34.json",
+    "entry_points": 9,
+    "condition_edges": 33,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster35.txt@00117cf8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster35.json",
+    "entry_points": 5,
+    "condition_edges": 75,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster36.txt@00118bbb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster36.json",
+    "entry_points": 5,
+    "condition_edges": 10,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/monster37.txt@001191d4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster37.json",
+    "entry_points": 6,
+    "condition_edges": 27,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/monster38.txt@00119e5f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster38.json",
+    "entry_points": 5,
+    "condition_edges": 48,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster39.txt@0011ab65",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster39.json",
+    "entry_points": 9,
+    "condition_edges": 19,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster40.txt@0011b3c0",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster40.json",
+    "entry_points": 9,
+    "condition_edges": 20,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster41.txt@0011bc75",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster41.json",
+    "entry_points": 9,
+    "condition_edges": 18,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster42.txt@0011c39b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster42.json",
+    "entry_points": 5,
+    "condition_edges": 39,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster43.txt@0011d21b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster43.json",
+    "entry_points": 5,
+    "condition_edges": 67,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster44.txt@0011e000",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster44.json",
+    "entry_points": 8,
+    "condition_edges": 30,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster45.txt@0011e8c3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster45.json",
+    "entry_points": 8,
+    "condition_edges": 20,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster46.txt@0011efc1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster46.json",
+    "entry_points": 8,
+    "condition_edges": 20,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster47.txt@0011f682",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster47.json",
+    "entry_points": 8,
+    "condition_edges": 21,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster48.txt@0011fd8b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster48.json",
+    "entry_points": 8,
+    "condition_edges": 20,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster49.txt@00120549",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster49.json",
+    "entry_points": 13,
+    "condition_edges": 37,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/monster50.txt@00120c7e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster50.json",
+    "entry_points": 8,
+    "condition_edges": 22,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster51.txt@001213bf",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster51.json",
+    "entry_points": 8,
+    "condition_edges": 20,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster52.txt@00121a91",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster52.json",
+    "entry_points": 8,
+    "condition_edges": 21,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster53.txt@001221ea",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster53.json",
+    "entry_points": 8,
+    "condition_edges": 20,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster54.txt@001228b5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster54.json",
+    "entry_points": 8,
+    "condition_edges": 34,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster55.txt@0012355d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster55.json",
+    "entry_points": 5,
+    "condition_edges": 85,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/monster56.txt@00124373",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster56.json",
+    "entry_points": 11,
+    "condition_edges": 31,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/monster57.txt@00124f54",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster57.json",
+    "entry_points": 8,
+    "condition_edges": 24,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster58.txt@00125639",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster58.json",
+    "entry_points": 5,
+    "condition_edges": 22,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/monster59.txt@00125da2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster59.json",
+    "entry_points": 8,
+    "condition_edges": 38,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster60.txt@00126afc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster60.json",
+    "entry_points": 5,
+    "condition_edges": 29,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/monster61.txt@0012763e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster61.json",
+    "entry_points": 5,
+    "condition_edges": 24,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/monster62.txt@00128071",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster62.json",
+    "entry_points": 8,
+    "condition_edges": 30,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster63.txt@00128860",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster63.json",
+    "entry_points": 8,
+    "condition_edges": 29,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster64.txt@00129056",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster64.json",
+    "entry_points": 8,
+    "condition_edges": 24,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster65.txt@00129b26",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster65.json",
+    "entry_points": 8,
+    "condition_edges": 21,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster66.txt@0012a47c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster66.json",
+    "entry_points": 8,
+    "condition_edges": 38,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster67.txt@0012b125",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster67.json",
+    "entry_points": 8,
+    "condition_edges": 26,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster68.txt@0012bcf7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster68.json",
+    "entry_points": 5,
+    "condition_edges": 24,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/monster69.txt@0012c4d6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster69.json",
+    "entry_points": 8,
+    "condition_edges": 27,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster70.txt@0012d003",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster70.json",
+    "entry_points": 5,
+    "condition_edges": 35,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/monster71.txt@0012d9ea",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster71.json",
+    "entry_points": 5,
+    "condition_edges": 65,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster72.txt@0012e7c9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster72.json",
+    "entry_points": 9,
+    "condition_edges": 23,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster73.txt@0012ef00",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster73.json",
+    "entry_points": 8,
+    "condition_edges": 41,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster74.txt@0012fc1a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster74.json",
+    "entry_points": 8,
+    "condition_edges": 46,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster75.txt@00130798",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster75.json",
+    "entry_points": 8,
+    "condition_edges": 51,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster76.txt@001315a4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster76.json",
+    "entry_points": 9,
+    "condition_edges": 40,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster77.txt@00132547",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster77.json",
+    "entry_points": 9,
+    "condition_edges": 45,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster78.txt@00133448",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster78.json",
+    "entry_points": 7,
+    "condition_edges": 45,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/monster79.txt@001343ac",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster79.json",
+    "entry_points": 10,
+    "condition_edges": 161,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/monster80.txt@00135fe6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster80.json",
+    "entry_points": 5,
+    "condition_edges": 45,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/monster81.txt@00136f43",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/monster81.json",
+    "entry_points": 9,
+    "condition_edges": 49,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/PP.txt@00137dbf",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/PP.json",
+    "entry_points": 1,
+    "condition_edges": 26,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/rock00.txt@0013865d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/rock00.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/ROCK00_ICE.txt@0013884f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/ROCK00_ICE.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/rock00a.txt@00138a44",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/rock00a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/rock01.txt@00138c38",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/rock01.json",
+    "entry_points": 1,
+    "condition_edges": 16,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Run_smoke.txt@00139168",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Run_smoke.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/s1000.txt@0013939a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1000.json",
+    "entry_points": 8,
+    "condition_edges": 40,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1001.txt@0013a0e8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1001.json",
+    "entry_points": 15,
+    "condition_edges": 77,
+    "message_routes": 12
+  },
+  {
+    "id": "GameData:BattleScript/s1002.txt@0013ab91",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1002.json",
+    "entry_points": 8,
+    "condition_edges": 76,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1003.txt@0013be51",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1003.json",
+    "entry_points": 9,
+    "condition_edges": 53,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1004.txt@0013cce3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1004.json",
+    "entry_points": 19,
+    "condition_edges": 94,
+    "message_routes": 17
+  },
+  {
+    "id": "GameData:BattleScript/s1005.txt@0013d9eb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1005.json",
+    "entry_points": 11,
+    "condition_edges": 137,
+    "message_routes": 13
+  },
+  {
+    "id": "GameData:BattleScript/s1006.txt@0013f4af",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1006.json",
+    "entry_points": 12,
+    "condition_edges": 98,
+    "message_routes": 8
+  },
+  {
+    "id": "GameData:BattleScript/s1007.txt@00140b75",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1007.json",
+    "entry_points": 16,
+    "condition_edges": 209,
+    "message_routes": 15
+  },
+  {
+    "id": "GameData:BattleScript/s1008.txt@001433b8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1008.json",
+    "entry_points": 5,
+    "condition_edges": 39,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/s1008_01.txt@00144366",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1008_01.json",
+    "entry_points": 2,
+    "condition_edges": 11,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1009.txt@00144c60",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1009.json",
+    "entry_points": 7,
+    "condition_edges": 78,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1010.txt@00145e76",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1010.json",
+    "entry_points": 6,
+    "condition_edges": 53,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/s1011.txt@00147007",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1011.json",
+    "entry_points": 8,
+    "condition_edges": 63,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1012.txt@001481ec",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1012.json",
+    "entry_points": 7,
+    "condition_edges": 99,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/s1013.txt@001497ec",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1013.json",
+    "entry_points": 8,
+    "condition_edges": 109,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1014.txt@0014b079",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1014.json",
+    "entry_points": 13,
+    "condition_edges": 103,
+    "message_routes": 13
+  },
+  {
+    "id": "GameData:BattleScript/s1014_01.txt@0014c8f3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1014_01.json",
+    "entry_points": 2,
+    "condition_edges": 9,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1014_02.txt@0014d0cf",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1014_02.json",
+    "entry_points": 2,
+    "condition_edges": 10,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1015.txt@0014da37",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1015.json",
+    "entry_points": 16,
+    "condition_edges": 168,
+    "message_routes": 18
+  },
+  {
+    "id": "GameData:BattleScript/s1015_01.txt@0014fdda",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1015_01.json",
+    "entry_points": 2,
+    "condition_edges": 7,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1015_02.txt@001505bd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1015_02.json",
+    "entry_points": 2,
+    "condition_edges": 5,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1016.txt@00150d91",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1016.json",
+    "entry_points": 5,
+    "condition_edges": 39,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/s1017.txt@00151975",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1017.json",
+    "entry_points": 6,
+    "condition_edges": 128,
+    "message_routes": 8
+  },
+  {
+    "id": "GameData:BattleScript/s1018.txt@001533bb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1018.json",
+    "entry_points": 6,
+    "condition_edges": 44,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1019.txt@001540e8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1019.json",
+    "entry_points": 7,
+    "condition_edges": 80,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1019_.txt@00154fd6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1019_.json",
+    "entry_points": 20,
+    "condition_edges": 199,
+    "message_routes": 40
+  },
+  {
+    "id": "GameData:BattleScript/s1020.txt@0015697c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1020.json",
+    "entry_points": 6,
+    "condition_edges": 50,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/s1021.txt@0015790d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1021.json",
+    "entry_points": 6,
+    "condition_edges": 148,
+    "message_routes": 8
+  },
+  {
+    "id": "GameData:BattleScript/s1022.txt@001596fa",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1022.json",
+    "entry_points": 6,
+    "condition_edges": 57,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1022_00.txt@0015a6f5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1022_00.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/s1022_01.txt@0015aec3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1022_01.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/s1023.txt@0015b6f5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1023.json",
+    "entry_points": 40,
+    "condition_edges": 331,
+    "message_routes": 75
+  },
+  {
+    "id": "GameData:BattleScript/s1023_00.txt@0015e2be",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1023_00.json",
+    "entry_points": 1,
+    "condition_edges": 20,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/s1024.txt@0015ebc8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1024.json",
+    "entry_points": 5,
+    "condition_edges": 75,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/s1025.txt@0015fd33",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1025.json",
+    "entry_points": 11,
+    "condition_edges": 80,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/s1026.txt@00160aff",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1026.json",
+    "entry_points": 10,
+    "condition_edges": 116,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1027.txt@0016227a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1027.json",
+    "entry_points": 6,
+    "condition_edges": 70,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1027_01.txt@0016363f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1027_01.json",
+    "entry_points": 2,
+    "condition_edges": 27,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1028.txt@001643ae",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1028.json",
+    "entry_points": 6,
+    "condition_edges": 67,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/s1028_01.txt@001658b2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1028_01.json",
+    "entry_points": 2,
+    "condition_edges": 9,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1029.txt@001661aa",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1029.json",
+    "entry_points": 5,
+    "condition_edges": 56,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/s1029_01.txt@00167585",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1029_01.json",
+    "entry_points": 2,
+    "condition_edges": 23,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1029_02.txt@00168290",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1029_02.json",
+    "entry_points": 2,
+    "condition_edges": 3,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1030.txt@001686f5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1030.json",
+    "entry_points": 5,
+    "condition_edges": 61,
+    "message_routes": 2
+  },
+  {
+    "id": "GameData:BattleScript/s1031.txt@00169a49",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1031.json",
+    "entry_points": 9,
+    "condition_edges": 148,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1031_01.txt@0016bb37",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1031_01.json",
+    "entry_points": 2,
+    "condition_edges": 6,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1031_02.txt@0016c330",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1031_02.json",
+    "entry_points": 3,
+    "condition_edges": 12,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1032.txt@0016cd37",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1032.json",
+    "entry_points": 9,
+    "condition_edges": 45,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/S1032_.TXT@0016dab9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/S1032_.json",
+    "entry_points": 9,
+    "condition_edges": 27,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1033.txt@0016e834",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1033.json",
+    "entry_points": 6,
+    "condition_edges": 43,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1034.txt@0016f71d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1034.json",
+    "entry_points": 8,
+    "condition_edges": 81,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/s1035.txt@00170905",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1035.json",
+    "entry_points": 6,
+    "condition_edges": 51,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1036.txt@001718f1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1036.json",
+    "entry_points": 7,
+    "condition_edges": 90,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/s1037.txt@001734e2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1037.json",
+    "entry_points": 6,
+    "condition_edges": 49,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1038.txt@00174355",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1038.json",
+    "entry_points": 11,
+    "condition_edges": 285,
+    "message_routes": 15
+  },
+  {
+    "id": "GameData:BattleScript/s1039.txt@00177524",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1039.json",
+    "entry_points": 6,
+    "condition_edges": 84,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1040.txt@001789f2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1040.json",
+    "entry_points": 9,
+    "condition_edges": 71,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1041.txt@00179cdd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1041.json",
+    "entry_points": 10,
+    "condition_edges": 61,
+    "message_routes": 13
+  },
+  {
+    "id": "GameData:BattleScript/s1042.txt@0017aa41",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1042.json",
+    "entry_points": 9,
+    "condition_edges": 75,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1043.txt@0017bd7c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1043.json",
+    "entry_points": 11,
+    "condition_edges": 78,
+    "message_routes": 18
+  },
+  {
+    "id": "GameData:BattleScript/s1044.txt@0017cc05",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1044.json",
+    "entry_points": 11,
+    "condition_edges": 137,
+    "message_routes": 22
+  },
+  {
+    "id": "GameData:BattleScript/s1045.txt@0017e57a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1045.json",
+    "entry_points": 8,
+    "condition_edges": 138,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/s1046.txt@00180243",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1046.json",
+    "entry_points": 11,
+    "condition_edges": 153,
+    "message_routes": 13
+  },
+  {
+    "id": "GameData:BattleScript/s1047.txt@00181cb8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1047.json",
+    "entry_points": 14,
+    "condition_edges": 227,
+    "message_routes": 46
+  },
+  {
+    "id": "GameData:BattleScript/s1048.txt@00183884",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1048.json",
+    "entry_points": 7,
+    "condition_edges": 82,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1049.txt@00184bd4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1049.json",
+    "entry_points": 7,
+    "condition_edges": 51,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1050.txt@00185c4b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1050.json",
+    "entry_points": 7,
+    "condition_edges": 86,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1051.txt@001870ea",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1051.json",
+    "entry_points": 7,
+    "condition_edges": 55,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1052.txt@001882bb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1052.json",
+    "entry_points": 7,
+    "condition_edges": 81,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1053.txt@001896c9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1053.json",
+    "entry_points": 7,
+    "condition_edges": 60,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1054.txt@0018a806",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1054.json",
+    "entry_points": 10,
+    "condition_edges": 129,
+    "message_routes": 11
+  },
+  {
+    "id": "GameData:BattleScript/s1055.txt@0018c21a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1055.json",
+    "entry_points": 11,
+    "condition_edges": 129,
+    "message_routes": 12
+  },
+  {
+    "id": "GameData:BattleScript/s1056.txt@0018daf6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1056.json",
+    "entry_points": 9,
+    "condition_edges": 52,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1057.txt@0018e94f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1057.json",
+    "entry_points": 11,
+    "condition_edges": 100,
+    "message_routes": 21
+  },
+  {
+    "id": "GameData:BattleScript/s1058.txt@0018fc1e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1058.json",
+    "entry_points": 10,
+    "condition_edges": 73,
+    "message_routes": 16
+  },
+  {
+    "id": "GameData:BattleScript/s1059.txt@00190b3d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1059.json",
+    "entry_points": 8,
+    "condition_edges": 99,
+    "message_routes": 8
+  },
+  {
+    "id": "GameData:BattleScript/s1060.txt@00191e1f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1060.json",
+    "entry_points": 7,
+    "condition_edges": 40,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1061.txt@00192d25",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1061.json",
+    "entry_points": 10,
+    "condition_edges": 113,
+    "message_routes": 15
+  },
+  {
+    "id": "GameData:BattleScript/s1062.txt@001946bb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1062.json",
+    "entry_points": 16,
+    "condition_edges": 211,
+    "message_routes": 29
+  },
+  {
+    "id": "GameData:BattleScript/s1063.txt@00196bd3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1063.json",
+    "entry_points": 24,
+    "condition_edges": 326,
+    "message_routes": 38
+  },
+  {
+    "id": "GameData:BattleScript/s1063_cloningscript.txt@00199c50",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1063_cloningscript.json",
+    "entry_points": 1,
+    "condition_edges": 20,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/s1063_cloningscript_a.txt@0019a4cd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1063_cloningscript_a.json",
+    "entry_points": 1,
+    "condition_edges": 14,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1063_cloningscript_b.txt@0019af9a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1063_cloningscript_b.json",
+    "entry_points": 1,
+    "condition_edges": 14,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1063_cloningscript_c.txt@0019ba68",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1063_cloningscript_c.json",
+    "entry_points": 1,
+    "condition_edges": 14,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1063_cloningscript_d.txt@0019c53a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1063_cloningscript_d.json",
+    "entry_points": 1,
+    "condition_edges": 14,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1063_cloningscript_e.txt@0019d00a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1063_cloningscript_e.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1063_cloningscript_f.txt@0019d9db",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1063_cloningscript_f.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/s1064.txt@0019e3ab",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1064.json",
+    "entry_points": 7,
+    "condition_edges": 83,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1065.txt@0019f0a2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1065.json",
+    "entry_points": 7,
+    "condition_edges": 50,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1066.txt@0019fa9f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1066.json",
+    "entry_points": 10,
+    "condition_edges": 149,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/s1067.txt@001a1342",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1067.json",
+    "entry_points": 7,
+    "condition_edges": 62,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1068.txt@001a2351",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1068.json",
+    "entry_points": 10,
+    "condition_edges": 185,
+    "message_routes": 11
+  },
+  {
+    "id": "GameData:BattleScript/s1068_.txt@001a43f9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1068_.json",
+    "entry_points": 1,
+    "condition_edges": 10,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/s1068_00.txt@001a4b77",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1068_00.json",
+    "entry_points": 1,
+    "condition_edges": 15,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/s1069.txt@001a54cd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1069.json",
+    "entry_points": 9,
+    "condition_edges": 64,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1070.txt@001a63f3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1070.json",
+    "entry_points": 9,
+    "condition_edges": 66,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1071.txt@001a73d6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1071.json",
+    "entry_points": 7,
+    "condition_edges": 34,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1072.txt@001a805f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1072.json",
+    "entry_points": 17,
+    "condition_edges": 204,
+    "message_routes": 20
+  },
+  {
+    "id": "GameData:BattleScript/s1073.txt@001a9dcd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1073.json",
+    "entry_points": 8,
+    "condition_edges": 67,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1074.txt@001aaf22",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1074.json",
+    "entry_points": 9,
+    "condition_edges": 139,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1075.txt@001acad5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1075.json",
+    "entry_points": 12,
+    "condition_edges": 58,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/s1076.txt@001ad8e3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1076.json",
+    "entry_points": 8,
+    "condition_edges": 132,
+    "message_routes": 7
+  },
+  {
+    "id": "GameData:BattleScript/s1077.txt@001aefb4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1077.json",
+    "entry_points": 8,
+    "condition_edges": 34,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1078.txt@001afc27",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1078.json",
+    "entry_points": 12,
+    "condition_edges": 90,
+    "message_routes": 11
+  },
+  {
+    "id": "GameData:BattleScript/s1079.txt@001b10d1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1079.json",
+    "entry_points": 8,
+    "condition_edges": 69,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1080.txt@001b259d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1080.json",
+    "entry_points": 8,
+    "condition_edges": 84,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1081.txt@001b39c2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1081.json",
+    "entry_points": 9,
+    "condition_edges": 61,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1081_2.txt@001b4a87",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1081_2.json",
+    "entry_points": 9,
+    "condition_edges": 61,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1082.txt@001b5b43",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1082.json",
+    "entry_points": 9,
+    "condition_edges": 124,
+    "message_routes": 13
+  },
+  {
+    "id": "GameData:BattleScript/s1082_2.txt@001b72a9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1082_2.json",
+    "entry_points": 9,
+    "condition_edges": 124,
+    "message_routes": 13
+  },
+  {
+    "id": "GameData:BattleScript/s1083.txt@001b8a19",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1083.json",
+    "entry_points": 10,
+    "condition_edges": 70,
+    "message_routes": 9
+  },
+  {
+    "id": "GameData:BattleScript/s1084.txt@001b9ae0",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1084.json",
+    "entry_points": 8,
+    "condition_edges": 53,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/s1097.txt@001ba9fd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1097.json",
+    "entry_points": 10,
+    "condition_edges": 56,
+    "message_routes": 13
+  },
+  {
+    "id": "GameData:BattleScript/s1098.txt@001bb7eb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1098.json",
+    "entry_points": 8,
+    "condition_edges": 43,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1099.txt@001bc583",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1099.json",
+    "entry_points": 7,
+    "condition_edges": 35,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1100.txt@001bce5c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1100.json",
+    "entry_points": 7,
+    "condition_edges": 41,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1101.txt@001bdbb4",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1101.json",
+    "entry_points": 5,
+    "condition_edges": 35,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1102.txt@001be58f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1102.json",
+    "entry_points": 8,
+    "condition_edges": 25,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/s1127.txt@001bef28",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1127.json",
+    "entry_points": 8,
+    "condition_edges": 22,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1128.txt@001bf66e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1128.json",
+    "entry_points": 8,
+    "condition_edges": 29,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1129.txt@001c01b5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1129.json",
+    "entry_points": 8,
+    "condition_edges": 23,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1130.txt@001c090c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1130.json",
+    "entry_points": 7,
+    "condition_edges": 28,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1131.txt@001c1455",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1131.json",
+    "entry_points": 7,
+    "condition_edges": 39,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1132.txt@001c221a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1132.json",
+    "entry_points": 7,
+    "condition_edges": 37,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1133.txt@001c2d69",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1133.json",
+    "entry_points": 8,
+    "condition_edges": 23,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1134.txt@001c34c1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1134.json",
+    "entry_points": 5,
+    "condition_edges": 37,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/s1137.txt@001c40e1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1137.json",
+    "entry_points": 7,
+    "condition_edges": 35,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1138.txt@001c49ba",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1138.json",
+    "entry_points": 7,
+    "condition_edges": 41,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1139.txt@001c570f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1139.json",
+    "entry_points": 8,
+    "condition_edges": 21,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1143.txt@001c5e13",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1143.json",
+    "entry_points": 8,
+    "condition_edges": 30,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1144.txt@001c67f2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1144.json",
+    "entry_points": 8,
+    "condition_edges": 34,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/s1145.txt@001c72a2",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1145.json",
+    "entry_points": 8,
+    "condition_edges": 21,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1146.txt@001c79db",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1146.json",
+    "entry_points": 5,
+    "condition_edges": 9,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/s1147.txt@001c7f17",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1147.json",
+    "entry_points": 8,
+    "condition_edges": 20,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1148.txt@001c8600",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1148.json",
+    "entry_points": 5,
+    "condition_edges": 9,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/s1149.txt@001c8b3b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1149.json",
+    "entry_points": 8,
+    "condition_edges": 24,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/s1150.txt@001c92a8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1150.json",
+    "entry_points": 5,
+    "condition_edges": 7,
+    "message_routes": 3
+  },
+  {
+    "id": "GameData:BattleScript/s1151.txt@001c97b9",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1151.json",
+    "entry_points": 11,
+    "condition_edges": 103,
+    "message_routes": 11
+  },
+  {
+    "id": "GameData:BattleScript/s1152.txt@001cab6b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/s1152.json",
+    "entry_points": 8,
+    "condition_edges": 76,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/setin.txt@001cbe40",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/setin.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/SETIN_BK.txt@001cc230",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/SETIN_BK.json",
+    "entry_points": 1,
+    "condition_edges": 14,
+    "message_routes": 1
+  },
+  {
+    "id": "GameData:BattleScript/shockwave.txt@001cca00",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/shockwave.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk000z06.txt@001ccf39",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk000z06.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_0131a.txt@001cd2bd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_0131a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_0141.txt@001cd5ca",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_0141.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_0451.txt@001cd960",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_0451.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_0451_.txt@001cdcba",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_0451_.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_0451a.txt@001ce01c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_0451a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_0451a_x90.txt@001ce601",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_0451a_x90.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_0451g.txt@001ce956",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_0451g.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_0521.txt@001cec77",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_0521.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_0896c.txt@001cef90",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_0896c.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/SK_2050e.txt@001cf29d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/SK_2050e.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/SK_2050e2.txt@001cf775",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/SK_2050e2.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_2300.txt@001cfc4a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_2300.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/SK_2300_2.txt@001cff6f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/SK_2300_2.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_2300a.txt@001d029d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_2300a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_th826.txt@001d05c5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_th826.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/sk_th906.txt@001d0b73",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/sk_th906.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/skice.txt@001d1150",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/skice.json",
+    "entry_points": 1,
+    "condition_edges": 9,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/skice_.txt@001d1926",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/skice_.json",
+    "entry_points": 1,
+    "condition_edges": 12,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/smk00.txt@001d21b1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/smk00.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/smk00a.txt@001d236f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/smk00a.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/smk00b.txt@001d252c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/smk00b.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/smk01.txt@001d26ea",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/smk01.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/smk01_db.txt@001d28a8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/smk01_db.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/smk01_Z.txt@001d2a5c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/smk01_Z.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/smk02.txt@001d2c14",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/smk02.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/smkrock.txt@001d3126",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/smkrock.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/smksk.txt@001d35af",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/smksk.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/smkz09.txt@001d3c85",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/smkz09.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/statemiss.txt@001d3e55",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/statemiss.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/stone.txt@001d45e3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/stone.json",
+    "entry_points": 1,
+    "condition_edges": 12,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/stone_01.txt@001d4d5a",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/stone_01.json",
+    "entry_points": 1,
+    "condition_edges": 12,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/stone_02.txt@001d54e0",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/stone_02.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/stone_03.txt@001d5c72",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/stone_03.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/stone_04.txt@001d6402",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/stone_04.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/stone_bk.txt@001d6b94",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/stone_bk.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/takana.txt@001d7137",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/takana.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/temp.txt@001d7789",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/temp.json",
+    "entry_points": 6,
+    "condition_edges": 38,
+    "message_routes": 5
+  },
+  {
+    "id": "GameData:BattleScript/test.txt@001d8288",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/test.json",
+    "entry_points": 10,
+    "condition_edges": 159,
+    "message_routes": 8
+  },
+  {
+    "id": "GameData:BattleScript/test1.txt@001da09e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/test1.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/Test2.txt@001da7c1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/Test2.json",
+    "entry_points": 5,
+    "condition_edges": 47,
+    "message_routes": 6
+  },
+  {
+    "id": "GameData:BattleScript/test_.txt@001db203",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/test_.json",
+    "entry_points": 7,
+    "condition_edges": 39,
+    "message_routes": 4
+  },
+  {
+    "id": "GameData:BattleScript/test_atk_dir.txt@001dbfc3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/test_atk_dir.json",
+    "entry_points": 13,
+    "condition_edges": 32,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/TestHumanCloningScript.txt@001dc471",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/TestHumanCloningScript.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/TextCallScript.txt@001dc81f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/TextCallScript.json",
+    "entry_points": 1,
+    "condition_edges": 5,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/thenew.txt@001dce43",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/thenew.json",
+    "entry_points": 8,
+    "condition_edges": 42,
+    "message_routes": 8
+  },
+  {
+    "id": "GameData:BattleScript/thunder.txt@001dd7cd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/thunder.json",
+    "entry_points": 1,
+    "condition_edges": 4,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/twis02.txt@001dda67",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/twis02.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/w001.txt@001ddc0c",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w001.json",
+    "entry_points": 33,
+    "condition_edges": 271,
+    "message_routes": 20
+  },
+  {
+    "id": "GameData:BattleScript/w002.txt@001e0e64",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w002.json",
+    "entry_points": 29,
+    "condition_edges": 150,
+    "message_routes": 24
+  },
+  {
+    "id": "GameData:BattleScript/w003.txt@001e2a36",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w003.json",
+    "entry_points": 35,
+    "condition_edges": 183,
+    "message_routes": 18
+  },
+  {
+    "id": "GameData:BattleScript/w004.txt@001e5550",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w004.json",
+    "entry_points": 32,
+    "condition_edges": 122,
+    "message_routes": 14
+  },
+  {
+    "id": "GameData:BattleScript/w005.txt@001e718f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w005.json",
+    "entry_points": 32,
+    "condition_edges": 212,
+    "message_routes": 14
+  },
+  {
+    "id": "GameData:BattleScript/w006.txt@001e9a4b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w006.json",
+    "entry_points": 31,
+    "condition_edges": 131,
+    "message_routes": 12
+  },
+  {
+    "id": "GameData:BattleScript/w007.txt@001eba42",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w007.json",
+    "entry_points": 30,
+    "condition_edges": 266,
+    "message_routes": 12
+  },
+  {
+    "id": "GameData:BattleScript/w008.txt@001ee81d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w008.json",
+    "entry_points": 40,
+    "condition_edges": 345,
+    "message_routes": 23
+  },
+  {
+    "id": "GameData:BattleScript/w009.txt@001f23e7",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w009.json",
+    "entry_points": 33,
+    "condition_edges": 173,
+    "message_routes": 15
+  },
+  {
+    "id": "GameData:BattleScript/w010.txt@001f49a1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w010.json",
+    "entry_points": 32,
+    "condition_edges": 131,
+    "message_routes": 15
+  },
+  {
+    "id": "GameData:BattleScript/w011.txt@001f67eb",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w011.json",
+    "entry_points": 28,
+    "condition_edges": 64,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/w012.txt@001f7b79",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w012.json",
+    "entry_points": 28,
+    "condition_edges": 64,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/w013.txt@001f8f07",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w013.json",
+    "entry_points": 31,
+    "condition_edges": 127,
+    "message_routes": 13
+  },
+  {
+    "id": "GameData:BattleScript/w014.txt@001fad17",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w014.json",
+    "entry_points": 28,
+    "condition_edges": 64,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/w015.txt@001fc0a5",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w015.json",
+    "entry_points": 28,
+    "condition_edges": 64,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/w016.txt@001fd433",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w016.json",
+    "entry_points": 28,
+    "condition_edges": 64,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/w017.txt@001fe7c1",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/w017.json",
+    "entry_points": 28,
+    "condition_edges": 64,
+    "message_routes": 10
+  },
+  {
+    "id": "GameData:BattleScript/water.txt@001ffb4f",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/water.json",
+    "entry_points": 1,
+    "condition_edges": 7,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/water00.txt@001fffe3",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/water00.json",
+    "entry_points": 1,
+    "condition_edges": 11,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/water01.txt@002005e8",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/water01.json",
+    "entry_points": 1,
+    "condition_edges": 12,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/water02.txt@00200c25",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/water02.json",
+    "entry_points": 1,
+    "condition_edges": 12,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/water03.txt@00201261",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/water03.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/water04.txt@002017cc",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/water04.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/water05.txt@00201d33",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/water05.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/waters1020.txt@0020229e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/waters1020.json",
+    "entry_points": 1,
+    "condition_edges": 13,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/wave.txt@0020296e",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/wave.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/wave00.txt@00202e9d",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/wave00.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/wave_big.txt@002033e6",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/wave_big.json",
+    "entry_points": 1,
+    "condition_edges": 2,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/waveg.txt@00203918",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/waveg.json",
+    "entry_points": 1,
+    "condition_edges": 3,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/X_0396.txt@00203ebd",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/X_0396.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/X_0396a.txt@00204800",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/X_0396a.json",
+    "entry_points": 1,
+    "condition_edges": 8,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/x_0456.txt@00204f1b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/x_0456.json",
+    "entry_points": 1,
+    "condition_edges": 6,
+    "message_routes": 0
+  },
+  {
+    "id": "GameData:BattleScript/合體攻擊.txt@00205447",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/合體攻擊.json",
+    "entry_points": 12,
+    "condition_edges": 152,
+    "message_routes": 12
+  },
+  {
+    "id": "GameData:BattleScript/合體攻擊_2.txt@00207696",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/合體攻擊_2.json",
+    "entry_points": 14,
+    "condition_edges": 145,
+    "message_routes": 11
+  },
+  {
+    "id": "GameData:BattleScript/合體攻擊_3_備份.txt@00209208",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/合體攻擊_3_備份.json",
+    "entry_points": 27,
+    "condition_edges": 142,
+    "message_routes": 11
+  },
+  {
+    "id": "GameData:BattleScript/複製 -0002_2.txt@0020b06b",
+    "path": "original_resources/organized/effects/control_graphs/BattleScript/複製 -0002_2.json",
+    "entry_points": 10,
+    "condition_edges": 92,
+    "message_routes": 2
+  }
+]

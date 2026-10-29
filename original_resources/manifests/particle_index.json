@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "GameData:Particle/0029a.par@0056fdc6",
+    "original_path": "Particle/0029a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/0029a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/0029b.par@0056feea",
+    "original_path": "Particle/0029b.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/0029b.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/0029c.par@0057000f",
+    "original_path": "Particle/0029c.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/0029c.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/_sk_0631_e.par@00570136",
+    "original_path": "Particle/_sk_0631_e.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/_sk_0631_e.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/blood00.par@005703a3",
+    "original_path": "Particle/blood00.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/blood00.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/blood01.par@005704c1",
+    "original_path": "Particle/blood01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/blood01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/blood02.par@005705ea",
+    "original_path": "Particle/blood02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/blood02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/blood04.par@0057070b",
+    "original_path": "Particle/blood04.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/blood04.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/fire01.par@0057094b",
+    "original_path": "Particle/fire01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/fire01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/fireStar.par@00570b81",
+    "original_path": "Particle/fireStar.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/fireStar.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/ghost.par@00570e02",
+    "original_path": "Particle/ghost.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/ghost.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/grace01.par@00571084",
+    "original_path": "Particle/grace01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/grace01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/hit_z07.par@0057130c",
+    "original_path": "Particle/hit_z07.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/hit_z07.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/jet.par@0057154e",
+    "original_path": "Particle/jet.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/jet.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/LvUp_00.par@005717e9",
+    "original_path": "Particle/LvUp_00.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/LvUp_00.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m110_ws.par@00571910",
+    "original_path": "Particle/m110_ws.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m110_ws.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m15_ws.par@00571b5c",
+    "original_path": "Particle/m15_ws.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m15_ws.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m40_leaf.par@00571daf",
+    "original_path": "Particle/m40_leaf.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m40_leaf.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m41_bhp.par@00572008",
+    "original_path": "Particle/m41_bhp.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m41_bhp.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m42_efc.par@00572256",
+    "original_path": "Particle/m42_efc.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m42_efc.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/M_BLUE01.PAR@005724a3",
+    "original_path": "Particle/M_BLUE01.PAR",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/M_BLUE01.PAR.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_blue033.par@005726e4",
+    "original_path": "Particle/m_blue033.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_blue033.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_blue044.par@00572924",
+    "original_path": "Particle/m_blue044.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_blue044.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_snow01.par@00572b60",
+    "original_path": "Particle/m_snow01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_snow01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_snow026001.par@00572db7",
+    "original_path": "Particle/m_snow026001.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_snow026001.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_snow031_1.par@0057300b",
+    "original_path": "Particle/m_snow031_1.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_snow031_1.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_snow054.par@00573260",
+    "original_path": "Particle/m_snow054.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_snow054.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_wsmoke01.par@005734b4",
+    "original_path": "Particle/m_wsmoke01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_wsmoke01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_wsmoke027.par@005736f1",
+    "original_path": "Particle/m_wsmoke027.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_wsmoke027.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_wsmoke03401.par@0057392f",
+    "original_path": "Particle/m_wsmoke03401.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_wsmoke03401.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_wsmoke03402.par@00573b71",
+    "original_path": "Particle/m_wsmoke03402.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_wsmoke03402.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/m_wsmoke04701.par@00573db1",
+    "original_path": "Particle/m_wsmoke04701.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/m_wsmoke04701.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/ms_021.par@00573ff2",
+    "original_path": "Particle/ms_021.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/ms_021.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/ms_032.par@0057423e",
+    "original_path": "Particle/ms_032.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/ms_032.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/ms_037.par@005744b6",
+    "original_path": "Particle/ms_037.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/ms_037.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/ms_037a.par@00574733",
+    "original_path": "Particle/ms_037a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/ms_037a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/ms_038.par@005749b8",
+    "original_path": "Particle/ms_038.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/ms_038.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/ms_038a.par@00574c3d",
+    "original_path": "Particle/ms_038a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/ms_038a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/ms_039.par@00574e9e",
+    "original_path": "Particle/ms_039.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/ms_039.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/ms_039a.par@005750e6",
+    "original_path": "Particle/ms_039a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/ms_039a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/ms_040.par@0057532e",
+    "original_path": "Particle/ms_040.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/ms_040.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/music_01.par@00575578",
+    "original_path": "Particle/music_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/music_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/music_02.par@005757eb",
+    "original_path": "Particle/music_02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/music_02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/music_03.par@00575a5e",
+    "original_path": "Particle/music_03.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/music_03.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/music_04.par@00575cd1",
+    "original_path": "Particle/music_04.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/music_04.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/rain01.par@00576191",
+    "original_path": "Particle/rain01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/rain01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0021.par@005763dc",
+    "original_path": "Particle/sk_0021.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0021.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0021_01.par@00576613",
+    "original_path": "Particle/sk_0021_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0021_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0021_02.par@0057684a",
+    "original_path": "Particle/sk_0021_02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0021_02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0021_03.par@00576a7f",
+    "original_path": "Particle/sk_0021_03.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0021_03.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0061.par@00576cb6",
+    "original_path": "Particle/sk_0061.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0061.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0091.par@00576f2e",
+    "original_path": "Particle/sk_0091.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0091.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0101.par@00577196",
+    "original_path": "Particle/sk_0101.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0101.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0101_1.par@005773e0",
+    "original_path": "Particle/sk_0101_1.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0101_1.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0101_2.par@0057762c",
+    "original_path": "Particle/sk_0101_2.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0101_2.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0101_3.par@0057782f",
+    "original_path": "Particle/sk_0101_3.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0101_3.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0101_4.par@00577a2d",
+    "original_path": "Particle/sk_0101_4.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0101_4.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0101_5.par@00577c2a",
+    "original_path": "Particle/sk_0101_5.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0101_5.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0101_5a.par@00577e2a",
+    "original_path": "Particle/sk_0101_5a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0101_5a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0101_5b.par@00578028",
+    "original_path": "Particle/sk_0101_5b.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0101_5b.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0101_6.par@00578228",
+    "original_path": "Particle/sk_0101_6.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0101_6.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0102.par@0057842d",
+    "original_path": "Particle/sk_0102.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0102.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0121.par@00578675",
+    "original_path": "Particle/sk_0121.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0121.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0141.par@005788ac",
+    "original_path": "Particle/sk_0141.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0141.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0141_2.par@00578afb",
+    "original_path": "Particle/sk_0141_2.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0141_2.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0151.par@00578d53",
+    "original_path": "Particle/sk_0151.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0151.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0201.par@00578f93",
+    "original_path": "Particle/sk_0201.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0201.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0201_01.par@005791dd",
+    "original_path": "Particle/sk_0201_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0201_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0201_a.par@00579429",
+    "original_path": "Particle/sk_0201_a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0201_a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0201a.par@00579675",
+    "original_path": "Particle/sk_0201a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0201a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0201a_01.par@005798c0",
+    "original_path": "Particle/sk_0201a_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0201a_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0201a_1a.par@00579b0c",
+    "original_path": "Particle/sk_0201a_1a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0201a_1a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0201b.par@00579d57",
+    "original_path": "Particle/sk_0201b.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0201b.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0201b_01.par@00579f9e",
+    "original_path": "Particle/sk_0201b_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0201b_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0201b_b.par@0057a1e7",
+    "original_path": "Particle/sk_0201b_b.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0201b_b.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0201b_x.par@0057a42f",
+    "original_path": "Particle/sk_0201b_x.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0201b_x.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0211.par@0057a6a6",
+    "original_path": "Particle/sk_0211.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0211.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0211_01.par@0057a8dc",
+    "original_path": "Particle/sk_0211_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0211_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0221.par@0057ab1e",
+    "original_path": "Particle/sk_0221.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0221.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0231.par@0057ad8c",
+    "original_path": "Particle/sk_0231.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0231.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0231a.par@0057aff9",
+    "original_path": "Particle/sk_0231a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0231a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0301.par@0057b266",
+    "original_path": "Particle/sk_0301.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0301.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0301_01.par@0057b4b2",
+    "original_path": "Particle/sk_0301_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0301_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0326.par@0057b6fe",
+    "original_path": "Particle/sk_0326.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0326.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0381.par@0057b936",
+    "original_path": "Particle/sk_0381.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0381.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0396.par@0057bb7b",
+    "original_path": "Particle/sk_0396.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0396.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0446.par@0057bdb7",
+    "original_path": "Particle/sk_0446.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0446.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0446a.par@0057bfef",
+    "original_path": "Particle/sk_0446a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0446a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0448.par@0057c267",
+    "original_path": "Particle/sk_0448.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0448.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0451.par@0057c49f",
+    "original_path": "Particle/sk_0451.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0451.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0521.par@0057c6f7",
+    "original_path": "Particle/sk_0521.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0521.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0521a.par@0057c96e",
+    "original_path": "Particle/sk_0521a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0521a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0571.par@0057cbe8",
+    "original_path": "Particle/sk_0571.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0571.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0571a.par@0057ce54",
+    "original_path": "Particle/sk_0571a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0571a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0581.par@0057d0c1",
+    "original_path": "Particle/sk_0581.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0581.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0581_1.par@0057d331",
+    "original_path": "Particle/sk_0581_1.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0581_1.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0591.par@0057d5b0",
+    "original_path": "Particle/sk_0591.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0591.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0631.par@0057d7f2",
+    "original_path": "Particle/sk_0631.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0631.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0631_d.par@0057da5b",
+    "original_path": "Particle/sk_0631_d.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0631_d.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0631_e.par@0057dcd2",
+    "original_path": "Particle/sk_0631_e.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0631_e.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0631a.par@0057df49",
+    "original_path": "Particle/sk_0631a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0631a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0631a_1.par@0057e1bc",
+    "original_path": "Particle/sk_0631a_1.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0631a_1.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0631a_d.par@0057e434",
+    "original_path": "Particle/sk_0631a_d.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0631a_d.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0636.par@0057e6b8",
+    "original_path": "Particle/sk_0636.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0636.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0636_01.par@0057e8f3",
+    "original_path": "Particle/sk_0636_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0636_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0639.par@0057eb2d",
+    "original_path": "Particle/sk_0639.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0639.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0646.par@0057ed69",
+    "original_path": "Particle/sk_0646.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0646.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0646_01.par@0057efd7",
+    "original_path": "Particle/sk_0646_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0646_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0646_02.par@0057f24f",
+    "original_path": "Particle/sk_0646_02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0646_02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0656.par@0057f4cb",
+    "original_path": "Particle/sk_0656.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0656.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0656_01.par@0057f739",
+    "original_path": "Particle/sk_0656_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0656_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0776.par@0057f9b5",
+    "original_path": "Particle/sk_0776.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0776.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0801.par@0057fbf5",
+    "original_path": "Particle/sk_0801.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0801.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0801_01.par@0057fe4b",
+    "original_path": "Particle/sk_0801_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0801_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0816.par@005800a1",
+    "original_path": "Particle/sk_0816.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0816.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0816a.par@005802e8",
+    "original_path": "Particle/sk_0816a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0816a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0816b.par@00580535",
+    "original_path": "Particle/sk_0816b.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0816b.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0851.par@00580779",
+    "original_path": "Particle/sk_0851.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0851.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0851a.par@005809e7",
+    "original_path": "Particle/sk_0851a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0851a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0876.par@00580c44",
+    "original_path": "Particle/sk_0876.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0876.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0896.par@00580e92",
+    "original_path": "Particle/sk_0896.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0896.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0936.par@005810ed",
+    "original_path": "Particle/sk_0936.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0936.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0956.par@00581340",
+    "original_path": "Particle/sk_0956.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0956.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0956_01.par@005815b3",
+    "original_path": "Particle/sk_0956_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0956_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0956a.par@0058182c",
+    "original_path": "Particle/sk_0956a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0956a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0966.par@00581a4f",
+    "original_path": "Particle/sk_0966.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0966.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0966a.par@00581c8c",
+    "original_path": "Particle/sk_0966a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0966a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0976.par@00581ed0",
+    "original_path": "Particle/sk_0976.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0976.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_0981.par@0058211f",
+    "original_path": "Particle/sk_0981.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_0981.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_1056.par@0058236a",
+    "original_path": "Particle/sk_1056.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_1056.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_1056a.par@005825d3",
+    "original_path": "Particle/sk_1056a.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_1056a.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_1116.par@0058285d",
+    "original_path": "Particle/sk_1116.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_1116.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_2020.par@00582aca",
+    "original_path": "Particle/sk_2020.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_2020.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_snow00.par@00582d1c",
+    "original_path": "Particle/sk_snow00.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_snow00.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/sk_snow01.par@00582f1b",
+    "original_path": "Particle/sk_snow01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/sk_snow01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke01.par@0058311d",
+    "original_path": "Particle/smoke01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke02.par@00583373",
+    "original_path": "Particle/smoke02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke03.par@005835c4",
+    "original_path": "Particle/smoke03.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke03.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke04.par@00583803",
+    "original_path": "Particle/smoke04.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke04.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke05.par@00583a50",
+    "original_path": "Particle/smoke05.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke05.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke06.par@00583c96",
+    "original_path": "Particle/smoke06.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke06.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke07.par@00583ee2",
+    "original_path": "Particle/smoke07.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke07.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke08.par@0058413e",
+    "original_path": "Particle/smoke08.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke08.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke09.par@0058437d",
+    "original_path": "Particle/smoke09.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke09.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke10.par@005845c0",
+    "original_path": "Particle/smoke10.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke10.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke11.par@00584802",
+    "original_path": "Particle/smoke11.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke11.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/smoke12.par@00584a64",
+    "original_path": "Particle/smoke12.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/smoke12.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/snow01.par@00584caf",
+    "original_path": "Particle/snow01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/snow01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/snow02.par@00584efd",
+    "original_path": "Particle/snow02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/snow02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/snow03.par@00585146",
+    "original_path": "Particle/snow03.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/snow03.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/star01.par@0058539b",
+    "original_path": "Particle/star01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/star01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/star02.par@005855ea",
+    "original_path": "Particle/star02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/star02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/test.par@00585823",
+    "original_path": "Particle/test.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/test.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 1,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/Thread.par@00585ac4",
+    "original_path": "Particle/Thread.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/Thread.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/title.par@00585ca0",
+    "original_path": "Particle/title.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/title.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/trajectory.par@00585f26",
+    "original_path": "Particle/trajectory.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/trajectory.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/UseTool_00.par@005861bc",
+    "original_path": "Particle/UseTool_00.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/UseTool_00.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/UseTool_01.par@00586431",
+    "original_path": "Particle/UseTool_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/UseTool_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/UseTool_02.par@005866a6",
+    "original_path": "Particle/UseTool_02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/UseTool_02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/UseTool_03.par@0058691b",
+    "original_path": "Particle/UseTool_03.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/UseTool_03.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/UseTool_04.par@00586b90",
+    "original_path": "Particle/UseTool_04.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/UseTool_04.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/UseTool_05.par@00586e05",
+    "original_path": "Particle/UseTool_05.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/UseTool_05.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/water_m48.par@0058707a",
+    "original_path": "Particle/water_m48.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/water_m48.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_0601_fireStar.par@005872c0",
+    "original_path": "Particle/wf5_0601_fireStar.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_0601_fireStar.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_bobo.par@0058753c",
+    "original_path": "Particle/wf5_bobo.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_bobo.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m008_star01.par@005877c4",
+    "original_path": "Particle/wf5_m008_star01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m008_star01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m020_snow2.par@00587a14",
+    "original_path": "Particle/wf5_m020_snow2.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m020_snow2.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m021_LightBall.par@00587c65",
+    "original_path": "Particle/wf5_m021_LightBall.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m021_LightBall.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m024_waterfog01.par@00587ea2",
+    "original_path": "Particle/wf5_m024_waterfog01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m024_waterfog01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m024_waterfog02.par@00588100",
+    "original_path": "Particle/wf5_m024_waterfog02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m024_waterfog02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m032_smoke01.par@0058835c",
+    "original_path": "Particle/wf5_m032_smoke01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m032_smoke01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m033_shotwater.par@005885a0",
+    "original_path": "Particle/wf5_m033_shotwater.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m033_shotwater.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m033_snh.par@005887f9",
+    "original_path": "Particle/wf5_m033_snh.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m033_snh.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m034_grace.par@00588a82",
+    "original_path": "Particle/wf5_m034_grace.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m034_grace.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m099_smoke01.par@00588d0a",
+    "original_path": "Particle/wf5_m099_smoke01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m099_smoke01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m099_smoke02.par@00588f5a",
+    "original_path": "Particle/wf5_m099_smoke02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m099_smoke02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/WF5_M12_ghost.par@005891aa",
+    "original_path": "Particle/WF5_M12_ghost.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/WF5_M12_ghost.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m35_fish.par@0058942f",
+    "original_path": "Particle/wf5_m35_fish.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m35_fish.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m36_smoke01.par@00589683",
+    "original_path": "Particle/wf5_m36_smoke01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m36_smoke01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_m36_smoke02.par@005898d1",
+    "original_path": "Particle/wf5_m36_smoke02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_m36_smoke02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/WF5_m_snow017.par@00589b20",
+    "original_path": "Particle/WF5_m_snow017.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/WF5_m_snow017.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/WF5_Par_M37_ghost.par@00589d7b",
+    "original_path": "Particle/WF5_Par_M37_ghost.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/WF5_Par_M37_ghost.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/WF5_Par_M41_ghost.par@0058a001",
+    "original_path": "Particle/WF5_Par_M41_ghost.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/WF5_Par_M41_ghost.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wf5_sk_966.par@0058a28e",
+    "original_path": "Particle/wf5_sk_966.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wf5_sk_966.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/WF5_snow0401.par@0058a4e7",
+    "original_path": "Particle/WF5_snow0401.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/WF5_snow0401.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/WF5_snow0601.par@0058a743",
+    "original_path": "Particle/WF5_snow0601.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/WF5_snow0601.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/WF5_snow0701.par@0058a98f",
+    "original_path": "Particle/WF5_snow0701.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/WF5_snow0701.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/WF5_snow1901.par@0058abda",
+    "original_path": "Particle/WF5_snow1901.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/WF5_snow1901.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/WF5_snow2601.par@0058ae1a",
+    "original_path": "Particle/WF5_snow2601.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/WF5_snow2601.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/WF5_snow2602.par@0058b06c",
+    "original_path": "Particle/WF5_snow2602.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/WF5_snow2602.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/wind01.par@0058b2b3",
+    "original_path": "Particle/wind01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/wind01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/複製 (2) -sk_0021.par@0058b4fc",
+    "original_path": "Particle/複製 (2) -sk_0021.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/複製 (2) -sk_0021.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/複製 (2) -sk_0656_01.par@0058b733",
+    "original_path": "Particle/複製 (2) -sk_0656_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/複製 (2) -sk_0656_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/複製 -sk_0326.par@0058b9ac",
+    "original_path": "Particle/複製 -sk_0326.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/複製 -sk_0326.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/複製 -sk_0656_01.par@0058bbe4",
+    "original_path": "Particle/複製 -sk_0656_01.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/複製 -sk_0656_01.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 25,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "GameData:Particle/複製 -star02.par@0058be5d",
+    "original_path": "Particle/複製 -star02.par",
+    "structured_path": "original_resources/organized/effects/material_data/GameData/Particle/複製 -star02.par.json",
+    "reference_rows": 1,
+    "unmatched_rows": 0,
+    "attribute_rows": 23,
+    "parse_issue_count": 0
+  }
+]

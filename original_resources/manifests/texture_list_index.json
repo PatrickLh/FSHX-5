@@ -1,0 +1,497 @@
+[
+  {
+    "id": "Texture:ghost/ghost.tl@01034eb3",
+    "original_path": "ghost/ghost.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/ghost/ghost.tl.json",
+    "reference_rows": 4,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/bobo.tl@012832d9",
+    "original_path": "particle/bobo.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/bobo.tl.json",
+    "reference_rows": 4,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/boom.tl@012842b6",
+    "original_path": "particle/boom.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/boom.tl.json",
+    "reference_rows": 6,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/Fish.tl@0128c439",
+    "original_path": "particle/Fish.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/Fish.tl.json",
+    "reference_rows": 4,
+    "unmatched_rows": 0,
+    "attribute_rows": 5,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/fs.tl@0128c9f9",
+    "original_path": "particle/fs.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/fs.tl.json",
+    "reference_rows": 5,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/grace.TL@0128da18",
+    "original_path": "particle/grace.TL",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/grace.TL.json",
+    "reference_rows": 6,
+    "unmatched_rows": 0,
+    "attribute_rows": 7,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/m40_leaf.tl@0128f25e",
+    "original_path": "particle/m40_leaf.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/m40_leaf.tl.json",
+    "reference_rows": 4,
+    "unmatched_rows": 0,
+    "attribute_rows": 5,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/m41_pt.tl@0128f430",
+    "original_path": "particle/m41_pt.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/m41_pt.tl.json",
+    "reference_rows": 4,
+    "unmatched_rows": 0,
+    "attribute_rows": 5,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/music_01.tl@01291c6d",
+    "original_path": "particle/music_01.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/music_01.tl.json",
+    "reference_rows": 5,
+    "unmatched_rows": 0,
+    "attribute_rows": 6,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/music_02.tl@01291d28",
+    "original_path": "particle/music_02.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/music_02.tl.json",
+    "reference_rows": 5,
+    "unmatched_rows": 0,
+    "attribute_rows": 6,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/music_03.tl@01291de3",
+    "original_path": "particle/music_03.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/music_03.tl.json",
+    "reference_rows": 5,
+    "unmatched_rows": 0,
+    "attribute_rows": 6,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/music_04.tl@01291e9e",
+    "original_path": "particle/music_04.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/music_04.tl.json",
+    "reference_rows": 5,
+    "unmatched_rows": 0,
+    "attribute_rows": 6,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/SakuraNoHana.tl@01298dad",
+    "original_path": "particle/SakuraNoHana.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/SakuraNoHana.tl.json",
+    "reference_rows": 10,
+    "unmatched_rows": 0,
+    "attribute_rows": 11,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0021.tl@012c7a8a",
+    "original_path": "particle/sk_0021.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0021.tl.json",
+    "reference_rows": 8,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0061.tl@012c7c1d",
+    "original_path": "particle/sk_0061.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0061.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0091.tl@012c7db2",
+    "original_path": "particle/sk_0091.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0091.tl.json",
+    "reference_rows": 8,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0141.tl@012c7f46",
+    "original_path": "particle/sk_0141.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0141.tl.json",
+    "reference_rows": 8,
+    "unmatched_rows": 0,
+    "attribute_rows": 9,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0221.tl@012c8126",
+    "original_path": "particle/sk_0221.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0221.tl.json",
+    "reference_rows": 9,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0231.tl@012c82bb",
+    "original_path": "particle/sk_0231.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0231.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0446.tl@012c8451",
+    "original_path": "particle/sk_0446.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0446.tl.json",
+    "reference_rows": 8,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0446a.tl@012c85e4",
+    "original_path": "particle/sk_0446a.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0446a.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0448.tl@012c8777",
+    "original_path": "particle/sk_0448.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0448.tl.json",
+    "reference_rows": 8,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0521.tl@012c890a",
+    "original_path": "particle/sk_0521.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0521.tl.json",
+    "reference_rows": 7,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0571.tl@012c8a9f",
+    "original_path": "particle/sk_0571.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0571.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0571a.tl@012c8c34",
+    "original_path": "particle/sk_0571a.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0571a.tl.json",
+    "reference_rows": 8,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0581.tl@012c8dca",
+    "original_path": "particle/sk_0581.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0581.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0646.tl@012c8f5f",
+    "original_path": "particle/sk_0646.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0646.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0656.tl@012c90f5",
+    "original_path": "particle/sk_0656.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0656.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0851.tl@012c928b",
+    "original_path": "particle/sk_0851.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0851.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0851a.tl@012c9421",
+    "original_path": "particle/sk_0851a.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0851a.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_0956.tl@012c95b7",
+    "original_path": "particle/sk_0956.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_0956.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/sk_1056.tl@012c974d",
+    "original_path": "particle/sk_1056.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/sk_1056.tl.json",
+    "reference_rows": 4,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/tfs.tl@012d175a",
+    "original_path": "particle/tfs.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/tfs.tl.json",
+    "reference_rows": 5,
+    "unmatched_rows": 0,
+    "attribute_rows": 2,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/UseTool_00.tl@012e3155",
+    "original_path": "particle/UseTool_00.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/UseTool_00.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 3,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/UseTool_01.tl@012e31fd",
+    "original_path": "particle/UseTool_01.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/UseTool_01.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 3,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/UseTool_02.tl@012e32a6",
+    "original_path": "particle/UseTool_02.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/UseTool_02.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 3,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/UseTool_03.tl@012e334f",
+    "original_path": "particle/UseTool_03.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/UseTool_03.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 3,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/UseTool_04.tl@012e33f8",
+    "original_path": "particle/UseTool_04.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/UseTool_04.tl.json",
+    "reference_rows": 2,
+    "unmatched_rows": 0,
+    "attribute_rows": 3,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:particle/wf5_sk_966.tl@012fa83e",
+    "original_path": "particle/wf5_sk_966.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/particle/wf5_sk_966.tl.json",
+    "reference_rows": 7,
+    "unmatched_rows": 0,
+    "attribute_rows": 8,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:sea/sea.tl@012fb1f2",
+    "original_path": "sea/sea.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/sea/sea.tl.json",
+    "reference_rows": 31,
+    "unmatched_rows": 31,
+    "attribute_rows": 33,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:WF5_m_sea01/WF5_m_sea01.tl@01480b4b",
+    "original_path": "WF5_m_sea01/WF5_m_sea01.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/WF5_m_sea01/WF5_m_sea01.tl.json",
+    "reference_rows": 31,
+    "unmatched_rows": 0,
+    "attribute_rows": 33,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:WF5_m_sea02/WF5_m_sea02.tl@0152b1c3",
+    "original_path": "WF5_m_sea02/WF5_m_sea02.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/WF5_m_sea02/WF5_m_sea02.tl.json",
+    "reference_rows": 30,
+    "unmatched_rows": 0,
+    "attribute_rows": 32,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:WF5_m_sea03/WF5_m_sea03.tl@0152b3df",
+    "original_path": "WF5_m_sea03/WF5_m_sea03.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/WF5_m_sea03/WF5_m_sea03.tl.json",
+    "reference_rows": 30,
+    "unmatched_rows": 0,
+    "attribute_rows": 32,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "Texture:WF5_m_sea02.tl@017b7b77",
+    "original_path": "WF5_m_sea02.tl",
+    "structured_path": "original_resources/organized/effects/material_data/Texture/WF5_m_sea02.tl.json",
+    "reference_rows": 30,
+    "unmatched_rows": 0,
+    "attribute_rows": 32,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:m01/WF5_m_sea01.tl@0027c5dc",
+    "original_path": "m01/WF5_m_sea01.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/m01/WF5_m_sea01.tl.json",
+    "reference_rows": 31,
+    "unmatched_rows": 0,
+    "attribute_rows": 33,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:m02/WF5_m_sea01.tl@0066319b",
+    "original_path": "m02/WF5_m_sea01.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/m02/WF5_m_sea01.tl.json",
+    "reference_rows": 31,
+    "unmatched_rows": 0,
+    "attribute_rows": 33,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:m02/WF5_m_sea02.tl@006633be",
+    "original_path": "m02/WF5_m_sea02.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/m02/WF5_m_sea02.tl.json",
+    "reference_rows": 30,
+    "unmatched_rows": 0,
+    "attribute_rows": 32,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:m02/WF5_m_sea03.tl@006635da",
+    "original_path": "m02/WF5_m_sea03.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/m02/WF5_m_sea03.tl.json",
+    "reference_rows": 30,
+    "unmatched_rows": 0,
+    "attribute_rows": 32,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:m024/WF5_m_sea03.tl@00e14800",
+    "original_path": "m024/WF5_m_sea03.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/m024/WF5_m_sea03.tl.json",
+    "reference_rows": 30,
+    "unmatched_rows": 0,
+    "attribute_rows": 32,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:m033/WF5_m_sea03.tl@01106b0a",
+    "original_path": "m033/WF5_m_sea03.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/m033/WF5_m_sea03.tl.json",
+    "reference_rows": 30,
+    "unmatched_rows": 0,
+    "attribute_rows": 32,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:m038/WF5_m_sea03.tl@01422d2d",
+    "original_path": "m038/WF5_m_sea03.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/m038/WF5_m_sea03.tl.json",
+    "reference_rows": 30,
+    "unmatched_rows": 0,
+    "attribute_rows": 32,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:M05/WF5_m_sea02.tl@016725ae",
+    "original_path": "M05/WF5_m_sea02.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/M05/WF5_m_sea02.tl.json",
+    "reference_rows": 30,
+    "unmatched_rows": 0,
+    "attribute_rows": 32,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:town/wm_sea.tl@03b2e5b7",
+    "original_path": "town/wm_sea.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/town/wm_sea.tl.json",
+    "reference_rows": 31,
+    "unmatched_rows": 0,
+    "attribute_rows": 33,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:town/wm_sea_.tl@03b2e7ca",
+    "original_path": "town/wm_sea_.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/town/wm_sea_.tl.json",
+    "reference_rows": 31,
+    "unmatched_rows": 0,
+    "attribute_rows": 33,
+    "parse_issue_count": 0
+  },
+  {
+    "id": "XFile:wf5_wmap/wm_sea.tl@042875a8",
+    "original_path": "wf5_wmap/wm_sea.tl",
+    "structured_path": "original_resources/organized/effects/material_data/XFile/wf5_wmap/wm_sea.tl.json",
+    "reference_rows": 31,
+    "unmatched_rows": 0,
+    "attribute_rows": 33,
+    "parse_issue_count": 0
+  }
+]
