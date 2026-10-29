@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-29",
+  "verification": "file counts and total byte sizes; legacy README amended with historical notice",
+  "directories": {
+    "origin": {
+      "files": 581,
+      "bytes": 1574901381,
+      "destination": "original_resources/source",
+      "after": {
+        "files": 581,
+        "bytes": 1574901381
+      }
+    },
+    "extracted": {
+      "files": 53812,
+      "bytes": 1909952683,
+      "destination": "original_resources/unpacked",
+      "after": {
+        "files": 53812,
+        "bytes": 1909952683
+      }
+    },
+    "story": {
+      "files": 919,
+      "bytes": 53531223,
+      "destination": "original_resources/organized/story",
+      "after": {
+        "files": 919,
+        "bytes": 53531223
+      }
+    },
+    "assets": {
+      "files": 1,
+      "bytes": 3963,
+      "destination": "original_resources/organized/legacy_assets",
+      "after": {
+        "files": 1,
+        "bytes": 4189
+      }
+    }
+  }
+}

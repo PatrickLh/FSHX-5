@@ -1,3 +1,6 @@
-origin/
-extracted/
+original_resources/source/
+original_resources/unpacked/
 tools/
+**/__pycache__/
+godot/.godot/
+.DS_Store
